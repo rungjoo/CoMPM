@@ -1,0 +1,658 @@
+F	Next.	ang
+M	Yes, me. Okay, okay here we go.	fru
+F	My window is open.	ang
+M	Okay, so filled out all these forms  --	fru
+M	and I have This form of ID here so...	fru
+M	Yes, Jones.	neu
+F	What are you... what's...What are you applying for?	fru
+M	I'm just applying for another ID.	fru
+M	Yes.  I'm supposed to have three forms of ID for this.  It's a long story, I'm supposed to have three forms of ID for this other job I really don't get into but I need another...	fru
+M	I have it right here, yes.	fru
+F	No, I need your ID to give you a second ID.	ang
+F	It's really simple if you have a problem with it... Maybe you should--	ang
+M	But that's...	fru
+M	That's why I'm here, that's why I was waiting in this line.  I need to get another form of ID.	fru
+M	No, I don't have a passport.	neu
+F	You have a birth certificate?	fru
+M	I don't where it is though, I don't have with me.  Can I get it from somewhere?  I mean...	fru
+F	What do you expect me to do?	ang
+M	I probably have to go wait another line to get my birth certificate don't I?	fru
+F	Probably.	ang
+M	You're very helpful.  What's your name?	fru
+M	So can you help me or not?	fru
+F	I am..I don't..I don't understand what you want.  A driver's license or a California ID.	fru
+M	Okay. [BREATHING]	fru
+M	I need California ID.	fru
+M	On top of these other two forms of ID which I already have.	fru
+M	No, I don't have driver's license.	fru
+M	Did you even look at the form?  I filled it out all these questions--	ang
+F	Don't raise your voice with me.	ang
+F	Don't talk to me like I'm a child.	ang
+M	Okay.	fru
+F	Do you know how long I've been working here? How long have you lived in California?	ang
+M	If it makes you stop acting like a child.	fru
+F	Maybe you never been to the D.M.V. before, maybe you should get back in line.  You know what?  sit in line again and if you get my number ask for different one.	ang
+M	I am not...I'm not getting to back that line.	ang
+M	Okay, okay let's keep our voices down, okay?  I didn't come here to get in yelling match.	fru
+M	I did not come in here to get in a yelling match with you, all right?	fru
+F	Uh huh.  I didn't come here get in yelling match either.	neu
+M	Just try and help me.	fru
+F	They don't pay me enough to deal people like you.	neu
+M	Why?	ang
+M	Why, because I'm sick of talking to you.	ang
+M	'Cause you're obviously not talking to me, you're just yelling at me, berating me and telling me I can't fill out forms right.	ang
+M	Oh, no honey. And you're going to miss the Christmas card too. It's a shame. It's going to be a good, nice picture.	fru
+
+F	Now and always sweet.	hap
+M	I don't care then.	hap
+F	It had to happen sooner or later.	hap
+F	[BREATHING]	exc
+F	Oh. Behave exquisitely...	hap
+M	With perfect poise...	hap
+F	[LAUGHTER] I think I shall do a court curtsey.	hap
+M	Ah...	hap
+F	[LAUGHTER]	hap
+M	Ah...Strange...	hap
+F	Mmm...	hap
+M	Things that just ought to matter dreadfully, you know they just don't matter at all when one is happy, do they?	hap
+M	Darling, don't say that.	sad
+F	Oh, yes meaning just that.	hap
+M	Oh, dear god what is that all mean, dear god?	hap
+F	[LAUGHTER] Don't laugh at me I'm being serious.	hap
+M	You mustn't be so serious, darling, it just what they want.	hap
+M	Flippancy brings out the acid in their darn sweetness and light.	hap
+F	Mmhmm If I must laugh at everything, I must laugh at us too.	hap
+F	How long will it last, this ludicrous, overbearing love of ours?	hap
+M	We are figures of fun all right	hap
+M	Ahh...who knows.	hap
+F	Shall we always want to bicker and fight?	hap
+F	If one of us dies...	hap
+F	I think you're talking nonsense.	hap
+M	Let's pity the poor philosophers, huh?  Let's enjoy the party for as long as we can, okay?  Let's blow trumpets and squeakers and sit like small idiotic school children. [LAUGHTER]	exc
+M	Come here darling, kiss me	exc
+M	before your body rots and worms pop out of your eye sockets.	hap
+M	See, you know I don't care what you do.  You could paint yourself green and run naked to the Place Vendome.	hap
+M	Do you remember that row we did have in Venice?	hap
+F	Which particular one?	hap
+F	Oh, Charles.  That was his name Charles. He did wriggle so beautifully.	exc
+M	But you know it wasn't as bad as the one we had in Cannes...mmhmm...where your curling irons burnt a hole in my dressing gown.	exc
+F	Cannes...mmhmm...	hap
+F	The manager came in he found us rolling about the floor.  [LAUGHTER]	hap
+M	I will never forget the look on his face.	hap
+F	Scratching and biting like panthers. [LAUGHTER] Oh...	hap
+M	oh...	hap
+F	Utterly, utterly ridiculous.	hap
+F	oh...[LAUGHTER]	hap
+M	We were very much younger then.	hap
+F	Very much sillier.	hap
+F	Oh you knew there was nothing in that.	exc
+
+F	It's almost time for me to go.	sad
+F	There's nothing I can do.  I mean, the government you know--	sad
+M	What--what're we gonna do here?  I can't--I can't do this by myself.  I--	fru
+F	You're gonna have to.  I mean, you're a great father.  You can do it.  I know you can.	sad
+M	But, I'm--I'm nothing--I'm nothing without you here.  Maybe we can--we can get out of this somehow.	fru
+F	I don't think so.	sad
+M	Well, come on.  You've gotta think of something.  A year--a year away, it's gonna tear us apart.  I don't even--I don't even wanna think about it.  I mean, I don't even know if I'll be able to get in touch with you or--	fru
+F	Well, we can do the best we can and-and, with um, you know like wireless internet these days--I think that we could-- Talk every once in awhile.	sad
+F	You could send me pictures.	sad
+M	What if--maybe--what if, uh, we went somewhere over there?  I don't--I don't know--I--I need to figure something out for this because--	fru
+F	Their not gonna let you.  You have to stay home and I have to go.  I mean, that's all--	sad
+F	and--I mean, my daughter--I don't want to put her in danger.  You know?  She has to stay.	sad
+M	This is gonna be a--a crucial yet--she's--she's growing up.  She's gonna need you.	fru
+F	I know, but, she needs to be safe more.  She needs to be around kids her age--own age.  She needs to be able to play on the streets and--	sad
+M	But she's--you're not gonna--you're not gonna be here for--for her first words.  For her first steps.  I mean--it's something that you're supposed to be here for that--	sad
+F	You can just remember it for me.	sad
+M	I don't know--I don't know--I don't know how--I don't know how this could even be possible for you--I--if I was--	fru
+F	Well, I need--I need you to be able to do this for me 'cause I can't do anything about it.	sad
+F	I mean, it's just as hard for me, but--I know that we can do it, you know	sad
+M	I mean, you just get to--go off and do your thing.  I mean, yeah, we're both--I don't know--it's bad for both of us, but--	fru
+M	...it would be so much better if we can--if we could stay together somehow.  You know--we could--we could do this together.	fru
+F	I don't want you in danger.  And I don't want her in danger.	sad
+F	I have no choice. There's nothing I can do.	sad
+M	All right.	sad
+
+M	So, how's it going?	neu
+M	Oh, you got what?  Where?	exc
+F	I got into U.S.C.	exc
+M	Oh, no way.	exc
+F	Yeah, I'm so excited.  So I'm gonna say--	exc
+M	Are you gonna go? you gonna-	exc
+F	Yeah, I think, I mean because where else would I gonna go?  Like the other places that I applied to I really didn't like that much anyway.	exc
+F	So--	exc
+M	Wow, that's...	exc
+M	...that's first choice, huh? That's so awesome and now look you're gonna be--you're gonna be here. you know	exc
+F	Yeah, I know.	exc
+F	Absolutely. I'm so excited.	exc
+F	I know.  I know. And we'll all get to hang out.  And I'm--even though we'll be at like at different parts of the city, we can still, like...	exc
+F	...hang out and, like, have our different lives--And meet each other's friends and stuff.  So, I'm just so glad 'cause they have such a good school	exc
+M	Yeah, no, definitely--It's gonna..	exc
+M	Yeah.	exc
+F	and like-- The football team--And like all the-...you- what I mean, like...	exc
+M	Yeah	exc
+M	Fight on.	exc
+F	You can walk somewhere and be anywhere in the country and be like, oh, yeah, I am at U.S.C.	exc
+F	And you know what, you know what I mean, like it's recognizable rather than just being like I went some random school. It's like people really know what you...	exc
+M	[LAUGHTER]	exc
+M	Wow. That's cool.	exc
+F	...like, they feel like--I feel like it's going to be so like accomplished.  Do you know what I mean?	exc
+F	Like it has some prestige. so	exc
+F	Yeah, I mean there's all the money stuff and my mom's helping me with the financial aid and stuff.  But, it'll be fine--	exc
+F	Like, now that I'm accepted, it's just, like, such a huge load off my mind.	exc
+F	I don't mind worrying about all the paperwork.  You know--	exc
+M	So...	neu
+F	Because, I don't have to like make that decision anymore.  I don't have to try and decide, like, what the bad school I'm going to go to is. you know	exc
+M	Right.  Right.  Right. Oh, man, then you're going to have to do orientation, I guess.	exc
+F	I know. I know.  I think you go and you like stay for a couple of days and you meet people and--And they'll give you like a tour--And show you everything.  Oh, man, I'm just so--I'm so excited.	exc
+M	That'll be awesome.	hap
+M	I mean because you went to the campus before, right?	hap
+F	Yeah, oh totally.  It's a beautiful campus.  It's gonna be really nice.  Um, and everyone is friendly and like there's ivy on all the walls.  Oh, it's just so--it's so like collegiate.	exc
+F	You know what I mean?  Like, it's like exactly what I want.	exc
+F	Well, you know, I've thought about it but they have so many things that I might--Like try some things out first...	exc
+F	...because also on the list of their, um, like G.E.'s or whatever, you have a lot of choices within every single one.  So you can, like, try things out and not just be like, oh, I have to take math, oh, I have to take this.  You know what I mean?	exc
+F	So, um, so I don't know.	exc
+F	I mean I'm gonna take a bunch of stuff and see.	exc
+M	Oh man.	exc
+F	I- They have like--they just have so many like prestigious like this school is top ten and like the departments within it, you know what I mean.	exc
+F	I know, I get to be one of those now--I'll like walk around and be like a U.S.C..  You know what I mean.	exc
+M	Ahh. Yeah. [GARBAGE]	exc
+M	You'll be like are you a fan or a student you know? Student. [LAUGHTER] Oh man, that's awesome.	exc
+F	And you'll be like...	exc
+F	Student. I'm a student. Yes I am, Thank you very much.	exc
+F	[BREATHING]	exc
+M	A U.S.C. graduate now. You're set.	exc
+F	I know.  I'm excited.	exc
+F	Well, that'll take a while. [GARBAGE]	exc
+F	That's going to be a lot of work.	exc
+F	But, it'll be fine, I mean.  I'm so excited. It's going to be so fun.	exc
+F	I know, and I mean the area's not great, but like the school makes up for it. It'll be fine. It'll be good.	exc
+M	You're getting close to the beach.  I mean geez.	exc
+F	I know. I know. So fun.  I can't wait.	exc
+F	I will. I will. Thank you.	exc
+F	Thanks.	exc
+
+F	Why did he invite her here?	ang
+F	She's been in New York three and half years why all of a sudden-	ang
+M	Well, maybe he just wanted to see her again.	neu
+F	Nobody comes seven hundred miles just to see.	ang
+M	What do you mean? He lived next door to the girl all his life, why wouldn't he want to see her again?	fru
+M	Don't look at me like that, he didn't tell me any more than he told you.	fru
+F	He's not going to marry her.	ang
+M	How do you know he's even thinking of it?	neu
+M	Well, so what?	neu
+F	What's going on here Joe?	ang
+F	-She's not his girl Joe; she knows she's not.	ang
+M	You can't read her mind.	neu
+F	Then why is she still single, I mean New York is full of men, why isn't she married? Probably a hundred people told her she's crazy but she's waited.	fru
+M	How do you know why she has waited?	fru
+F	She knows what I know, that's why. She's faithful as a rock. In my worst moments I think of her waiting and I know again that I'm right.	fru
+M	Look it's a nice day, what are we arguing for?	fru
+F	Nobody in this house dares take her faith away Joe. Strangers might, but not his father, not his brother.	fru
+M	What do you want me to do about it?	fru
+F	I want you to act like he's coming back, both of you. Don't you think I haven't noticed since he invited her, I won't stand for any nonsense	ang
+M	But Kate	fru
+F	Because if he's not coming back, I'll kill myself. And laugh -- laugh at me but	fru
+M	Calm yourself.	fru
+F	I need you to believe with me; I can't stand all alone.	sad
+M	Calm yourself.	fru
+F	Even last week there was a man who showed up in Detroit missing longer than Larry, you read it yourself.	fru
+M	All right. All right. Calm yourself.	fru
+F	Just you above all need to believe.	fru
+F	Don't stop believing.	fru
+M	What does that mean, me above all?	ang
+M	Look at you -- look at you shaking.	ang
+F	I can't help it.	fru
+M	What have I got to hide? What the hell is the matter with you, Kate?	fru
+
+M	Oh, um-	neu
+F	What's wrong?	neu
+M	You didn't fill this out right. All right. It says that you have to fill out the back sheet of this, but you filled out the yellow sheet of it.	neu
+F	No, no, no, no, no, no. The lady over there, she told me to fill out the front and she said to wait in this line.	fru
+M	Who?	neu
+F	I don't know. Some lady. Sonya or something.	fru
+M	She- she probably doesn't even work here.	neu
+F	Excuse me? No, no. I waited in the line over there..	fru
+M	All right  Uh-	neu
+F	and she told me to come over here and she said to fill out everything on the application and I did that.	fru
+M	It's not right.	fru
+F	Look, I-- No, no, no, I--you don't understand. I have to go back to work.	fru
+M	You just take--all right.	fru
+M	Well, you didn't fill this paper at work out right and it's going to take another fifteen minutes to do it and look at how long the line we got here so just-	fru
+F	I am not-	fru
+M	okay, just go back and fill it out real quick and I'm sorry, you have to get back in line and wait. I can't let you cut.	fru
+F	But you don't understand. I cannot get back in line because I have to go back to work. I will get fired if I don't leave here.	fru
+F	[LAUGHTER]	fru
+
+M	Hey sweetie.	sad
+M	Hey.	sad
+F	Um.	hap
+F	How's it- going?  Oh I'm so tired.  Oh, I just woke up. Mmm.	hap
+M	Uh, -Um	sad
+F	Why the sad face?	hap
+M	they need me out there sooner than I thought	sad
+M	They want to deploy me next week.	sad
+M	For--	sad
+M	They said anywhere from two to three years.	sad
+F	Honey--	fru
+M	--need me on the specialist honey.	fru
+F	You can't.  We need you.  I need you.	fru
+M	I don't want to go but,-	fru
+F	I don't care about the money.	fru
+M	but they said they'd increase my pay by triple-there promotion.	fru
+M	No.	sad
+F	Do this whole thing by myself?	sad
+M	Honey you're not going to be by yourself--	sad
+M	We'll have internet set up, we'll get web cameras and everything.  My whole family's here too.	neu
+F	Carry her for nine months and then yes.	sad
+F	It's not the same thing.  It's not like having you here.	sad
+F	I can't do this.	sad
+M	You can do it.  Alright?  You can, you can be strong, you can be strong for both of us alright?	neu
+F	I'm sick of being strong-- --for us.	sad
+M	I don't know what to do.	sad
+M	I don't want to - I don't- I don't want to go.	fru
+M	What am I supposed to do?	fru
+F	You can say no?	fru
+M	You know I can't say no.	sad
+F	You could.  You really could.  You could-- --get into another line of work.  I could start working after Anna's born?	fru
+M	The last guy who said no was fired.	fru
+M	I put in fifteen years in this job.	fru
+F	I know.	fru
+M	I'm so close.  Five more years and I retire-	fru
+M	and we'll have that happy life.	fru
+F	and watch our child grow, see her take her first steps, her first words.	sad
+M	Honey after a year I can be back.	sad
+F	You said two years.	sad
+M	They want me there two years but I could probably get	sad
+M	maybe get some vacation-- --once it quiets down there.	sad
+F	A whole year? --We're not talking about like a couple months here.  I mean this is a whole year.	sad
+M	I know.  I know.  But they really need some good guys there.	sad
+F	What could happen in a year?	sad
+F	And this isn't the first time you know?  I mean you always...sending you off to different places and...	sad
+M	Well that's the kind of work I'm in honey.	sad
+F	I don't know if that's how I want to live my life.	sad
+M	It's just going to be--it's going to go faster than you think.	sad
+F	Joe I'm serious I don't want to have to have a little girl to tell...asking every day where's daddy, where's daddy and have to tell her that he's away--	sad
+F	far away and he won't be here.	sad
+M	You tell her-- [BREATHING]	sad
+F	I'm done.  I can't honey.	sad
+M	What do you mean?	sad
+F	It's over.	sad
+F	Honey I can't do it anymore.	sad
+F	I need you here.  Anna needs you.	sad
+M	So I have--you want me to choose between you guys or my career?	fru
+F	yeah.	sad
+M	What am I going to do?	fru
+F	Priorities honey, priorities.	fru
+M	I want to--what am I going to do if I leave this job?	fru
+F	You're smart.  You could go back to school--	fru
+F	finish your Master's that you were started never finished.	fru
+M	Fine.  I'll see if I can talk to them.	fru
+
+M	Hello.  This is Viacom Services.  How can I help you?	neu
+F	Hello?  God finally somebody, look, this is ridiculous.  I've been waiting online for like a half an hour now.	fru
+M	I'm sorry ma'am, what can I help you with?	neu
+F	Look my, my phone isn't working.  I don't understand what's going on.  I am trying to call out.  I'm not receiving any calls	fru
+F	and I need assistance with my...not only is my work phone, it's my home phone and look,	fru
+F	this is my business.  This is how I make money is through my phone.  It needs to be working.  Can you please help me?	fru
+M	Okay.  Can you give me the last four digits of your social security number so I can verify who I'm speaking with?	neu
+F	two two six six.	neu
+M	Okay.  And your name is?	neu
+F	Olivia.	fru
+M	Olivia. Um. Okay.  So how long has this problem been?	neu
+F	This has been going on for the past two weeks.  I called every single day.  Nobody is helping me.  You guys tell me the same thing over and over, call again, call again, call again--	fru
+M	So what exactly is the problem?	neu
+F	I don't, I don't know what the problem is.  That's what I want you guys to...why is my service not turned on?  And I paid my bills on time.  I don't understand.	fru
+M	Um- I think part of it has to do with the network being down.  It's been having some trouble the last few weeks--	neu
+F	Okay.  Well that is, that is fine and all.  I don't care.  I really don't care because I want my phone to work that's all.	fru
+F	That is I am paying you guys for service and I'm not getting any service.  I get, I get just dropped calls all the time and now it's completely not working at all.  I can't even call out, nine one one probably wouldn't even work.	fru
+M	I understand--we're not-	neu
+M	No.  Okay.  We're not charging you for any of these months.  We're going to give you three months free.	neu
+F	Well you better.  You better give me a whole freaking new phone that's what you better do.	fru
+M	We can give you a new phone--	neu
+F	I want a camera phone actually.	fru
+M	We can do that.  We can do that.  You just have to sign a one-year contract though with the--	neu
+F	No, no, no...  I'm done with these contract business because this is what can happen.	fru
+F	You sign the contract and then down the line the phone doesn't work and you're stuck, you can't go to a new...no.  No contracts for me.  You give me a new phone.	ang
+M	Besides, it's sort of out of hands at the moment----The whole electrical power outage.	fru
+F	I want to talk to a supervisor	ang
+F	I would like to talk to your supervisor.  Obviously you're incompetent and don't understand what I'm asking.	ang
+M	Um- Let me connect you to my supervisor.  Actually, he's out right now so I'm supervisor until he comes back. Um-	neu
+F	What?	fru
+M	So you could----speak with me some more, you could call back later on maybe.	neu
+F	That's ridiculous.  You know?	fru
+F	No I don't want to call back, you put me on hold for like hours and hours----and it's money, money, money, money and out of my pocket, out of my pocket--	fru
+M	I didn't put you on hold.	fru
+M	There are a lot of people calling us having problems.  Every phone company is having the same problems ma'am	fru
+F	Every phone...every single phone company?	fru
+M	Mmm hmmm.  Mmm hmmm.  The power outages, everything, hurricane Katrina. Everything's really messed up.	neu
+F	This is ridiculous.Well what are we supposed to do?  We starve then because I can't use my phone cause	ang
+F	I am a realtor and this is my business.  People are calling me all the time but you know, and I don't have a land line.  I can't afford to have a land line	ang
+M	don't you-	neu
+M	I'm really sorry ma'am.  There's not----a lot we can do for it.	neu
+F	That you better be sorry.	ang
+F	Well you're not helping me at all.  God this is so frustrating.	fru
+M	What I can do for you, if you want to make a call right now I could contact you through our computer.  I can call through my phone and you can speak through me.	neu
+F	What?  No.  That's way too complicated.  Look--	fru
+F	you need to fix my phone.  I don't care what you have to do--	fru
+M	I'm sorry it has to do with an electrical power outage and stuff--	neu
+M	Well, okay I'm going to give you a free phone card that you can use at any payphone and that's on us. Okay?	neu
+F	Yeah yeah, woman going out in South Central on the payphone at night.  Oh that's real safe.	fru
+M	I'm, I'm sorry you chose to live there um--	neu
+F	No, no, no.  I didn't choose to live here.  I work there.  Okay?  Yeah. work work work	fru
+M	Well I'm sure maybe there's a phone at work you could use.	neu
+F	We can't call out.  We can't make out-- line.  I don't work, I work at another office.	fru
+F	A law firm.  Thank you very much.	fru
+M	All right um--	neu
+F	I work out of my home as a realtor and because I don't have a land line, I need a phone and because of now I don't have one I don't know what to do.  And you're not helping me at all.	fru
+F	In fact, give me your name sir, what's your name again?	fru
+M	My name is Sara.	neu
+F	Okay.  Sara what?	fru
+M	Sara Brown.	neu
+F	Sara Brown.  Sara Brown, um- yeah, I'm going to get off the phone with you. And then I'm going to call back and I'm going to give your supervisor your name because you're obviously incompetent to work here.	fru
+M	You know maam, we record this conversation so anything you say can be proven in a law of court so keep that in mind.	neu
+F	What are you, what are you a police officer now?  You know, like I'm done, I'm over it.  Goodbye and I hope that you lose your job.	fru
+
+M	So what do you think?	exc
+F	About what?	ang
+M	About what I just said?	fru
+F	It's ridiculous.	ang
+M	It certainly is not.  It's a slightly exaggerated scientific fact.	fru
+F	It's PR.  I mean, somebody sold you a good bill about this wonderful event that going to happen on the beach.	ang
+M	I'm not the only one.  Look at all these people.	fru
+F	Yeah.  Everyone else was sold the same thing.  I mean, look, it keeps us excited, it keeps us coming back for more and you know, keeps us thinking life's going to start any minute now.	ang
+M	Are we talking about the same thing?	fru
+F	Look, I'm sorry but it's still just fish to me.	ang
+M	I thought you wanted to see it.	fru
+M	There's nothing to it.  The Grunions arrive, they do their little fish business, you know?  We go oh, ahh, look at the fish and they go home and we go home.	fru
+F	For heavens sake, grow up.  We're not going to see the Grunions.	fru
+M	Why not?	fru
+F	We never do, do we?  Have we ever?	fru
+M	Oh my gosh.  We missed them twice, that's hardly ever.	fru
+F	Okay.  Twice is as many times as we've tried and that's ever.	ang
+M	Carla, can I ask you something?	fru
+M	Don't take this wrong but, are you having your period?	fru
+F	Augie, god dammit, don't ask me that.  You always ask me that.  I hate it when you ask me that.  It's insulting.	ang
+M	What's bugging you then?	fru
+F	Look, it's pointless.  It's...we're not going to see the Grunions I mean, it's like waiting around to see Santa Claus, you know, it's...	fru
+F	Listen, I've waiting my entire life on this beach just standing there waiting for this fish to show up and these fish never show up.	ang
+M	I thought you wanted to see it.	fru
+F	God, you don't understand anything.	fru
+M	No, of course not.	fru
+F	I do.  I always do.  I keep thinking, this time will be the time and it never is.	fru
+M	Well, we're going to see it.	neu
+F	No we won't.  I mean, God, this isn't about the fish Augie.	ang
+M	What...I've been trying to, I've been trying to figure out the point where we went wrong and I can't seem to pinpoint that moment.	fru
+M	Let's see I took a shower, you were watching the news, you said hey, hey the Grunions are running tonight and I said great let's go, I feel lucky tonight.	neu
+M	And then I'm putting the animals out in the yard, I'm pulling the car out of the garage, putting my jacket on.	fru
+F	Look, do you remember the first time we came here?	fru
+F	We thought I was pregnant.	sad
+M	Wait a minute.  I've got it.	neu
+M	It was in the car right?  Driving past the Knickerbocker Liquor Locker...	neu
+M	And you said let's get some champagne and I said time's a wasting or something like that.	neu
+M	You want this to be like the other time right?  That's it right?	neu
+F	I'd rather not remember something...	sad
+F	Rather not hope for something.	sad
+F	No.	sad
+M	Do you want me to get some champagne?	fru
+F	No.	fru
+M	Take off our shoes?	fru
+F	No.	fru
+M	What?  Do you want me to breathe in your ear?	fru
+F	No.	fru
+F	No...No...No...	fru
+F	No...	fru
+F	I want things to turn out the way that they're supposed to be.	ang
+M	Welcome to the human race.	ang
+M	Do you think that this is what I had in mind?  That four years down the line that we'd get married and come to the beach and argue with each other over fish?  No.	ang
+M	I was just like you.  I thought it was going to be all peaches and roses and everything great and the sand in our toes and the wind in our hair and the fish will always come and the bills will pay themselves and we'd have three big fat rosy kids...	ang
+M	...and you know?  Baby the jokes on us.  Because you know what you get?  Do you know what you get Carla?  You get this.	ang
+F	This what...what's this?  This isn't anything. Alright.  Sure.  Standing on the beach, fighting and waiting.	fru
+M	Yes it is.	ang
+M	Right.	ang
+F	Cause everything isn't anything like I thought it would be.	ang
+F	This is just this.  You know?  I mean it's a lot and everything but it isn't somewhere else.  Do you know what I'm trying to say?	sad
+M	I'm trying to do the best I can.	fru
+F	I know you are Augie.  I know you wanted this evening to be nice.	sad
+F	I can't help thinking about being somewhere else.	sad
+M	Maybe if you were with someone else too.	sad
+F	I didn't say that.	sad
+M	I know.  But I know I don't make you happy.	sad
+F	Augie, whatever I'm doing I'd rather be doing with you.	sad
+F	If anybody wants to be with anybody else it's probably you.  Probably somebody who enjoys herself a little more and is not so hard.	sad
+F	Well, I guess this is the wrong spot for the right people.	sad
+M	I mean look at the view of the moon we got from here.	hap
+F	Yeah.  I noticed that.  It's real pretty on the water.	hap
+M	Hey, look what we got here.	hap
+F	Oh you brought refreshments.	hap
+F	No I'm beginning to think you might be right.	hap
+F	I think this may be the place for us after all.	hap
+F	I am sorry Augie.	hap
+M	Shh.  If we're very quiet the fish might come.	hap
+F	Or not.	hap
+M	Or not.	hap
+
+M	Yes.  The real cause of that rile was Peter Burden.	neu
+F	Oh, come on, you knew there was nothing in that.	neu
+F	Presents?  A trivial little broach.	ang
+M	You went out of your way to torture me over Peter Burden.	ang
+F	No I didn't.  You made up the whole thing in your jealous imagination.	neu
+M	You must admit he was in love with you.	ang
+F	Just a little perhaps but nothing serious.	neu
+M	You let him kiss you. You said so.  What of it?	ang
+F	Well it didn't harm him, in fact, it pleasured him a lot and it didn't hurt me.	neu
+M	And what about me?	ang
+M	Oh, that's a nice point of view I must say.	ang
+M	Yeah, so am I.  Bored stiff.	ang
+M	You want some brandy?	neu
+M	I'll have a little I think.	neu
+F	I don't know why you want it.  You've already had two glasses.	ang
+M	No particular reason.  Anyhow they were very small ones.	ang
+F	I don't see what you have to go on and on with this kind of thing.	ang
+M	Oh my...just because I just...okay...	ang
+F	It's become a habit with you.	neu
+M	You needn't be so grand just because you don't happen to want any yourself at the moment.	ang
+M	Really Amanda.	fru
+F	What?	ang
+M	Nothing.	fru
+M	Going out somewhere dear?	fru
+F	No, just making myself beautiful for you.	neu
+F	That's the woman's job to lure the man.  Watch me a moment won't you?	neu
+M	Actually that's perfectly true.	neu
+M	Yes it is.	neu
+M	I think that	neu
+F	Adders don't snap, they sting.	ang
+F	They sting.	ang
+M	They snap.	fru
+F	Mind your business.	ang
+F	You're quite insufferable.  I expect it's because you're drunk.	ang
+M	I'm not in the least bit drunk.	ang
+F	You've always had a weak head.	ang
+M	Okay, like I mentioned before I had three very small, minute liquor glasses of brandy.  That's not even enough to get a child of two drunk.	ang
+F	On the contrary, a child of two can get violently drunk off just one glass of brandy.	ang
+M	Oh, what an interesting topic.  What about a child of four and a child of six?  A child of nine?	ang
+F	Shut up.	ang
+M	We might be able to bring up a splendid little debate about this intemperate tots.	ang
+F	Not very funny dear.  In fact, maybe you better have some more brandy.	ang
+M	Oh, thanks.  I think I will.	ang
+M	You better turn that off.	ang
+F	They are away in Tunis.	neu
+F	Turn it on again, please.	fru
+M	No I'll do no such thing.	ang
+F	Very well.  If you insist on being a boorish and idiotic.	ang
+M	Come on, turn it off.  It's driving me mad.	ang
+F	You are far too temperamental.  Try to control yourself.	ang
+M	Turn it--Turn it off.	ang
+F	Go away.  Go away.  I hate you.	ang
+M	Very amusing indeed.	ang
+F	I hate you.  Listen I'm sick and tired of listening to you, you sadistic bully.	ang
+M	You know what?  You're a vile, little, evil-minded, little, wicked beast and I never want to see you again.	ang
+F	This is the end.  Understand?  This is the end, here and now, forever and always.	ang
+M	You're not going nowhere. No you're not.	ang
+F	Oh, yes I am. Yes I am and you can't stop me.	ang
+M	Just shut up.	ang
+M	shut up. shut up.  I would-I would never marry you again if you came crawling back to me on your hands and knees because you're an evil-minded little vampire and I hope to God I never see you again.	ang
+F	Listen, you're a cruel fiend and I hate, loathe you.  Thank God finally, finally thank God I've realized just how horrible you are--and marry you?  Marry you?  Never. I will never marry you.  I will die die in torment-	ang
+F	Beast. Brute. Cad. Swine. Beast. Beast. Brute. Devil. Sorry.	ang
+M	Oh.	ang
+
+M	Hey, what's up?	neu
+F	Guess what came today?	exc
+M	What?	exc
+F	My acceptance letter.	exc
+F	From U.S.C..	exc
+F	Yes, I am.	exc
+F	Well yeah, that's the general idea. [LAUGHTER]	exc
+M	That's awesome.  Congratulations.	exc
+F	Big bad acceptance packet with all the information.  I'm going to U.S.C..	exc
+M	That's amazing.  Wow.	exc
+F	I know. [LAUGHTER]	exc
+F	[LAUGHTER] Yeah, uh. No.	exc
+F	[LAUGHTER] It's safe around there.	exc
+F	The campus is beautiful. I'm so excited.	exc
+M	I know but you should get like a taser or something.  I mean walking around the campus at night-	neu
+F	Do you want to buy me some mace for my, you know, going away present?	exc
+F	There we go.  Perfect.	exc
+F	And a taser.  Excellent.  Just make sure it's a big knife.	exc
+F	I don't want any of those little puny ones.	exc
+M	So, um- so what are you going to- what are you going to major in?	neu
+F	Well I was thinking maybe underwater basket weaving.	exc
+F	U.S.C. has a major in that, right.	exc
+F	They have - U.S.C. has everything because U.S.C. is the best school ever.	exc
+M	they have that as a major?	neu
+M	That's ridiculous.  I don't believe that.	neu
+F	Okay.  Well I'm lying but-	exc
+M	Seriously, what's your major?	neu
+F	Well, I haven't decided yet.  I want to try some things out.	exc
+M	So you're undecided?	neu
+M	Hey, that's cool.	neu
+M	No, no.  It's totally cool.  I mean, like, this friend of mine he was- he's been undecided now for, like, the past like eleven years of his life.	neu
+F	okay.  Well I'm not going to be undecided forever. [LAUGHTER]	exc
+M	Uh, well-	neu
+F	And it's so close so you can come visit me all the time.	exc
+M	You- you- you'll find.	neu
+F	So this works out perfectly.  Because I was worried if I didn't get in to U.S.C., then I would have to go somewhere far away and then-	exc
+M	You'd have to, like go somewhere else, and, you know, we would be apart, and that would suck.	neu
+F	Everything worked out perfectly.	exc
+M	That's awesome.	exc
+F	I know.  We should have a party.	exc
+F	An I got accepted to U.S.C. party.	exc
+F	No.  An I got accepted to U.S.C. party. [LAUGHTER]	exc
+M	Oh, that's right. Okay, I see. Right, right, right.	neu
+M	A party celebrating your acceptance.	neu
+F	Right.  Now you're with me.	exc
+M	That's cool.	neu
+F	That is why I got accepted.	exc
+M	Well, that's really cool that you're going to be staying in the same city and everything. so umm	exc
+F	I know.	exc
+M	I don't know are you, like, I don't know.  Are you, like, available or anything?	neu
+M	Well I mean I don't know.  It's like you know I kind of had a crush on you throughout high school and, like	exc
+M	I don't know I just thought that, you know, maybe we could, you know, I don't know.  It's like, you know, just test the waters anyway.  I don't see what the problem is.	exc
+F	What- what did you have in mind?	exc
+M	Movies- movie, we'll go to a movie and a dinner and- and	exc
+M	actually, you know, there's this- there's this really cool restaurant, um, I don't know if you-  it's Red Lobster.  It's like down on	exc
+F	[LAUGHTER]	exc
+M	Vermont.	exc
+M	Wait, you've been there before?	exc
+F	On occasion I've heard of it.	exc
+M	Oh, so well then you know that it's awesome.	exc
+F	Yeah.  Totally.	exc
+M	Right, so we'll go there and then- and then we'll get some ice cream and maybe we'll go putt-putt golfing.	exc
+F	I am totally down with the ice cream.	exc
+M	Okay.  Putt-putt golfing?	neu
+F	Eh, we can work that part out.	exc
+M	Yeah, you want to go.  No, you want to go. You want to go.	exc
+F	Alright.	exc
+M	I can see it in your eyes.  You want to go.	exc
+F	party.	exc
+M	Good. Alright we're so happy.	exc
+M	That's right.  Um, so U.S.C. is a really nice school.	exc
+F	I know.	exc
+M	Are you going to take out loans or-	neu
+F	Okay well that's not a happy part.  We don't want to talk about that.	exc
+F	Well no.  I mean I have some scholarships and some financial aid and stuff but I'll have to, you know, I'll get a job	exc
+F	while I'm in school.  It'll be good.	exc
+F	Yeah.  It will work out.  Maybe I could work at Red Lobster.	exc
+F	I know.  Right down the street.	exc
+M	But, um-	neu
+M	I mean, like, I don't know.  I'm just saying if you need to make some extra cash.  You can, you know	neu
+M	Or library.	neu
+M	I just said the library	neu
+M	or, um, campus cruiser.  You can drive people around.	neu
+F	Excellent.  Drive drunk people around because you know that's all campus cruisers for.	exc
+M	Right or you can run for student counsel.	neu
+F	Okay.  No, that's dorky.	exc
+M	Dorky?	neu
+F	Yeah.	exc
+M	It's important.	neu
+F	Student counsel?	exc
+F	No, it's dorky.	exc
+M	Fine.  It's dorky.	neu
+F	Social life.  Hello.	exc
+M	But that'll fit you  because you're a dork.	neu
+F	[LAUGHTER].	exc
+F	[LAUGHTER].	exc
+M	I dork.	exc
+F	No.  But I'm thinking I might, you know, like audition for a play or something.  I don't really want to do the sorority thing.  I'm not really feeling that vibe with the	exc
+M	Yeah, you don't want to do the sorority thing because you'll probably get used and abused by	neu
+M	lots of drunk frat boys	neu
+M	Yeah.	neu
+F	What have you heard about the Greek system?	exc
+M	I mean it's not really free because you have to pay for it, but yeah.	neu
+M	Well do you think you're going to live on campus or off campus your first year?	neu
+M	I hate to break this to you but you meet people by being cool, so-	neu
+F	Oh, oh, I'm sorry, my bad.  I'll have to, like, sign up for summer lessons from you before I go.  You can teach me how to be cool before I go to college.	exc
+M	No, no, no.  You're right though.  I mean, you know, dorms are definitely the way to meet people.  I know that I was in an apartment off campus	neu
+M	that happened, you know, that was going on.	neu
+F	That's what you're saying. I'm right. [LAUGHTER]	exc
+F	me.	exc
+
+M	What time is it?  They're supposed to run around midnight.  This is great isn't it?  Look at this night we've got here.  It couldn't be better.	hap
+F	Fine.	neu
+M	Is that, is that-that's just foam isn't it?  I can't even tell	exc
+M	Oh, no you know what I did?  I forgot my flashlight.  How could I be so stupid I forgot my flashlight.	fru
+M	The flashlight, the silver one.  There's only one isn't there?	fru
+F	It's not yours.	fru
+M	Well sure.	fru
+M	No of course our flashlight, yours and mine, mi flashlight es su flashlight naturally.  How could we not think to bring it?	fru
+M	I hope the moon stays out.  I wonder do they always run during a full moon.  I can't remember if it was full last year.  Remember?	exc
+M	Are you cold?  Do you want my jacket?  We should have brought the blanket, our blanket.	neu
+M	Ah, this is great, isn't it?  I didn't even think to bring a six-pack.  A six-pack would be just the ticket right about now.	hap
+F	It's after eleven let's go home.	ang
+M	Are you kidding?  We'd miss it.  We just got here.  What's the point of coming down here if we just turn around and go home?	fru
+F	There is no point in coming down here.	ang
+M	Right.	fru
+F	That's my point.	fru
+M	That's my point too.	neu
+F	So let's go home.	fru
+M	No, no, no.  That's not my point.  My point is is that there's no point in coming down here if we just leave.  Don't you want to see it?	fru
+F	Not particularly.	fru
+F	I just don't.  It's stupid.	ang
+M	Honey this is natural phenomenon.  I mean this only happens once a year.  This is a great opportunity.	fru
+M	Think about the people in Kansas.  They'd have to get plane tickets and hotel reservations to come see this.  We're just forty minutes away.  It's too good to pass up.	exc
+F	Pass up what?  These little fish swim onto the beach, flop around, and then swim away and then they die.	ang
+M	Yeah but that moment on the beach is the highlight of their little lives.  All that flopping around is laying eggs or what do you, spawning or mating something like that.	fru
+M	This is the big night for these guys.  Life's last orgy.	exc
+F	What are you so excited about?  This isn't a moon landing we're talking about.  It's fish.  It's fish nobody even eats.	ang
+M	Yeah, they do.	fru
+F	Oh, Augie.	fru
+M	Okay but it's fish who do something none of the other fish do	fru
+M	like the swallows returning to Capistrano or the lemmings throwing themselves off the cliffs, like that.  There's mystery here and magic	exc
+M	a little bit of the unexplainable.  I don't see how you cannot be interested.	fru
+F	I'm just not.	ang
+F	Yes.	ang
+M	I don't get it.  The first time we came here to see it you said it was the best night of your life and last year I remember distinctly you were so excited to get here.  You stubbed your toe rushing me out the door and didn't even notice until we were in the car.	fru
+M	We weren't in a good spot.	fru
+F	We didn't see them the first time either.	ang
+M	We just weren't in a good spot.  This is a much better spot.	ang
+M	I've got good instincts for these things.  Look there. What's that.  Is that?  Is that, is that-no it's just seaweed isn't it.	exc
+M	Ah, man this is great.  I wouldn't miss this for anything.  I mean think about this.  I know you're not interested but just think about this for a minute.	exc
+M	Out there someplace there's this huge mass of silver fish heading this way.  They don't know why.  We don't know why.  It wasn't a decision.  They didn't take a vote.	exc
+M	No one sent them a map or an invitation.  Just some little instinctual time release firecracker went off in their little bodies and all as one. They turned and formed a line as long as the California coast and started swimming.	exc
+M	They're swimming right now as if that's the only thing that matters.	exc
+M	It's single mindedness with no mind.  Urgency that's pure urge.	exc
+M	They don't know what drives them.  They don't give it a name or ask question.  They just turn as one and start the swim that brings them here to this place	exc
+M	where we stand for massive celebration of sex and death.	exc
+M	Ah, I'm giving myself goose bumps.  All my hairs are popping up.	exc
+F	That's the wind.	fru
+F	About what?	ang
+F	It's ridiculous.	ang

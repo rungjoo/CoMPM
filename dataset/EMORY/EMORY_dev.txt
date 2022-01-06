@@ -1,0 +1,1442 @@
+Rachel Green	Coffee.	Neutral
+Joey Tribbiani	Thank you.	Neutral
+Rachel Green	Cappuccino.	Neutral
+Ross Geller	Grazie.	Neutral
+Rachel Green	And a nice hot cider for Monica.	Neutral
+Monica Geller	Aww, thank you. Uh Rach?	Scared
+Rachel Green	Yeah?	Neutral
+Monica Geller	Why does my cinamon stick have an eraser?	Neutral
+Rachel Green	Oh! That's why. I'm sorry!	Neutral
+
+Monica Geller	OK, try this salmon mousse.	Joyful
+Joey Tribbiani	Mmmm. Good.	Joyful
+Monica Geller	Is it better than the other salmon mousse?	Joyful
+Joey Tribbiani	It's creamier.	Peaceful
+Monica Geller	Yeah, well, is that better?	Mad
+Joey Tribbiani	I don't know. We're talking about whipped fish, Monica. I'm just happy I'm keeping it down, y'know?	Joyful
+Rachel Green	My God! What happened to you?	Scared
+Chandler Bing	Eight and a half hours of aptitude tests, intelligence tests, personality tests... and what do I learn? "You are ideally suited for a career in data processing for a large multinational corporation."	Mad
+Phoebe Buffay	That's so great! 'Cause you already know how to do that!	Joyful
+Chandler Bing	Can you believe it? I mean, don't I seem like somebody who should be doing something really cool? You know, I just always pictured myself doing something...something.	Mad
+Rachel Green	Oh Chandler, I know, I know... oh, hey! You can see your nipples through this shirt!	Joyful
+Monica Geller	Here you go, maybe this'll cheer you up.	Peaceful
+Chandler Bing	Ooh, you know, I had a grape about five hours ago, so I'd better split this with you.	Mad
+Monica Geller	It's supposed to be that small. It's a pre-appetizer. The French call it an amouz-bouche.	Joyful
+Chandler Bing	Well.... it is amouz-ing...	Joyful
+Monica Geller	Hello? Oh, hi Wendy! Yeah, eight o'clock. What did we say? Ten dollars an hour?... OK, great. All right, I'll see you then. Bye.	Joyful
+Phoebe Buffay	Ten dollars an hour for what?	Neutral
+Monica Geller	Oh, I asked one of the waitresses at work if she'd help me out.	Neutral
+Rachel Green	Waitressing?	Mad
+Joey Tribbiani	Uh-oh.	Neutral
+Monica Geller	Well... of course I thought of you! But... but...	Sad
+Rachel Green	But, but?	Mad
+Monica Geller	But, you see, it's just... this night has to go just perfect, you know? And, well, Wendy's more of a... professional waitress.	Mad
+Rachel Green	Oh! I see. And I've sort of been maintaining my amateur status so that I can waitress in the Olympics.	Mad
+Chandler Bing	You know, I don't mean to brag, but I waited tables at Innsbruck in '76. Amouz-bouche?	Joyful
+
+Celia	Talk to me.	Neutral
+Ross Geller	OK.... um, a weird thing happened to me on the train this morning...	Scared
+Celia	No no no. Talk... dirty.	Joyful
+Ross Geller	Wha... what, here?	Scared
+Celia	Yes...	Neutral
+Ross Geller	Ah....	Neutral
+Celia	Say something..... hot.	Neutral
+Ross Geller	Er.... um.....	Scared
+Celia	What?	Neutral
+Ross Geller	Um... uh.... vulva.	Joyful
+
+Chandler Bing	Well?	Neutral
+Phoebe Buffay	Wow! It's huge! It's so much bigger than the cubicle. Oh, this is a cube.	Joyful
+Chandler Bing	Look at this!	Joyful
+Phoebe Buffay	Oh! You have a window!	Joyful
+Chandler Bing	Yes indeedy! With a beautiful view of...	Joyful
+Phoebe Buffay	Oh look! That guy's peeing!	Joyful
+Chandler Bing	OK, that's enough of the view. Check this out, look at this. Sit down, sit down.	Joyful
+Phoebe Buffay	OK.	Neutral
+Chandler Bing	This is great! Helen, could you come in here for a moment?	Powerful
+Chandler Bing	Thank you Helen, that'll be all.	Neutral
+Chandler Bing	Last time I do that, I promise.	Mad
+
+Monica Geller	Wendy, we had a deal! Yeah, you promised! Wendy! Wendy! Wendy!	Mad
+Rachel Green	Who was that?	Neutral
+Monica Geller	Wendy bailed. I have no waitress.	Mad
+Rachel Green	Oh... that's too bad. Bye bye.	Neutral
+Monica Geller	Ten dollars an hour.	Neutral
+Rachel Green	No.	Neutral
+Monica Geller	Twelve dollars an hour.	Neutral
+Rachel Green	Mon. I wish I could, but I've made plans to walk around.	Neutral
+Monica Geller	You know, Rachel, when you ran out of your wedding, I was there for you. I put a roof over your head, and if that means nothing to you... twenty dollars an hour.	Scared
+Rachel Green	Done.	Neutral
+
+Joey Tribbiani	What a tool!	Mad
+Rachel Green	You don't want to work for a guy like that.	Powerful
+Ross Geller	Yeah!	Powerful
+Monica Geller	I know... it's just... I thought this was, you know... it.	Sad
+Ross Geller	Look, you'll get there. You're an amazing chef.	Powerful
+Phoebe Buffay	Yeah! You know all those yummy noises? I wasn't faking.	Joyful
+Joey Tribbiani	So, er... how did it go with Celia?	Scared
+Ross Geller	Oh, I was unbelievable.	Powerful
+Joey Tribbiani	All right, Ross!	Powerful
+Ross Geller	I was the James Michener of dirty talk. It was the most elaborate filth you have ever heard. I mean, there were characters, plot lines, themes, a motif... at one point there were villagers.	Joyful
+Joey Tribbiani	Whoa! And the... huh-huh?	Joyful
+Ross Geller	Well, ahem... you know, by the time we'd finished with all the dirty talk, it was kinda late... and we were both kind of exhausted, so uh...	Scared
+Joey Tribbiani	You cuddled.	Joyful
+Ross Geller	Yeah, which was nice.	Joyful
+Phoebe Buffay	You guys wanna try and catch a late movie or something?	Neutral
+Rachel Green	Maybe, but shouldn't we wait for Chandler?	Neutral
+Joey Tribbiani	Yeah, where the hell is he?	Scared
+
+Phoebe Buffay	How's this?	Neutral
+Steve (drug addict)	Eeeee!	Joyful
+Phoebe Buffay	Sorry. How about over here?	Neutral
+Steve (drug addict)	Aaaaah!	Joyful
+Phoebe Buffay	See, that just means it's working. Does this hurt?	Neutral
+Steve (drug addict)	No.	Neutral
+Phoebe Buffay	What about this?	Neutral
+Steve (drug addict)	Aaaaahhh!!	Mad
+Phoebe Buffay	There you go!	Neutral
+
+Chandler Bing	I can't believe you would actually say that. I would much rather be Mr. Peanut than Mr. Salty.	Mad
+Joey Tribbiani	No way! Mr.Salty is a sailor, all right, he's got to be, like, thetoughest snack there is.	Peaceful
+Ross Geller	I don't know, you don't wanna mess with corn nuts. They're craaazy.	Peaceful
+Monica Geller	Oh my God. You guys! You gotta come see this! There's some creep out there with a telescope!	Joyful
+Ross Geller	I can't believe it! He's looking right at us!	Mad
+Rachel Green	Oh, that is so sick.	Scared
+Chandler Bing	I feel violated. And not in a good way.	Scared
+Phoebe Buffay	How can people do that?... Oh, you guys, look! Ugly Naked Guy got gravity boots!	Mad
+
+Rachel Green	Wow... Wow!	Joyful
+Barry Farber	Yeah.	Neutral
+Rachel Green	I'm not crazy, right? I mean, it was never like that.	Scared
+Barry Farber	Nooo, it wasn't.	Neutral
+Rachel Green	Ooh, and it's so nice having this little sink here...	Peaceful
+
+Chandler Bing	Oh, Danielle! I wasn't expecting the machine... Give me a call when you get a chance. Bye-bye. Oh God!	Scared
+Monica Geller	That's what you've been working on for the past two hours?!	Neutral
+Chandler Bing	Hey, I've been honing!	Neutral
+Ross Geller	What was with the dishes?	Neutral
+Chandler Bing	Oh, uh.. I want her to think I might be in a restaurant.. y'know? I might have some kind of life, like I haven't been sitting around here honing for the past few hours.	Neutral
+Monica Geller	Look look! He's doing it again, the guy with the telescope!	Neutral
+Phoebe Buffay	Oh my God! Go away! Stop looking in here!	Mad
+Monica Geller	Great, now he's waving back.	Neutral
+Joey Tribbiani	Man, we gotta do something about that guy. This morning, I caught him looking into our apartment. It creeps me out! I feel like I can't do stuff!	Scared
+Monica Geller	What kinda stuff?	Neutral
+Joey Tribbiani	Will you grow up? I'm not talking about sexy stuff, but, like, when I'm cooking naked.	Neutral
+Phoebe Buffay	You cook naked?	Neutral
+Joey Tribbiani	Yeah, toast, oatmeal... nothing that spatters.	Neutral
+Chandler Bing	What are you looking at me for? I didn't know that.	Neutral
+
+Barry Farber	What's the matter?	Scared
+Rachel Green	Oh, it's just... Oh, Barry, this was not good.	Sad
+Barry Farber	No, it was. It was very very good.	Joyful
+Rachel Green	Well, what about Mindy?	Neutral
+Barry Farber	Oh, way, way better than Mindy.	Peaceful
+Rachel Green	No, not that, I mean, what about you and Mindy?	Joyful
+Barry Farber	Well, if you want, I'll justI'll just break it off with her.	Scared
+Rachel Green	No. No-no-no-no, no. I mean, don't do that. Not, I mean not for me.	Scared
+Bernice	Dr. Farber, Bobby Rush is here for his adjustment.	Neutral
+Barry Farber	Thanks, Bernice. Let's go away this weekend.	Powerful
+Rachel Green	Oh, Barry..! Come on, this is all way too..	Scared
+Barry Farber	We can, we can go to Aruba! When I went there on what would have been our honeymoon, it was, uh... it was really nice. You would've liked it.	Joyful
+Rachel Green	I had a bra.	Neutral
+Bobby Rush	Hey, Dr. Farber.	Neutral
+Barry Farber	All right Miss Green, everything looks fine... Yep, I think we're starting to see some real progress here.	Neutral
+Rachel Green	What?!	Neutral
+Bobby Rush	I'm twelve, I'm not stupid.	Mad
+
+Monica Geller	Brrrrrrr!	Neutral
+Chandler Bing	Hell is filled with people like you.	Mad
+Joey Tribbiani	He's back! The peeper's back!	Scared
+Joey Tribbiani	Get down!	Scared
+Rachel Green	Get down?	Scared
+Chandler Bing	...And boogie!	Scared
+Rachel Green	Thanks, but I gotta go to work and get my eyes scratched out by Mindy.	Neutral
+Monica Geller	Relax. Y'know, she may not even know.	Scared
+Rachel Green	Please. I haven't heard from her in seven months, and now she calls me? I mean, what else is it about? Oh! She was my best friend, you guys! We went to camp together... she taught me how to kiss..	Joyful
+Joey Tribbiani	Yeah?	Neutral
+Rachel Green	And now, y'know, I'm like... I'm like the other woman! I feel so..	Sad
+Joey Tribbiani	..Naughty!	Joyful
+Rachel Green	Right, I'll see you guys later...	Neutral
+Joey Tribbiani	Oh, hold up, I'll walk out with you. Now, Rach, when she taught you to kiss, you were at camp, and.. were you wearing any kinda little uniform, or- That's fine, yeah...	Joyful
+Chandler Bing	Okay, I'm gonna go to the bathroom. Will you watch my phone?	Neutral
+Monica Geller	Why don't you just take it with you?	Neutral
+Chandler Bing	Hey, we haven't been on a second date, she needs to hear me pee?	Scared
+Monica Geller	Why don't you just call her?	Neutral
+Chandler Bing	I can't call her, I left a message! I have some pride.	Scared
+Monica Geller	Do you?	Neutral
+Chandler Bing	No! Danielle, hi! It's, uh, it's Chandler! I'm fine. Uh, listen, I don't know if you tried to call me, because, uh, idiot that I am, I accidentally shut off my phone. Oh, uh, okay, that's fine, that's great. Okay. She's on the other line, she's gonna call me back. She's on the other line, she's gonna call me back, she's on the other line, gonna call me back...	Joyful
+Monica Geller	Don't you have to pee?	Neutral
+Chandler Bing	'S'why I'm dancing...	Joyful
+
+Ross Geller	Four letters: "Circle or hoop".	Neutral
+Chandler Bing	Ring dammit, ring!	Joyful
+Ross Geller	Thanks.	Neutral
+Joey Tribbiani	Hey, you know our phone's not working?	Scared
+Chandler Bing	What?!	Scared
+Joey Tribbiani	I tried to call you from the coffee shop, and there was no answer.	Neutral
+Chandler Bing	I turned it off. Mother of God, I turned it off!	Mad
+Monica Geller	Just like you told her you did! ... Just pointing out the irony.	Joyful
+Joey Tribbiani	Hey, so listen, I went across the street and talked to the doorman- I got the peeper's name! Can I use the phone?	Neutral
+Chandler Bing	Nngghhh!!!!!!!	Mad
+Joey Tribbiani	Can I use your phone? Yeah, the number for a Sidney Marks, please.	Neutral
+Ross Geller	"Heating device."	Neutral
+Phoebe Buffay	Radiator.	Neutral
+Ross Geller	Five letters.	Neutral
+Phoebe Buffay	Rdtor.	Neutral
+Joey Tribbiani	Yeah, is Sidney there? Oh, this is? Sidney's a woman.	Neutral
+Monica Geller	So she's a woman! So what?	Neutral
+Joey Tribbiani	Yeah. Yeah, so what? Look, I live across the street, and I know all about you and your little telescope, and I don't appreciate it, okay? Yeah, I can see you right now! Hello! If I wanna walk around my apartment in my underwear, I shouldn't have to feel like Thank you, but... that's not really the point... The point is that... Mostly free weights, but occasionally..	Mad
+Monica Geller	Joey!!	Mad
+Joey Tribbiani	Yeah, my neighbor... Yeah, the brunette... She says you looked very pretty the other day in the green dress.	Neutral
+Monica Geller	The green dress? Really?	Joyful
+Joey Tribbiani	Yeah, she said you looked like Ingrid Bergman that day.	Neutral
+Monica Geller	Nooo!	Joyful
+
+Monica Geller	You okay?	Neutral
+Rachel Green	Yeah.	Neutral
+Monica Geller	Really?	Neutral
+Rachel Green	Yeah! Y'know, ever since I ran out on Barry at the wedding, I have wondered whether I made the right choice. And now I know.	Sad
+Monica Geller	Aww...	Peaceful
+Joey Tribbiani	Big day.	Neutral
+
+Joey Tribbiani	All right, I'll give you this, Mr. Peanut is a better dresser. I mean he's got the monocle, he's got the top hat...	Joyful
+Phoebe Buffay	You know he's gay?	Joyful
+Ross Geller	I just wanna clarify this: are you outing Mr. Peanut?	Joyful
+Danielle	Chandler?	Neutral
+Chandler Bing	Danielle! Hi! Uh- everybody, this is Danielle, Danielle, everybody.	Joyful
+#ALL#	Hi. Hi.	Neutral
+Chandler Bing	What are you doing here?	Neutral
+Danielle	Well, I've been calling you, but it turns out I had your number wrong. And when I finally got the right one from Information, there was no answer. So I thought I'd just come down here, and make sure you were okay.	Neutral
+Chandler Bing	...I'm, I'm okay.	Neutral
+Danielle	Listen uh, maybe we could get together later?	Neutral
+Chandler Bing	That sounds good. I'll call you- or you call me, whatever...	Neutral
+Danielle	You got it.	Neutral
+Chandler Bing	Okay.	Neutral
+Danielle	G'bye, everybody.	Neutral
+#ALL#	Bye.	Neutral
+Phoebe Buffay	Whoo-hoo!	Joyful
+Monica Geller	Yeah, there you go!	Joyful
+Ross Geller	Second date!	Joyful
+Chandler Bing	...I dunno.	Scared
+Rachel Green	You don't know?!	Mad
+Chandler Bing	Well, she seems very nice and everything, but that whole thing about her coming all the way down here, just to see if I was okay? I mean,... how needy is that?	Scared
+
+Estelle Leonard	Stop saying you're not talented, you're very talented. It's just with the bird dead and all, there's very little act left. Oh, honey, give me a break, will ya? Oooh, ooh, I'll talk to you later.	Neutral
+Estelle Leonard	Well, there's my favorite client. So tell me darling, how was the audition?	Joyful
+Joey Tribbiani	Well, I think it went pretty well. I.. I got a callback for Thursday.	Joyful
+Estelle Leonard	Joey, have you ever seen me ecstatic?	Neutral
+Joey Tribbiani	No.	Neutral
+Estelle Leonard	Well, here it is.	Joyful
+Joey Tribbiani	OK, uh.... listen, there's something I want to talk to you about. The network casting lady...	Scared
+Estelle Leonard	Oh, isn't Lori a doll?	Peaceful
+Joey Tribbiani	Oh yeah, yeah, she's great, but... I kinda got the feeling that she was sort of... coming on to me. And I definitely would get the part if I would've... you know... if I would have sent the Little General in.	Scared
+Estelle Leonard	Oh, I see. Well, I'm just gonna put in a call here and we'll find out what's goin' on and straighten it out. Yeah, hi, Lori please. Hi darling. So how 'bout Joey Tribbiani for the part of the cab driver, isn't he terrific? Uh-huuuuh. Uh-huuuuh. OK, doll. Talk to you later. Yeah, you're gonna have to sleep with her.	Neutral
+
+Chandler Bing	Hey.	Neutral
+Joey Tribbiani	Hey.	Neutral
+Chandler Bing	Whoa, whoa, so I'm guessing you didn't get the part, or... uh, Italy called and said it was hungry.	Sad
+Joey Tribbiani	Well, the part's mine if I want it.	Joyful
+Chandler Bing	Oh my God!	Joyful
+Joey Tribbiani	Yeah, if I'm willing to sleep with the casting lady.	Neutral
+Chandler Bing	Oh my... God?	Scared
+Joey Tribbiani	Ten years I've been waiting for a break like this Chandler, ten years! I mean, Days of Our Lives. That's actually on television.	Sad
+Chandler Bing	So, what're you gonna do?	Neutral
+Joey Tribbiani	Well, I guess I could sleep with her... I mean, how could I do that?	Sad
+Chandler Bing	Well, I... I've got a pop-up book that told me everything I need to know.	Neutral
+Joey Tribbiani	I've never slept with someone for a part.	Sad
+Chandler Bing	Well is she...	Neutral
+Joey Tribbiani	Sorry.	Neutral
+Chandler Bing	It's alright. Is she good-looking?	Peaceful
+Joey Tribbiani	Yeah, she's totally good looking. I mean, if I met her in a bar, or something, I'd be buying her breakfast. You know, after having slept with her.	Joyful
+Chandler Bing	Y'know, maybe this isn't such a big deal. Y'know, I mean, the way that I see it is you get a great job and you get to have sex. Y'know, I mean, throw in a tree and a fat guy and you've got Christmas.	Joyful
+Joey Tribbiani	I just... I just don't think that I want it that way though, y'know? I mean, let's say I do make it, alright? I'm always gonna look back and wonder if it was because of my talent or because of.. y'know, the Little General.	Scared
+Chandler Bing	Didn't you used to call it the Little Major?	Peaceful
+Joey Tribbiani	Yeah, but after Denise DeMarco, I had to promote it.	Peaceful
+
+Waiter	Can I get you something from the bar?	Neutral
+Monica Geller	Yes, I would like something. No, no thank you.	Sad
+Bobby Rush	If... if you want to drink, it's OK with me, I've got to get used to it.	Neutral
+Monica Geller	No, no really. I.. I wouldn't feel right about it. Just some water.	Sad
+Bobby Rush	So the light went out in my refrigerator...	Neutral
+Monica Geller	I'd like a scotch on the rocks with a twist.	Neutral
+
+Russ	Hi.	Neutral
+Chandler Bing	Oh, hey.	Neutral
+Phoebe Buffay	Hi.	Neutral
+Russ	I guess you guys heard, Rachel dumped me.	Sad
+Chandler Bing	Yeah, I'm sorry man.	Neutral
+Russ	Oh, all she said was that I remind her too much of somebody. You have any idea who she's talking about?	Neutral
+Phoebe Buffay	Oh I do, it's.... it's Bob Saget. She hates him.	Neutral
+Russ	Oh.	Neutral
+Julie	Hey.	Neutral
+Chandler Bing	Hey!	Neutral
+Phoebe Buffay	Hey, Julie! Hey, how are you doing?	Peaceful
+Julie	Um, oh, I don't know. I mean, it's definitely weird not being with Ross, but I guess I'm doing OK. Actually I've got some of his stuff that he, um....	Neutral
+
+Phoebe Buffay	Hey. Watcha guys doin?	Joyful
+Richard Burke	Monica's making us watch Old Yeller.	Sad
+Phoebe Buffay	Why are you guys so upset? It's Old Yeller, it's a happy movie.	Scared
+Rachel Green	What?	Neutral
+Ross Geller	What're you talkin' about?	Neutral
+Phoebe Buffay	C'mon, happy family gets a dog, frontier fun.	Joyful
+Ross Geller	Yeah but Phoebs, what about the end?	Neutral
+Phoebe Buffay	What when Yeller saves saves the family from the wolf and everyone's happy?	Joyful
+Rachel Green	That's not the end.	Neutral
+Phoebe Buffay	Yu-huh. That's when my mother would shut off the TV and say 'The end'.	Neutral
+Monica Geller	What about the part where he has rabies?	Scared
+Phoebe Buffay	He doesn't have rabies, he has babies. That's what my mom said.	Neutral
+Richard Burke	Uh, Phoebe, I don't think your mom would want you to see what's about to happen.	Scared
+Phoebe Buffay	What, what's about to happen? I've never seen this part before. Hey, Travis, watcha doin' with that gun? Oh no, no no Travis, put down the gun. No no no no, he he's your buddy, he's your Yeller, no, no no, the end, THE END.	Sad
+
+Monica Geller	Hey, have you guys eaten, because uh, Richard and I just finished and we've got leftovers... Chicken and potatoes... What am I wearing?...Actually, nothing but rubber gloves.	Peaceful
+Joey Tribbiani	Ya know, one of these times you're gonna really be naked and we're not gonna come over.	Neutral
+Monica Geller	Alright, I've got a leg, three breasts and a wing.	Joyful
+Chandler Bing	Well, how do you find clothes that fit?	Joyful
+Joey Tribbiani	Oh, hey, Monica, we've got a question.	Neutral
+Monica Geller	Alright, for the bizillionth time, yes I see other women in shower at the gym, and no I don't look.	Mad
+Joey Tribbiani	No, not that one. We're trying to figure out who to bring to the Knicks game tonight, we have an extra ticket.	Peaceful
+Chandler Bing	Yeah, Ross can't go so it's between my friend Eric Prower who has breath issues and Dan with the poking. 'Did you see that play? Do you want some more beer? Is that Spike Lee?'	Scared
+Monica Geller	Ok. Hey, why don't you ask Richard?	Neutral
+Joey Tribbiani	Ok, uh, hey Richard, if you had an extra ticket to the Knicks game and you had to choose between a friend who smells and one who bruises you who would you pick?	Joyful
+Richard Burke	Wow. Well being a huge Knicks fan myself, I think you should take someone who's a huge Knicks fan.	Neutral
+Chandler Bing	Ok, that's Eric.	Neutral
+Richard Burke	Glad to be of help. Matches.	Joyful
+Monica Geller	I meant, why don't you take Richard to the game? What?	Scared
+Joey Tribbiani	I don't know.	Scared
+Monica Geller	C'mon. Keeps his fingers to himself and he's always minty fresh.	Scared
+Chandler Bing	I don't know, Richard's really nice and everything, uh, it's just that we don't know him really well, ya know, and plus he's, ya know, old -er than some people, but, uh, younger than some buildings.	Scared
+Monica Geller	So what, he's a little older, big deal, I mean he's important to me. Ya know if you ask him, he might take you on his Jag.	Mad
+Joey Tribbiani	How do we say yes now and make it seem like we're not doin' it just to ride in the cool car?	Joyful
+Chandler Bing	Ok, this could be tough.	Neutral
+Joey Tribbiani	Ok ok ok ok. Monica, we'll bring him, but only if he takes the Jaguar.	Neutral
+Chandler Bing	Ooh, you almost had it.	Joyful
+
+Ross Geller	No no, you're fine, you're fine.	Peaceful
+Carol Willick	Hello	Neutral
+Ross Geller	Hi.	Neutral
+Susan Bunch	Hey.	Neutral
+Carol Willick	Hi honey.	Joyful
+Ross Geller	Oh you guys are not gonna believe what happened.	Joyful
+Carol Willick	What?	Scared
+Susan Bunch	What?	Joyful
+Ross Geller	Ok, we were sitting over there playing on the floor and he grabs the table and he pulls himself up. He pulled himself up. Standing man. I'm sorry you guys missed it but I did tape it so it you guys want to see it.	Joyful
+Carol Willick	Uhh, we know, he already did it last week.	Joyful
+Susan Bunch	You can watch our tape if you want.	Powerful
+Ross Geller	I don't believe this. I miss, I miss the first time of everything. I missed, what, the first time he rolled over, the first time he crawled. What else did I miss? Has he spoken yet, is he driving, does he have a favorite liquour?	Mad
+Carol Willick	Actually, he is getting closer on the talking thing. He can't quite say mama yet, but once he said yumen.	Powerful
+Ross Geller	Ooh, I, I'm so sick of missing stuff. Ya know, I want him for more than, than a day, I want him for a whole weekend. No listen , I mean, I feel like-	Sad
+Carol Willick	Great. That would be fine.	Powerful
+Ross Geller	Really? I mean, I, I had a whole speach prepared.	Powerful
+Susan Bunch	Oh shout, that would have been fun.	Joyful
+Ross Geller	Oh look, did, did you just see that? Did you see? He just waved, he just waved, he's never waved before, you've never waved before. Yes he has. Very good.	Joyful
+
+Phoebe Buffay	Hey.	Neutral
+Rachel Green	Hey Phoebs, whatcha got there?	Neutral
+Phoebe Buffay	Ok, Love Story, Brian's Song, and Terms of Endearment.	Neutral
+Monica Geller	Wow, all you need now is The Killing Fields and some guacamole and you've got yourself a part-ay.	Joyful
+Phoebe Buffay	Yeah, I talked to my grandma about the Old Yeller incident, and she told me that my mom used to not show us the ends of sad movies to shield us from the pain and sadness. You know, before she killed herself.	Sad
+Chandler Bing	Hey.	Neutral
+Joey Tribbiani	Hey.	Neutral
+Rachel Green	Hey.	Neutral
+Monica Geller	Hey. Where is he, where's Richard? Did you ditch him?	Neutral
+Joey Tribbiani	Yeah right after we stole his lunch money and gave him a wedgie. What's the matter with you, he's parking the car.	Mad
+Monica Geller	So'd you guys have fun?	Neutral
+Chandler Bing	Your boyfriend is so cool.	Joyful
+Monica Geller	Really?	Neutral
+Chandler Bing	Yeah, he let us drive his Jaguar. Joey for 12 blocks, me for 15.	Neutral
+Rachel Green	Wow, he must like you the best.	Joyful
+Joey Tribbiani	Oh, what about that thing he did when he tipped the guy who showed us to our seats. You never even saw the money, it was like this. Hey Chandler, thanks for showing us to our seats .	Joyful
+Chandler Bing	You're welcome. Hey Joey, thanks for parking the car .	Neutral
+Joey Tribbiani	No problem. Hey Chandler	Neutral
+Chandler Bing	I think they get it.	Neutral
+Joey Tribbiani	Ok.	Neutral
+Chandler Bing	There's the man.	Neutral
+Joey Tribbiani	He-he-eyy.	Joyful
+Richard Burke	Hey, you're gettin' better. I'm gonna keep this by the way.	Neutral
+Joey Tribbiani	Ok. He kept my dollar.	Sad
+
+Phoebe Buffay	Hey. Oh thanks for the great movie tip.	Joyful
+Monica Geller	Did you like it?	Neutral
+Phoebe Buffay	Oh yeah. You know, I don't know if I was happier when um George Bailey destroyed the family business or um, Donna Reid cried, or when the mean pharmacist made his ear bleed.	Joyful
+Monica Geller	Alright, I'll give you the ear thing but don't you think the ending was pretty wonderful?	Powerful
+Phoebe Buffay	I didn't watch the ending, I was too depressed. It just kept getting worse and worse, it should have been called, "It's a sucky life and just when you think it can't suck any more it does."	Sad
+
+Ross Geller	I have to say Tupolo Honey by Van Morrison.	Peaceful
+Rachel Green	Nooo Way! The most romantic song ever is The Way We Were.	Peaceful
+Phoebe Buffay	See, I-I think that one that Elton John wrote for, um, that guy on Who's The Boss.	Joyful
+Rachel Green	What song was that, Pheebs?	Neutral
+Phoebe Buffay	Hold me close, young Tony Dan-za.	Neutral
+Phoebe Buffay	Hi Monica!	Joyful
+Ross Geller	Hey Mon!	Joyful
+Rachel Green	Hey Mon!	Joyful
+Phoebe Buffay	Oh my God, has she slept at all?	Mad
+Ross Geller	Nope.	Neutral
+Rachel Green	No, it's been three nights in a row.	Neutral
+Ross Geller	Yeah, she finally stopped crying yesterday, but then she found one of Richard's cigar butts out on the terrace, so.	Peaceful
+Phoebe Buffay	Oh, okay that explains it. I got a call at two in the morning, but all I could hear was, like, this high squeaky sound, so I thought okay its like a mouse or a opossum. But then I realized where would a mouse or a opossum get the money to make the phone call.	Powerful
+
+Chandler Bing	Morning.	Neutral
+Joey Tribbiani	Morning, hey, you made pancakes?	Joyful
+Chandler Bing	Yeah, like there's any way I could ever do that.	Scared
+Janice Litman Goralnik	Monica and Rachel had syrup, now I can get my man to cheer up. Good morning Joey.	Joyful
+Joey Tribbiani	Good morning.	Joyful
+Chandler Bing	Hey, you know what, here's a thought. Why don't you stay home from work today and just hang out with me.	Peaceful
+Janice Litman Goralnik	Oh, I wish. Look, honey, you have that report to finish, and I gotta go see my lawyer.	Peaceful
+Chandler Bing	I can not believe that I am going out with someone that is getting divorced. I'm such a grown up.	Sad
+Janice Litman Goralnik	I-I-I gotta go, I gotta go. Okay, not without a kiss.	Joyful
+Chandler Bing	Well, maybe I won't kiss you, and then you'll have to stay.	Powerful
+Joey Tribbiani	Kiss her! Kiss her!	Joyful
+Janice Litman Goralnik	I'll see you later, sweetie. Bye Joey.	Joyful
+Joey Tribbiani	B-bye Janice. So when ya' dumpin' her.	Neutral
+Chandler Bing	Nope, not this time.	Neutral
+Joey Tribbiani	Come on, quite yankin' me.	Joyful
+Chandler Bing	I'm not yanking you.	Neutral
+Joey Tribbiani	This is Janice.	Neutral
+Chandler Bing	Yeah, I know. She makes me happy.	Peaceful
+Joey Tribbiani	Okay. All right. You look me in the eye and tell me, without blinking, that you're not breaking up with her. No blinking.	Neutral
+Chandler Bing	I'm not breaking up with her!	Peaceful
+
+Monica Geller	God, look what I found in the drain.	Scared
+Rachel Green	What?!	Scared
+Monica Geller	It's some of Richard's hair! What do I do with this?	Scared
+Ross Geller	Getting it away from me would be job one.	Neutral
+Monica Geller	It's weird, but you know what I don't wanna throw this away. I mean this is like all I have left of him, gross, drain hair. Ooh!	Scared
+Phoebe Buffay	Ooh. Oh. It looks like, like a tiny little person drowning in your cereal.	Neutral
+Monica Geller	God, what is wrong with me.	Sad
+Ross Geller	You need to get some sleep.	Neutral
+Monica Geller	I need to get some Richard.	Sad
+Rachel Green	Monica, you broke up with him for a reason.	Neutral
+Monica Geller	I know, I know. I'm just so tired of-of missing him. I'm tired of wondering why hasn't he called. Why hasn't he called!	Sad
+Phoebe Buffay	Maybe, because you told him not to.	Neutral
+Monica Geller	What are you the memory woman?	Mad
+Joey Tribbiani	Their not breaking up. Chandler and Janice. Their not breaking up. He didn't blink or anything.	Neutral
+Rachel Green	Well, you know I'm not surprised. I mean have you seen them together, they're really cute.	Joyful
+Joey Tribbiani	Cute! This is Janice! You remember Janice?	Mad
+Rachel Green	Yes, Joey, I remember, she's annoying, but you know what she's-she's his girlfriend now. I mean what can we do?	Neutral
+Joey Tribbiani	There you go! That's the spirit I'm looking for! What can we do? Huh? All right who's first? Huh? Ross?	Joyful
+Ross Geller	Well I'm thinking that Chandler's our friend and Janice makes him happy, so I say we just all be adult about it and accept her.	Neutral
+Joey Tribbiani	Yeah, we'll call that Plan B. All right?	Neutral
+
+Rachel Green	Honey, I was wondering....	Peaceful
+Ross Geller	Hmm?	Peaceful
+Rachel Green	Do you still have that, um, Navy uniform?	Joyful
+Ross Geller	Nooo, I had to return it to the costume place.	Sad
+Rachel Green	Hmm.	Peaceful
+Ross Geller	I think I have an old band uniform from high school.	Neutral
+Rachel Green	You remember not having sex in high school, right?	Joyful
+Ross Geller	Yeah.	Sad
+Rachel Green	Well honey, what about you?	Sad
+Ross Geller	What?	Neutral
+Rachel Green	I mean do you have any fun, you know, fantasy type things?	Peaceful
+Ross Geller	No.	Neutral
+Rachel Green	Come on you gotta have one!	Joyful
+Ross Geller	Nope.	Neutral
+Rachel Green	Ross, you know what...	Joyful
+Ross Geller	What?	Scared
+Rachel Green	...if you tell me, I might do it.	Joyful
+Ross Geller	Okay, umm. Did you ever see, um, Return Of The Jedi?	Scared
+Rachel Green	Yeah.	Neutral
+Ross Geller	Do you remember the scene with, um, Jabba the Hut? Well Jabba had as, as his prisoner, um, Princess Leia.	Peaceful
+Rachel Green	Oooh!	Joyful
+Ross Geller	Princess Leia, was wearing this, um, gold bikini thing. It was pretty cool.	Joyful
+
+Chandler Bing	Hey!	Joyful
+Joey Tribbiani	Wheel!	Joyful
+Chandler Bing	Of!	Joyful
+Joey Tribbiani	Fortune! This guy is so stupid. It's Count Rushmore!!	Mad
+Chandler Bing	You know, you should really go on this show. All right, listen, I got three tickets to the Rangers tonight. What'd ya' say?	Joyful
+Joey Tribbiani	I say, 'I am there!' Cool! Aw, is Ross going to?	Neutral
+Chandler Bing	No, Janice.	Neutral
+Joey Tribbiani	Jan-ice. 'Cause I, just, I feel bad for Ross, you know, we-we always go together, we're like the three hocke-teers.	Sad
+Chandler Bing	You know, I may be way out on a limb here, but do you, do you, have a problem with Janice?	Neutral
+Joey Tribbiani	No, Yeeees. God, how do I say this. . Oh, hi, you know that girl from the Greek restaurant with the hair ?	Mad
+Chandler Bing	Ooh, that girl that I hate, eww, drives me crazy, eww, eww, oh!	Mad
+Joey Tribbiani	Look, I don't hate Janice, she's-she's just a lot to take, you know.	Neutral
+Chandler Bing	Well, there you go.	Neutral
+Joey Tribbiani	Oh, hey. Come on man, don't look at me like that, she used to drive you nuts before too, remember?	Peaceful
+Chandler Bing	Well, I'm crazy about her now. I think this could be the real thing. Capital 'R'! Capital 'T'! Don't worry, those are the right letters.	Mad
+Joey Tribbiani	Look, what do you want me to say?	Neutral
+Chandler Bing	I want you to say that you like her!	Mad
+Joey Tribbiani	I can't. It's like this chemical thing, you know. Every time she starts laughing, I just wanna pull my arm off just so that I can have something to throw at her.	Mad
+Chandler Bing	Thanks for trying. Oh, and by the way there is no Count Rushmore!	Mad
+Joey Tribbiani	Yeah, then-then who's the guy that painted the faces on the mountain?	Mad
+
+Ross Geller	How could you have told her?	Scared
+Rachel Green	Ross, I didn't think it would that big of a deal.	Mad
+Ross Geller	Oh, she didn't think it would be that big of deal.	Mad
+Rachel Green	Okay, who are you talking to when you do that?	Scared
+Ross Geller	Look, that was supposed to be like a private, personal thing between us.	Mad
+Rachel Green	Okay, Ross, Phoebe is my girlfriend, okay, we tell each other everything. You know, I mean, come on, guys do the same thing, I mean, what about all that locker room stuff.	Mad
+Ross Geller	That's different, okay. That's like, uh 'Who dated a stripper?' or 'Who did it on the back of the Staton Island Ferry?'.	Mad
+Rachel Green	Were both of those Joey?	Neutral
+Ross Geller	Yeah. Look, you don't, you don't talk about like, you know, your girlfriend and the intimate stuff you, you do with her.	Mad
+Rachel Green	Not even with your best friend.	Neutral
+Ross Geller	Noo!	Mad
+Rachel Green	That is so sad. Your missing out on so much, Ross. I mean, the bonding and the sharing, you know. And-and knowing that someone else is going through the same thing you are.	Sad
+Ross Geller	Hmph. So what you, you tell each other everything?	Scared
+Rachel Green	Pretty much.	Joyful
+Ross Geller	Did you talk about the night of five times? Do you tell people about the night of five times?	Neutral
+Rachel Green	Uh, honey, yeah that was with Carol.	Joyful
+Ross Geller	I know, but it's still worth mentioning, I think.	Scared
+
+Phoebe Buffay	Relax every muscle in your body. Listen to the plinky-plunky music. Okay, now close you eyes, and think of a happy place. Okay, tell me your happy place.	Powerful
+Monica Geller	Richard's living room, drinking wine.	Joyful
+Phoebe Buffay	All right. No, no, no, not a Richard thing, just put down the glass. And get out!	Scared
+Monica Geller	I'm sorry, but that's my happy place.	Powerful
+Phoebe Buffay	Well, okay, fine, use my happy place. Okay, I'm just gonna, I have to ask that you don't move anything.	Mad
+Monica Geller	All right, I'll try not to.	Scared
+Phoebe Buffay	Okay, all right, so, your in a meadow, millions of stars in the sky....	Peaceful
+Monica Geller	Do you think breaking up with him was a huge mistake?	Scared
+Phoebe Buffay	All right, there are no questions in the happy place. Okay, just, the warm breeze, and the moonlight flowing through the trees....	Peaceful
+Monica Geller	I'll bet he's totally over me, I'll bet he's fine.	Powerful
+Phoebe Buffay	All right, betting and wagering of any kind, are, I'm sure, not permitted in the happy place. Okay. Just-just, you know, the-the lovely waterfalls, and the, the trickling fountains. And the-the calming sounds of the babbling brook....	Peaceful
+Monica Geller	Okay, this isn't working. I'm still awake and now I have to pee.	Powerful
+
+Janice Litman Goralnik	So, I hear, you hate me!	Mad
+Joey Tribbiani	I, ah, I never said hate, I was very careful about that.	Scared
+Janice Litman Goralnik	A little birdie told me something about you wanting to rip your arm off and throw it at me.	Mad
+Joey Tribbiani	And you got a 'hate' from that?! Your taking a big leap there...	Scared
+Janice Litman Goralnik	All right, fine, fine, fine, fine, fine, We've got to do something about our little situation here Joey. So, this is my idea you and me spending some quality time together.	Sad
+Joey Tribbiani	But what does that gonna do...	Peaceful
+Janice Litman Goralnik	For Chandler!	Powerful
+Joey Tribbiani	Okay. I'm in.	Joyful
+Janice Litman Goralnik	Okay. All right. This is what we're gonna call it 'Joey and Janice's DAY OF FUN!'	Joyful
+Joey Tribbiani	Does it have to be a whole day?	Powerful
+Janice Litman Goralnik	Yes, because that's how long it takes to love me.	Peaceful
+Joey Tribbiani	Yeah, I know, I sleep in the next room.	Peaceful
+
+Janice Litman Goralnik	We're baack!	Joyful
+Joey Tribbiani	Hey!	Joyful
+Chandler Bing	What are you guys doing together?	Neutral
+Janice Litman Goralnik	Joey and Janice's DAY OF FUN!!!	Joyful
+Chandler Bing	Really.	Neutral
+Joey Tribbiani	Yeah, yeah. We went to a Mets game, we got Chinese food, and you know, I love this woman. You have got competition buddy.	Peaceful
+Janice Litman Goralnik	I just came by to give you a kiss, I have to go pick up the baby, so. I'll see you later sweetheart, you too Chandler.	Joyful
+Chandler Bing	You still can't stand her can you?	Neutral
+Joey Tribbiani	I'm sorry man, I tired, I really did.	Sad
+Chandler Bing	Well, you know, I appreciate you giving it a shot.	Peaceful
+Joey Tribbiani	But, hey, look, you know the good thing is, is that we spent the whole day together and I survived, and what's even more amazing, so did she. It was bat day at Shea Stadium.	Joyful
+Chandler Bing	Well, I guess that's something.	Peaceful
+Joey Tribbiani	No man, that's huge! Now, I know I can stand to be around her, which means I get to hang out with you, which is kinda the whole point, anyway.	Neutral
+Chandler Bing	Okay.	Neutral
+Joey Tribbiani	Oh, hey, Chandler, we, ah, we stopped by the coffee shop and ran into Ross.	Neutral
+Chandler Bing	Oh God!	Scared
+Joey Tribbiani	Hey, if it makes you feel any better, I do it too.	Neutral
+Chandler Bing	Really?	Neutral
+Joey Tribbiani	Oh yeah, I always picture your Mom when I'm having sex.	Joyful
+
+Monica Geller	Hi, Dad, what are you doing here?	Joyful
+Jack Geller	Well, it's your mother's bridge night so I thought that I would come into the city for a little Monicuddle. Since when did you start smoking cigars?	Peaceful
+Monica Geller	I don't, I just, I just like the smell of them. So, uh, what are you really doing here Dad?	Neutral
+Jack Geller	Well, I just wanted to make sure you were okay.	Peaceful
+Monica Geller	What makes you think that I might not be okay?	Sad
+Jack Geller	I saw Richard.	Powerful
+Monica Geller	Oh.	Scared
+Jack Geller	So, how are you doing?	Neutral
+Monica Geller	I'm fine, just a little tired, I'm okay. How's Richard doing?	Sad
+Jack Geller	You don't wanna know.	Neutral
+Monica Geller	No, I really, really do.	Peaceful
+Jack Geller	Well, he's doing terrible!	Powerful
+Monica Geller	Really!	Joyful
+Jack Geller	Worse than when he broke up with Barbara.	Sad
+Monica Geller	You're not just saying that are you?	Neutral
+Jack Geller	No, the man is a mess.	Powerful
+Monica Geller	Was he crying?	Neutral
+Jack Geller	No.	Neutral
+Monica Geller	Well, do you think he was waiting 'til after you left, so he could cry?	Neutral
+Jack Geller	Maybe.	Neutral
+Monica Geller	I think so.	Joyful
+Jack Geller	Honey, relationships are hard. Like with your Mom and me. You know after we graduated college we broke up for a while. It seems her Father, your Grandfather, wanted her to travel around Europe, like he did. Of course, he got to do it on Uncle Sam's nickel, because he was also strafing German troop trains at the time. However,	Peaceful
+
+The Guys	Yes! Yes! Yes! Yes! Awww!	Joyful
+Phoebe Buffay	Hey, it's your Thanksgiving too, y'know, instead of watching football, you could help.	Neutral
+The Guys	We will.	Peaceful
+Monica Geller	Okay, Rachel, you wanna put the marshmellows in concentric circles.	Neutral
+Rachel Green	No Mon, you want to put them in concentric circles. I want to do this.	Neutral
+Monica Geller	Every year.	Neutral
+
+Rachel Green	We should defiantly play football more often. Maybe there's a like league we could join or something.	Joyful
+Phoebe Buffay	Isn't there a national football league.	Neutral
+Chandler Bing	Yes. Yes, there is, they play on Sundays and Monday nights.	Neutral
+Rachel Green	Oh shoot! I work Monday nights.	Sad
+Phoebe Buffay	Umm, this stuffing is amazing. Do you think we should bring them some?	Joyful
+Joey Tribbiani	When they're hungry enough, they'll come in.	Neutral
+
+Monica Geller	Let go!	Mad
+Ross Geller	No! You let go!	Mad
+Monica Geller	No!	Mad
+Ross Geller	How come it's always us left in the field holding the ball?	Neutral
+Monica Geller	I don't know. I guess the other people just don't care enough.	Mad
+Ross Geller	Hey! It's starting to snow.	Joyful
+Ross Geller	Gimme the this!	Mad
+Monica Geller	Let go!	Mad
+
+Rachel Green	So who's idea was it to put everybody in the diner on skates?	Neutral
+Monica Geller	Oh, some idiot customer put a suggestion in the suggestion box.	Mad
+Phoebe Buffay	Oh my God, they took my idea!	Joyful
+Monica Geller	That was you?!	Neutral
+Phoebe Buffay	Yeah! Okay, here you go.	Neutral
+Gunther	Rachel, I made you a cocoa.	Neutral
+Phoebe Buffay	Oh my God, are you guys okay?	Scared
+Gunther	Are you all right?	Neutral
+Joey Tribbiani	Oh my.	Sad
+
+Chandler Bing	Hey.	Joyful
+Joey Tribbiani	Hey. Y'know with that goatee you kinda look like Satan.	Neutral
+Chandler Bing	Oh, so that's why the priest threw holy water on me. Okay, listen, you have to cheer up! Okay? You should come out with Ross and me, I mean anything is better than sitting around here crying all day about Kate.	Peaceful
+Joey Tribbiani	Hey I was crying because, because nobody believed Quincy's theory. Okay?	Sad
+Ross Geller	Hey!	Joyful
+Chandler Bing	Hey.	Joyful
+Ross Geller	I'm gonna be on TV!!	Joyful
+Chandler Bing	No way!	Joyful
+Ross Geller	Yeah! They're putting together this panel to talk about these fossils they just found in Peru and The Discovery Channel's gonna film it!	Powerful
+Chandler Bing	Oh my God! Who's gonna watch that?!	Powerful
+Ross Geller	Thanks. You ready to go?	Joyful
+Chandler Bing	Yeah.	Joyful
+Joey Tribbiani	Saw a girl with that vest.	Peaceful
+Chandler Bing	Thanks.	Powerful
+Anchorwoman	While most of us think of chocolate bunnies and baskets as traditional Easter gifts. Some people insist on giving live chicks as presents. Unfortunately, the sad fact remains that most of these little guys won't live to see the fourth of July. Because of as a result of improper care, they will be dead.	Powerful
+Joey Tribbiani	Yeah, hi. You guys got any of those baby chicks? 'Cause I was watching this ah, commercial on TV and man, those guys are cute!	Joyful
+
+Peter Becker	Hi!	Joyful
+Monica Geller	Hi! Hey, Pete you're back! Hey, check this out.	Joyful
+Peter Becker	Wow! Skates!	Joyful
+Monica Geller	Wow! You're a lot sturdier that Chandler. He crumpled like a piece of paper. So how was you're trip?	Neutral
+Peter Becker	Well...	Neutral
+Monica Geller	Oh, what'd ya bring me?! Awww, hotel toiletries from Japan. Oh, these are gonna go in my permanent collection. You want some coffee?	Neutral
+Peter Becker	Yeah, sure, that'd be great.	Joyful
+Monica Geller	Regular or decaf?	Neutral
+Peter Becker	Ah, which ever is closest.	Peaceful
+Monica Geller	Okay.	Peaceful
+Peter Becker	So ask me what I did today.	Neutral
+Monica Geller	So what did you do today Pete?	Neutral
+Peter Becker	I bought a restaurant and I would like you to be the head chef.	Peaceful
+Monica Geller	What?! Oh.	Joyful
+
+Monica Geller	Can you believe he just offered me a restaurant?	Joyful
+Rachel Green	What a jerk! You want me to kick his ass?	Mad
+Monica Geller	I mean this has been like my dream since I got my first Easy Bake Oven and opened Easy Monica's Bakery. I mean I would kill for this job. I mean I can totally do this job, and God knows I paid my dues. But Pete's just doing this because he has a crush on me.	Mad
+Rachel Green	And you're still not attracted to him at all?	Neutral
+Monica Geller	Hmm, no. I mean how can I accept a restaurant from him? I-I-I-I can't. I couldn't even accept a necklace from Stu Vincent in the seventh grade.	Scared
+Rachel Green	Yeah, but Mon that's totally different. He was you're health teacher.	Peaceful
+Monica Geller	Oh, please.	Sad
+Monica Geller	What? Honey.	Scared
+Rachel Green	Oh, I am, my side still hurts from when you crashed into me yesterday.	Neutral
+Monica Geller	Oh God, I'm so sorry.	Sad
+Rachel Green	I know.	Neutral
+Rachel Green	Ow!!	Mad
+Monica Geller	Oh God!	Sad
+Ross Geller	Hey, you guys! Guess what?	Joyful
+Rachel Green	Got a job on a river boat?	Joyful
+Ross Geller	Y'know what I didn't wear this suit for a year because you hated it. Well, guess what? You're not my girlfriend anymore so...	Powerful
+Rachel Green	Oh I see, so this suit is making a point.	Powerful
+Ross Geller	Right.	Powerful
+Rachel Green	Now that you're on you're own, you're free to look as stupid as you like.	Mad
+Ross Geller	You like it right?	Powerful
+Monica Geller	Oh absolutely. I like it even more on you than I did on Colonel Sanders. Ross! Ross! I'm kidding!	Joyful
+Rachel Green	Yeah, come here!	Joyful
+Monica Geller	What-what was it you were gonna tell us?	Joyful
+Rachel Green	Yeah. Oh! Was how you invented the cotton gin?!	Joyful
+Ross Geller	Okay, good bye!	Mad
+
+Chandler Bing	So um, after you put the suggestion in the box, how long did it take for the roller skating thing to happen.	Neutral
+Phoebe Buffay	Umm, oh, about three months.	Neutral
+Chandler Bing	Okay, so I guess that's about ah, two weeks before the topless thing kicks in.	Neutral
+Joey Tribbiani	Hey!!	Joyful
+Chandler Bing	Hey!	Joyful
+Joey Tribbiani	I got you something! Open it! Open it!	Joyful
+Chandler Bing	Okay. It's a chicken.	Mad
+Joey Tribbiani	It's cute, huh?	Joyful
+Phoebe Buffay	Whoa-whoa-whoa, you guys, do you know anything about chicks?	Joyful
+Chandler Bing	Fowl? No. Women? Nooo.	Sad
+Phoebe Buffay	Okay, well they are a huge responsibility, especially at this age. They require constant care. They-they need just the right food, and lot's and lot's of love.	Neutral
+Joey Tribbiani	Oh, well no problem there.	Joyful
+Chandler Bing	Easy Lenny.	Powerful
+
+Rachel Green	Oww!	Scared
+Ross Geller	Wow! That aspirin dance really works!	Joyful
+Rachel Green	Oww!	Sad
+Ross Geller	Oh my God, is that still...	Neutral
+Rachel Green	I'm fine, I'm fine.	Scared
+Ross Geller	No you're not.	Mad
+Rachel Green	Yes I am!	Neutral
+Ross Geller	Rach!	Neutral
+Rachel Green	Look, I'm fine. Watch. Look at that. Whoa-whoa!	Scared
+Ross Geller	Okay, okay. Look, you have got to go to a doctor! Okay?	Scared
+Rachel Green	No. I have got to get ready and go to a dinner at my bosses house. It's a very big deal, there's a lot of people there I have to meet.	Neutral
+Ross Geller	And I'm sure you're gonna make a big impression. Hi! I'm Rachel Green. It's nice to meet you. Come on, you probably have a broken rib!	Mad
+Rachel Green	Well, I will go to the hospital tomorrow, it'll still be broken then.	Neutral
+Ross Geller	Rach...	Neutral
+Rachel Green	But y'know, I could use a hand getting ready.	Neutral
+Ross Geller	Rachel...	Neutral
+Rachel Green	Look, either help me or go.	Mad
+Ross Geller	Fine. I'll go.	Scared
+Rachel Green	Okay, but before you go, could you help me first?	Neutral
+Ross Geller	Sure. I'll help you.	Neutral
+Chandler Bing	Oh, good! Good! Do you guys know how to get a chick out of a VCR?!	Joyful
+
+Rachel Green	Y'know what? I cannot do this with my left hand! Would you please, help me with this too?	Neutral
+Ross Geller	Ohh.	Neutral
+Rachel Green	Okay. Let's use this brush.	Neutral
+Ross Geller	Okay. This stuff?	Neutral
+Rachel Green	Yeah.	Neutral
+Ross Geller	All right.	Neutral
+Rachel Green	Careful. Light. Okay, do you know how, just sweep it across the lid. Okay? Just sweep it.	Neutral
+Ross Geller	Oke-dokey.	Neutral
+Rachel Green	Oh-ho!	Neutral
+Ross Geller	Sorry.	Peaceful
+Rachel Green	Hey! That's just poking me in the eye!	Mad
+Ross Geller	Sorry, I'm sorry. Close, close, close...	Sad
+Rachel Green	Okay, just sweep it.	Powerful
+Ross Geller	I'm sweeping...	Neutral
+Rachel Green	Right.	Neutral
+Ross Geller	Sweep, sweep....	Neutral
+Rachel Green	Okay, now make it even, 'cause we don't...	Powerful
+Ross Geller	What? What?	Scared
+Rachel Green	We don't want it-it to be too much, we want it to be subtle.	Mad
+Ross Geller	No. No, y'know you don't, you don't wear enough of this. What?	Neutral
+Rachel Green	Since when, since when do you think I don't wear enough of this?	Mad
+Ross Geller	Well I, close your eyes, I just think you're gonna like this a little better, 'cause, close-close...	Neutral
+Rachel Green	Blow it.	Mad
+Ross Geller	Sorry. 'Cause umm, I think this will make you a little more sophisticated.	Joyful
+Rachel Green	Sophisticated like a hooker?	Mad
+
+Monica Geller	Hey!	Joyful
+Phoebe Buffay	Hey!	Joyful
+Monica Geller	Hey, guess what I'm doing tonight.	Joyful
+Phoebe Buffay	What?	Sad
+Monica Geller	I'm checking out the restaurant with Pete.	Joyful
+Phoebe Buffay	Ohh, Monica, I am so excited for you.	Joyful
+Monica Geller	I know.	Neutral
+Phoebe Buffay	Ooh, I have to tell you something.	Neutral
+Monica Geller	What?	Neutral
+Phoebe Buffay	But I can't tell you.	Powerful
+Monica Geller	Okay, but wouldn't it be easier if you had to tell me something that you could tell me.	Peaceful
+Phoebe Buffay	Well, sure in a perfect world. But, no, I promised I wouldn't tell, and I swore to like all my gods.	Peaceful
+Monica Geller	Okay. Does it have to do with Ross and Rachel?	Scared
+Phoebe Buffay	No.	Neutral
+Monica Geller	Does it have to do with Joey?	Scared
+Phoebe Buffay	No.	Neutral
+Monica Geller	Does it have to do with-with Chandler and that sock that he keeps by his bed?	Scared
+Phoebe Buffay	No, but let's come back to that later!	Powerful
+
+Monica Geller	Does it involve travel?	Neutral
+Phoebe Buffay	Noo!	Neutral
+Monica Geller	Does it involve clogs?	Neutral
+Phoebe Buffay	Oh, wait, wait. Clogs, or claws?	Neutral
+Monica Geller	Clogs.	Neutral
+Phoebe Buffay	No.	Neutral
+Monica Geller	Claws?!	Scared
+Phoebe Buffay	No.	Peaceful
+Monica Geller	Okay, so it doesn't involve Ross or Rachel or Chandler or Joey. But, what about Pete?	Scared
+Phoebe Buffay	No!	Joyful
+Monica Geller	What is it?! What about Pete?	Neutral
+Phoebe Buffay	I don't know!	Neutral
+Monica Geller	Okay, I feel like I'm talking to Lassie. All right, Phoebe would you just tell me!	Neutral
+Phoebe Buffay	I can't!!	Neutral
+Monica Geller	Okay, I gotta go.	Neutral
+Phoebe Buffay	I, but you're so close! No!	Neutral
+Monica Geller	Okay, does it involve something to do with Pete's computer company?	Neutral
+Phoebe Buffay	Oh, just go. You're never gonna get it!	Neutral
+
+Chandler Bing	I know. See, yes. That's Yasmine Bleeth, she's a completely different kind of chick. I love you both. But in very different ways.	Joyful
+Joey Tribbiani	Hey!	Joyful
+Chandler Bing	Hey!	Joyful
+Joey Tribbiani	Ohhh. Ahh! What are you doing?! I thought you were gonna take her back to the store today.	Scared
+Chandler Bing	I did! But the store wouldn't take her back! So then I took her to the shelter, and you know what I found out?	Neutral
+Chandler Bing	If they can't find a home for her, they kill her! And I'm not gonna let that happen to little Yasmine!	Scared
+Joey Tribbiani	Okay, good, good, good, 'cause, good, 'cause I was kinda having second thoughts too.	Joyful
+Chandler Bing	Okay. And it's not just chicks y'know? It's all kinds of other animals!	Powerful
+Joey Tribbiani	That's horrible! Well, you did the right thing man.	Powerful
+Chandler Bing	Thanks, I'm glad you see it that way.	Joyful
+Chandler Bing	Ohhh-hoo, funny story!	Joyful
+
+Monica Geller	I don't believe this! Wow, look at this refrigerator! It's gigantic! I mean I could live in this thing! I'd be cold, but I'm always cold. Oh my God, look at these spider burners! I love spider burners.	Joyful
+Peter Becker	So you like it?	Joyful
+Monica Geller	Oh, it is sooo perfect. Thank you so much.	Joyful
+Peter Becker	Oh, you're welcome.	Joyful
+Monica Geller	Did you just smell my hair?	Scared
+Peter Becker	Nooo. Uh-huh, no way. What? No.	Scared
+Monica Geller	Oh God.	Scared
+Peter Becker	What?	Scared
+Monica Geller	You still have feelings for me don't you?	Scared
+Peter Becker	Now, nooo! I'm just excited about the restaurant, that's all.	Joyful
+Monica Geller	Pete.	Powerful
+Peter Becker	Okay, I love you. Is that so bad?	Joyful
+Monica Geller	No, it's not bad. It's not bad at all. It's-it's really nice.	Joyful
+Peter Becker	Look, the only who stands to get hurt is me. And I'm okay with that.	Peaceful
+Monica Geller	You may be okay about getting hurt, but I am not okay with being the one who hurts you. That's why I can't take this job.	Joyful
+Peter Becker	What?	Neutral
+Monica Geller	And well, we probably shouldn't see each other anymore. I'm sorry.	Sad
+Peter Becker	Okay, yeah. I mean... If that's, if that's really what you want, okay.	Sad
+Monica Geller	Okay, bye.	Neutral
+Peter Becker	I'm sorry things didn't work out...	Sad
+Monica Geller	All right shut up for a second and let me just see something. Oh, wow!	Peaceful
+
+Joey Tribbiani	What 'cha doing?	Joyful
+Chandler Bing	Having a swim.	Peaceful
+Joey Tribbiani	What about the chick?	Neutral
+Chandler Bing	Chicks don't swim.	Peaceful
+Joey Tribbiani	Are you sure?	Scared
+Chandler Bing	I don't know. Should we try it?	Joyful
+Joey Tribbiani	Sure.	Joyful
+Chandler Bing	See, I told you they don't swim.	Neutral
+Joey Tribbiani	Wait. Give him a minute.	Peaceful
+Chandler Bing	Noo! Oh, it's okay, it's okay, baby, baby, baby.	Scared
+
+Ross Geller	Hi!	Joyful
+Bonnie	Hi!	Joyful
+Bonnie	Rachel was just helping me out. My head got all sunburned.	Neutral
+Ross Geller	Awww.	Peaceful
+Bonnie	Thanks a million.	Neutral
+Rachel Green	Oh, you're welcome a million.	Peaceful
+Bonnie	Okay, I'll see you in our room.	Neutral
+Ross Geller	Yeah.	Peaceful
+Rachel Green	Oh my God.	Scared
+Ross Geller	I know.	Neutral
+Ross Geller	Okay, I gotta go.	Scared
+Rachel Green	Whoa! What?! Why?!	Scared
+Ross Geller	Well, I-I gotta go break up with Bonnie.	Powerful
+Rachel Green	Here?! Now?!	Scared
+Ross Geller	Well, yeah. I can't-I can't stay here all night, and if I go in there she's-she's gonna wanna... do stuff.	Scared
+Rachel Green	Well, can't you tell her that you are not in the mood?	Neutral
+Ross Geller	No, she likes that. Yeah. Faking sleep doesn't work either, I can't tell you how many mornings I woke up with her...	Scared
+Rachel Green	Whoa-ho.	Scared
+Ross Geller	Whoa-oh, okay! Yeah, why am I telling you that?	Scared
+Rachel Green	I don't know.	Neutral
+Ross Geller	Yeah, yeah. It wasn't every morning.	Neutral
+Rachel Green	Oh, making it worse!	Mad
+Ross Geller	Okay.	Neutral
+
+Phoebe Abbott	So I guess you'd like to know how it all happened.	Powerful
+Phoebe Buffay	I-I mean I, well I think I can figure it out. I guess y'know I was born, and everyone started lying their asses off!	Powerful
+Phoebe Abbott	Noo! No! It wasn't like that I... Remember how I told you how Lily, Frank, and I we were, we were close. Well, we were, we were very close.	Sad
+Phoebe Buffay	How close?	Scared
+Phoebe Abbott	Well, the-the three of us we were, kind of umm, a couple.	Powerful
+Phoebe Buffay	I don't even know how that would work!	Powerful
+Phoebe Abbott	Well, we were...	Joyful
+Phoebe Buffay	I'm not asking!	Peaceful
+Phoebe Abbott	Well, any how, some how I got pregnant, and, and I was scared. I was stupid and sellfish, and I was 18 years old. I mean, you remember what it's like to be eighteen years old?	Scared
+Phoebe Buffay	Yeah. Let's see, my had Mom killed herself, and my Dad had run off, and I was living in a Gremlin with a guy named Cindy who talked to his hand.	Mad
+Phoebe Abbott	Well, I'm so sorry. I thought I was leaving you with the best parents in the world, I didn't even hear about your Mom and Dad til a couple of years ago, and by then you were already grown up. I don't know, you're here, and I would, I would really, I would like to get to know you.	Sad
+Phoebe Buffay	Yeah, well, everybody does! I'm a really cool person. And y'know you had 29 years to find that out, but you didn't even try! Y'know what, you walked out on me, and I'm just, I'm gonna do the same thing to you.	Powerful
+Phoebe Abbott	Wait!	Sad
+Phoebe Buffay	I don't ever want to see you again!	Sad
+Phoebe Buffay	Umm, where's my purse?	Scared
+
+Monica Geller	Shoot! We're out of soda.	Mad
+Chandler Bing	Oh, I'll go out and get you some.	Joyful
+Monica Geller	Really?!	Scared
+Chandler Bing	Nope! Because I'm not your boyfriend. Hey Pheebs, how did it go?	Scared
+Phoebe Buffay	Well, umm, my Mom's friend, Phoebe, is actually my birth Mom.	Peaceful
+Chandler Bing	I found a dried up seashores.	Neutral
+Monica Geller	Sweety, what are you talking about?	Scared
+Phoebe Buffay	Oh, my new Mom, who-who's a big, fat abandoner!	Peaceful
+Joey Tribbiani	Whoa, wait, Pheebs, wait a second! Don't you wanna stay here and talk about it?	Peaceful
+Phoebe Buffay	No. I'm just, I wanna, I need to be alone.	Powerful
+Phoebe Buffay	Monica!	Joyful
+Monica Geller	Oh.	Neutral
+
+Ross Geller	It's over.	Mad
+Rachel Green	Oh, was it awful?	Joyful
+Ross Geller	Well, it was loong. I didn't even realise how late it was, until I noticed the 5 o'clock shadow on her head. Anyway, she didn't want to stay. I called a cab; she just left.	Sad
+Rachel Green	I wrote you a letter.	Neutral
+Ross Geller	Ohh! Thank you! I like mail.	Joyful
+Rachel Green	It's just some things I've been thinking about. Some things about us, and before we can even think about the two of us getting back together, I just need to know how you feel about this stuff.	Peaceful
+Ross Geller	Okay. Wow, it's-it's 5:30 in the morning. So, I'd better get cracking on this baby.	Joyful
+Rachel Green	Well, I'll be waiting for you, just come up when you're done.	Neutral
+Ross Geller	Okay, I'll be up in, 18 pages. Front and back. Very exciting.	Joyful
+
+Ross Geller	Oh. Oh-oh.	Neutral
+Rachel Green	Hey! What happened to you? Why didn't you come up?	Powerful
+Ross Geller	Done!	Scared
+Rachel Green	You just finished?	Mad
+Ross Geller	Well, I wanted to be thorough. I mean this-this is clearly very, very important to you, to us! And so I wanted to read every word carefully, twice!	Scared
+Rachel Green	So umm, does it?	Scared
+Ross Geller	I'm sorry.	Scared
+Rachel Green	Does it?	Scared
+Ross Geller	Does it? Does it? Yeah, I wanted to give that whole 'Does it?' part just another glance.	Scared
+Rachel Green	What are you talking about, Ross, you just said that you read it twice! Look, y'know what, either it does or it doesn't, and if you have to even think about it...	Mad
+Ross Geller	No, Rach, no. I don't, I don't, I don't have to think about it, in fact, I've decided, I've decided that, that it.......does.	Scared
+Rachel Green	Are you sure?	Joyful
+Ross Geller	Oh, sure! I'm sure.	Scared
+Rachel Green	I know.	Joyful
+
+Chandler Bing	All right, there's a nuclear holocaust, I'm the last man on Earth. Would you go out with me?	Joyful
+Monica Geller	Ennnh.	Neutral
+Chandler Bing	I've got canned goods.	Neutral
+Joey Tribbiani	Hey, you guys! Take a look at this! Check this baby out, dug me a hole!	Peaceful
+Chandler Bing	Excellent hole, Joe.	Neutral
+Joey Tribbiani	Oh no! No!! My hole!!	Powerful
+Monica Geller	Ow!! Ow!!!	Powerful
+Joey Tribbiani	What?! What?!! What is it?!	Scared
+Monica Geller	Jellyfish sting! Oh, it hurts! It hurts!! It hurts!!	Neutral
+Chandler Bing	Well, can we help?! You want us to take you back to the house?!	Powerful
+Monica Geller	It's like two miles!	Peaceful
+Joey Tribbiani	Yeah, and I'm a little tired from digging the hole.	Peaceful
+Monica Geller	Oh damn the jellyfish. Damn all the jellyfish!	Neutral
+Chandler Bing	We've got to do something!	Peaceful
+Joey Tribbiani	Well, there's really only one thing you can do.	Powerful
+Monica Geller	What?! What is it?!	Peaceful
+Joey Tribbiani	You're gonna have to pee on it.	Neutral
+Monica Geller	What?!! Gross!!	Neutral
+Joey Tribbiani	Don't blame me, I saw it on The Discovery Channel.	Peaceful
+Chandler Bing	Y'know what, he's right. There's something like uh, ammonia in that, that like kills the pain.	Powerful
+Monica Geller	Well forget it! It doesn't hurt that baaad!!!!	Neutral
+Joey Tribbiani	If you want some privacy you can use my hole.	Neutral
+
+Phoebe Buffay	Well, I'm ready to get the hell out of here! Oh. Are you? Are you?!! Ohh! That's so great!! Ooh, not for Bonnie. But for you, yay! Ohh.	Joyful
+Ross Geller	Hey!	Peaceful
+Rachel Green	How was the beach?	Peaceful
+Monica Geller	Nothing, I don't know.	Sad
+Ross Geller	What happened?	Neutral
+Monica Geller	Nothing. I'm gonna take a shower.	Neutral
+Chandler Bing	Me too!!	Neutral
+Joey Tribbiani	Me too.	Neutral
+Phoebe Buffay	Okay, I'm gonna put this in the car.	Peaceful
+Rachel Green	Ooh, I have to go pack. It really does?	Powerful
+Ross Geller	It does. It really and truly does.	Scared
+Ross Geller	It so does not!!!	Powerful
+
+Ross Geller	She wants me to take responsibility for everything that went wrong in our relationship. I mean she goes on for five pages about, about how I was unfaithful to her! WE WERE ON A BREAK!!!!!	Mad
+Chandler Bing	Oh my God! If you say that one more time, I'm gonna break up with you!	Mad
+Ross Geller	Fine! Fine! But this break-up was not all my fault, and she, she says here, "If you accept full responsibility..." Full responsibility! "...I can begin to trust you again. Does that seem like something you can do. Does it?!!"	Mad
+Joey Tribbiani	No?	Neutral
+Chandler Bing	Look, Ross, you have what you want, you're back with Rachel. If you bring this up now you're gonna wreck the best thing that even happened to you.	Mad
+Ross Geller	Yeah, I know. I mean, no, you're right. Yeah I guess I'll let it go. But you-you understand how-how hard it is to forget about this.	Neutral
+Joey Tribbiani	Sure, it's hard to forget! But that doesn't mean you have to talk about it! A lot of things happened on that trip that we should never, ever talk about.	Mad
+Ross Geller	What the hell happened on that beach?!	Mad
+Joey Tribbiani	It's between us and the sea, Ross!	Mad
+
+Phoebe Buffay	Hi, Ursula.	Neutral
+Ursula Buffay	Hey!	Joyful
+Phoebe Buffay	Okay, well umm, I know that we haven't talked in a long time, but umm okay, our Mom is not our birth Mom. This-this other lady is our birth Mom.	Scared
+Ursula Buffay	Right, okay, the one that lives in Montuak, umm-hmm.	Powerful
+Phoebe Buffay	You know her?!	Mad
+Ursula Buffay	No, I umm, I read about her in Mom's suicide note.	Powerful
+Phoebe Buffay	There-there was a suicide note?! Well, do you still have it?	Mad
+Ursula Buffay	Hang on.	Mad
+Phoebe Buffay	I can't believe you didn't tell me there was a suicide note!	Mad
+Ursula Buffay	Yeah. So how have you been doing?	Neutral
+Phoebe Buffay	I, umm, shut up!	Mad
+Phoebe Buffay	"Good-bye Phoebe and Ursula. I'll miss you. P.S. Your Mom lives in Montauk." You just wrote this!	Mad
+Ursula Buffay	Well, it's pretty much the gist. Well, except for the poem. You read the poem, right?	Powerful
+Phoebe Buffay	Noooo!!	Mad
+Ursula Buffay	All right, hang on!	Powerful
+
+Phoebe Buffay	"...fuchsia and mauvvve. Those are the 66 colours of my bedroommmm." Thank you, thank you. Ohh, and I invite you to count the colours in your bedroom. Except for you. You go away.	Joyful
+Phoebe Abbott	I'll go in a second, I-I just wanted to tell you that there hasn't been a day where I didn't regret giving you up.	Peaceful
+Phoebe Buffay	Okay, bye.	Neutral
+Phoebe Abbott	No, I'm not done. I-I-I just want you to know that I, the reason I didn't look you up was, well I was afraid that you'd react, just well like, the way, the way you're reacting right now, and can't we just, y'know, start from here?	Sad
+Phoebe Buffay	No.	Neutral
+Phoebe Abbott	Sorry. But just one last thing. Y'know you came looking for family. I'm family, I'm it. Now, now I'm done.	Powerful
+Phoebe Buffay	But, it's not like we're losing anything. Y'know?	Neutral
+Phoebe Abbott	Yeah, I guess you're right.	Peaceful
+Phoebe Buffay	It's not like we-we know each other or anything. Or that have anything in common.	Sad
+Phoebe Abbott	Well, I don't know. I mean it's not like we don't have anything in common. I mean I like uh, pizza.	Joyful
+Phoebe Buffay	I-I like pizza!	Joyful
+Phoebe Abbott	You do?! Wait, I like umm, the Beetles.	Powerful
+Phoebe Buffay	Oh my God, so do I!	Powerful
+Phoebe Abbott	I knew it, wow!!	Powerful
+Phoebe Buffay	Wait-wait-wait, wait! Puppies. Cute or ugly?	Scared
+Phoebe Abbott	Ohh, so cute.	Peaceful
+Phoebe Buffay	Uh-huh, well! But umm, still I'm-I'm mad at you.	Mad
+Phoebe Abbott	I know. I'm mad at me too.	Mad
+Phoebe Buffay	Well umm, do you wanna get something to eat? I'm kinda hungry.	Scared
+Phoebe Abbott	Hey! Me too!	Powerful
+Phoebe Buffay	All right, stop it. Now you're just doing it to freak me out.	Neutral
+
+Rachel Green	Oh-hooo, I missed you.	Sad
+Ross Geller	I missed you too.	Sad
+Rachel Green	Ooh, I was soo nervous about that letter. But the way you owned up to everything, it just showed me how much you've grown. Y'know?	Scared
+Ross Geller	I suppose.	Powerful
+Rachel Green	You have! Ross, you should give yourself credit. I mean my Mom never thought this would work out. It was all, "Once a cheater, always a cheater."	Powerful
+Ross Geller	Umm-hmm.	Mad
+Rachel Green	Ooh, I just wish we hadn't lost those four months, but if time was what you needed just to gain a little perspective...	Powerful
+Ross Geller	WE WERE ON A BREAK!!!!!!!	Powerful
+Chandler Bing	Coffee house?	Powerful
+Monica Geller	You bet.	Powerful
+Ross Geller	And for the record, it took two people to break up this relationship!!	Powerful
+Rachel Green	Yeah! You and that girl from that copy place, which yesterday you took full responsibility for!!	Powerful
+Ross Geller	I didn't know what I was taking full responsibility for! Okay?! I didn't finish the whole letter!	Powerful
+Rachel Green	What?!!	Scared
+Ross Geller	I fell asleep!	Powerful
+Rachel Green	You fell asleep?!	Powerful
+Ross Geller	It was 5:30 in the morning, and you had rambled on for 18 pages. Front and back!! Oh-oh-oh, and by the way, Y-O-U-apostrophe-R-E means 'you are,' Y-O-U-R means 'your!'	Powerful
+Rachel Green	Y'know I can't believe I even thought about getting back together again! We are so over!!	Joyful
+Ross Geller	FINE BY ME!!	Joyful
+Rachel Green	Oh, oh, and hey-hey-hey, those little spelling tips will come in handy when you're at home on Saturday nights playing Scrabble with Monica!!	Powerful
+Monica Geller	Hey!!	Sad
+Rachel Green	Sorry!! I just feel bad about all that sleep you're gonna miss wishing you were with me!	Powerful
+Ross Geller	Oh, no-no-no don't you worry about me falling asleep. I still have your letter!!!	Powerful
+Rachel Green	And hey! Just so you know, it's not that common! It doesn't happen to every guy! And it is a big deal!!	Peaceful
+Chandler Bing	I KNEW IT!!!!	Peaceful
+
+Monica Geller	Gin.	Neutral
+Chandler Bing	We were playing Gin? Y'know if we were a couple, we could play this game naked.	Joyful
+Monica Geller	Will you stop!	Mad
+Chandler Bing	Okay. All right.	Powerful
+Monica Geller	Okay, all right, I think you're great, I think you're sweet, and you're smart, and I love you. But you will always be the guy who peed on me.	Powerful
+
+Monica Geller	Gin.	Joyful
+Chandler Bing	We were playing Gin? Y'know if we were a couple, we could play this game naked.	Joyful
+Monica Geller	Will you stop!	Scared
+Chandler Bing	Okay. All right.	Neutral
+Monica Geller	Okay, all right, I think you're great, I think you're sweet, and you're smart, and I love you. But you will always be the guy who peed on me.	Peaceful
+
+Cheryl	So, thank you for the delicious dinner.	Joyful
+Ross Geller	You're welcome for a delicious dinner.	Powerful
+Phoebe Buffay	Hey what are you guys looking at?	Neutral
+Chandler Bing	Ross and the most beautiful girl in the world.	Scared
+Phoebe Buffay	Yeah, come to papa.	Joyful
+Ross Geller	I know!	Powerful
+Monica Geller	Probably the only time I'll ever say this, but did you see the ass on her?	Peaceful
+Chandler Bing	Where did you, when did you, how did you... How did you get a girl like that?	Joyful
+Rachel Green	Yeah, so what is she, like a... like a spokesmodel, or an aerobics instructor, what?	Joyful
+Ross Geller	Actually she's a paleontology doctoral candidate, specializing in the centazoic era.	Powerful
+Chandler Bing	Okay, but that's, like, the easiest era.	Powerful
+Ross Geller	I've seen her at work, but I always figured, ah-huh? But, uh, I made her dinner. We had a great time. And we're going out again tomorrow.	Powerful
+Rachel Green	Well maybe she and her friends are just having a contest to see who can bring home the biggest geek.	Peaceful
+Ross Geller	Fine by me; hope she wins.	Joyful
+
+Ross Geller	Huh...	Joyful
+Cheryl	Um, would you like to come in?	Peaceful
+Ross Geller	Did homo-erectus hunt with wooden tools?	Joyful
+Cheryl	According to recent findings!	Neutral
+Cheryl	Here Mitzi! Here Mitzi!	Scared
+Ross Geller	Mitzi is.....	Scared
+Cheryl	My hamster. I hope she's okay, I haven't seen her in a while. Have a seat.	Peaceful
+Ross Geller	Uh... Oh hey, do you, uh ...do you have any, um, Cinnamon Fruit Toasties?	Scared
+Cheryl	What?	Scared
+Ross Geller	Well, I do! Why don't we go back to my place, light a couple of candles, break open a box of Cinnamon Fruit Toasties, uh...	Scared
+Cheryl	I'd rather not.	Peaceful
+Ross Geller	Oh, yeah, why not?	Scared
+Cheryl	Okay, um, don't take this the wrong way, but your place kinda has a weird smell.	Neutral
+
+Monica Geller	Oh, is everything in the car?	Neutral
+Phoebe Buffay	Yes. Did you settle the bill?	Neutral
+Monica Geller	No. I hate this part.	Powerful
+Phoebe Buffay	Oh, look what we almost left.	Peaceful
+Monica Geller	No, that's not mine.	Neutral
+Phoebe Buffay	Oh, all right. Oh! Look what we almost took!	Joyful
+Monica Geller	Excuse me, Mrs. Burkart? Well, we're all cleaned up in the kitchen.	Mad
+Mrs. Burkart	Oh, good. Thank you.	Joyful
+Monica Geller	Um, and, well there's the.. the the small matter of...	Neutral
+Mrs. Burkart	Dear?	Joyful
+Monica Geller	Just the matter of ...payment?	Neutral
+Mrs. Burkart	Jack used to handle the finances!	Sad
+
+Phoebe Buffay	But Mon, you have to get our money!	Neutral
+Monica Geller	Oh, Phoebe, she couldn't stop crying! With those thick glasses, her tears looked giant.	Sad
+Phoebe Buffay	I know, it's tough. You know what the first thing I did after my mother's funeral was?	Peaceful
+Monica Geller	What?	Neutral
+Phoebe Buffay	Pay the caterer! Look, I've had a lot of jobs, okay, and there are some people who just always try to get out of paying. It's either, you know, "that massage wasn't long enough, or, "I don't recognize any of those songs," or, you know, "these sombreros aren't big enough. Bad little white girl!"	Peaceful
+Monica Geller	Okay. So what do you.... you think she's faking?	Sad
+Phoebe Buffay	Well, it seems like there weren't any tears 'til you showed her the bill.	Peaceful
+Monica Geller	Phoebe, she sounded pretty upset to me.	Sad
+Mrs. Burkart	You're a grand ol' flag, you're a high-flying flag, and forever in peace may you wave....	Joyful
+Phoebe Buffay	She seems fine now.	Peaceful
+Mrs. Burkart	...emblem of the land I love. The home of....	Joyful
+
+Joey Tribbiani	So, you just left? Her place was really that bad?	Powerful
+Ross Geller	You know how you throw your jacket on a chair at the end of the day?	Powerful
+Joey Tribbiani	Yeah.	Neutral
+Ross Geller	Well, like that, only instead of a chair, it's a pile of garbage. And instead of a jacket, it's a pile of garbage. And instead of the end of the day, it's the end of time, and garbage is all that has survived! Here.	Powerful
+Joey Tribbiani	Wow. Thanks. So, uh, what happened?	Joyful
+Ross Geller	What do you mean? Nothing happened! I had to get out of there.	Scared
+Joey Tribbiani	All right, so... next time, you take her to your place.	Scared
+Ross Geller	No, I tried that. She says it has a weird smell.	Powerful
+Joey Tribbiani	What kind of smell?	Powerful
+Ross Geller	I don't know. Soap?	Scared
+Joey Tribbiani	All right, listen, Ross... you like this girl, right?	Scared
+Ross Geller	Yeah.	Peaceful
+Joey Tribbiani	You wanna see her again, right?	Sad
+Ross Geller	Yeah.	Peaceful
+Joey Tribbiani	So you're gonna have to do it in the mess!	Powerful
+Ross Geller	Yeah, okay you're right.	Joyful
+Joey Tribbiani	Yeah.	Neutral
+Ross Geller	I mean, uh, who... who cares about a little sloppiness?	Sad
+Joey Tribbiani	Yeah!	Peaceful
+Ross Geller	It's, uh... it's endearing, really.	Peaceful
+Joey Tribbiani	All right! Now you go get that beautiful pig! Oink!	Peaceful
+
+Chandler Bing	Okay, all right. I just spent the entire afternoon looking for a present for Kathy that would be better than the rabbit.	Peaceful
+Rachel Green	Any luck?	Joyful
+Chandler Bing	Oh, yeah. Yeah, I found this great place called "Invisible things for Kathy." Can you give me a hand with all this stuff?	Powerful
+Rachel Green	All right, look. Why don't you just return the book, let Joey give her the clock pen, and you give her something worse than that. Like... a regular pen.	Powerful
+Chandler Bing	She's really going to love this, you know? The bottom line is I want her to have it, even if I don't get to be the one who gives it to her.	Powerful
+Rachel Green	Aw, honey, that's so sweet.	Joyful
+Chandler Bing	Yeah? You don't think it's just pathetic?	Peaceful
+Rachel Green	Oh! Pathetic!	Powerful
+Joey Tribbiani	Hey! I'm meeting Kathy in ten minutes! I've been looking all over for you!	Powerful
+Chandler Bing	Where?	Powerful
+Joey Tribbiani	Our place, the hall! I...	Joyful
+Chandler Bing	I got something for her. It's a book!	Joyful
+Joey Tribbiani	A book? Is it like a book that's also a safe?	Neutral
+Chandler Bing	No, it's a book that's just a book, okay? It's an early edition of the Velveteen Rabbit. It was her favorite book as a kid. So, uh, just... let me know if she likes it, okay?	Neutral
+Joey Tribbiani	You got it. Thanks man. Thanks for doing this, I owe you one. Oh, hey! There wasn't any change from that twenty, was there?	Powerful
+Chandler Bing	No, it came out to an even twenty.	Neutral
+Joey Tribbiani	Wow. That's almost as much as a new book.	Scared
+
+Mrs. Burkart	Jeepers, creepers, where'd you get those peepers? Jeepers, creepers, where'd you get those eyes?	Joyful
+Phoebe Buffay	You didn't get the money, did you?	Powerful
+Monica Geller	Maybe I can try at intermission? Phoebe, come on... you know what? Let's just go!	Joyful
+Phoebe Buffay	No! Hey, we're not leaving until we get paid! I don't know who she thinks she is! Enough is enough! Hey, widow?	Powerful
+Mrs. Burkart	Come on along and listen to...	Scared
+Phoebe Buffay	Okay, Widow!	Scared
+Mrs. Burkart	...the lullabye of...	Sad
+Phoebe Buffay	Excuse me. Excuse me! Thanks. Um, clearly this is a very, very hard time for you. Um, but, um, we provided a service, and we deserve to be paid because you ate that service, and, um, we are not leaving here until we're paid every penny. 'Cause you know what, lady? We're part time caterers, and we have no place else to go.	Scared
+Mrs. Burkart	All right. I'll get my bag.	Mad
+Phoebe Buffay	Good.	Joyful
+Monica Geller	I'm gonna leave some cards here. Please think of us for you next event.	Peaceful
+
+Cheryl	So you want to come inside?	Neutral
+Ross Geller	Yes. Yes I do.	Scared
+Cheryl	I'll be right back. Make yourself comfortable.	Neutral
+Cheryl	Guess who?	Joyful
+Ross Geller	Department of Sanitation?	Joyful
+Cheryl	It's me!	Joyful
+Ross Geller	Oh! Ah. Aw!	Joyful
+Cheryl	What?	Neutral
+Ross Geller	Ah, Cheryl!	Scared
+Cheryl	Oh, Ross!	Joyful
+Cheryl	Wait! No! No! It's my hamster! It's Mitzi!	Scared
+Ross Geller	Oh my god! I'm so sorry, Cheryl. I must have freaked out.	Scared
+Cheryl	Oh, thank god, it's not Mitzi. It's just a rat.	Peaceful
+
+Rachel Green	I did it! Oh! I finished it! I did it all by myself! And there's nobody to hug!	Joyful
+Gunther	Move!	Powerful
+Rachel Green	Hey! Hey, you guys, I finished the crossword all by myself! Hug me!	Joyful
+Phoebe Buffay	Uh... yay!	Joyful
+Rachel Green	Thanks!	Joyful
+Monica Geller	Oh, that's great! Congratulations!	Joyful
+Rachel Green	Thank you! Hey, how'd the catering go?	Joyful
+Monica Geller	Oh, it was great! The widow wouldn't pay, so Phoebe yelled at her 'til she did.	Joyful
+Phoebe Buffay	Yeah. I'm a hard ass.	Mad
+Monica Geller	And I'm a wuss. And we should be partners.	Mad
+Phoebe Buffay	Yeah. Hard Ass and Wuss. We could fight crime!	Joyful
+Monica Geller	Wait a minute, Phoebe! We should be partners. We should be catering partners. I mean, think about it! You're not working right now, and we have such a great time together!	Joyful
+Phoebe Buffay	Okay!	Joyful
+Monica Geller	I can cook and you can take care of the money.	Joyful
+Phoebe Buffay	Yeah. Oh! It'll be like I have a wife in the fifties!	Joyful
+Both	Aah!	Joyful
+
+Ross Geller	Hey!	Joyful
+Chandler Bing	Hey!	Joyful
+Ross Geller	I'm sorry I'm late, did I miss anything?	Neutral
+Phoebe Buffay	Joey stuffing 15 Oreos in his mouth.	Joyful
+Ross Geller	15? Your personal best!	Peaceful
+Phoebe Buffay	Where were you?	Powerful
+Ross Geller	Oh, on a date. Yeah, I met this girl on the train going to a museum upstate.	Peaceful
+Chandler Bing	Oh, yeah! How did you meet her?	Peaceful
+Phoebe Buffay	Oh, which museum?	Powerful
+Phoebe Buffay	No, answer his.	Peaceful
+Ross Geller	Okay, it was just me and her at the back of the train, and I sat near the door, so she'd have to pass by me if she wanted to switch cars. She was totally at my mercy.	Joyful
+Chandler Bing	Were you so late because you were burring this woman?	Neutral
+Ross Geller	No, I'm getting back down 'cause she lives in Poughkeepsie. She seems really great, but she's like totally great, but she lives two and a half hours away.	Peaceful
+Chandler Bing	How can she be great if she's from Poughkeepsie? That joke would've killed in Albany.	Peaceful
+Joey Tribbiani	Done! I did it! Heh, who's stupid now?	Powerful
+
+Chandler Bing	I say, Drew! Are you seeing anybody right now? Og-ee-op, I'm not asking for me, I'm... I mean... No, I'm-I'm not gay, I'm not asking you out. I'm not-I'm not-I'm not gay!	Scared
+Drew	I didn't think you were gay. I do now.	Peaceful
+Chandler Bing	See my friend-my friend, Rachel, she wants to be set up.	Scared
+Drew	Ahh, I just got out of a big relationship, I'm not looking for any thing serious.	Scared
+Chandler Bing	Oh, y'know what, that might be okay even if it was just kind of a fling, that might be all right with Rachel.	Neutral
+Mike	Whoa-whoa-whoa-whoa! Is this, hot Rachel, that you took to the Christmas party, Rachel?	Joyful
+Chandler Bing	Oh, by the way, that is her full name.	Neutral
+Mike	Oh wow! I'm free for her!	Joyful
+Drew	Oh, wait a second! I didn't say I wasn't free!	Neutral
+Mike	Hey, Chandler, why don't we talk this over at the Ranger game tomorrow?	Neutral
+Drew	Hold on, y'know I just got a box of Cubans, maybe I bring them by your office around uh, five?	Powerful
+Chandler Bing	Oh well, that's uh, a little later than I uh, generally care to stay, but sure!	Joyful
+Mike	Maybe, before the game we could enjoy some eight year old some small batch Basel Hadens.	Joyful
+Chandler Bing	Well, I don't really know what that is, but let's!!	Joyful
+
+Ross Geller	Oh, wow! I should get going. I-I got a date tonight.	Joyful
+Chandler Bing	Oh yeah! With who?	Scared
+Ross Geller	You know that girl I told you about who lives up in Poughkeepsie?	Peaceful
+Chandler Bing	Yeah.	Powerful
+Ross Geller	Not her. Yeah, this is someone else I meet, and I-I can't decide between the two of them. Y'know the one from Poughkeepsie, even though she's a two hour train ride away, is really pretty, really smart, and-and a lot of fun. But this other girl, well, she lives right uptown. Y'know she's, well she's-she's just as pretty, I guess she's smart, she's not fun.	Peaceful
+Phoebe Buffay	If she's no fun, why do you want to date her at all?	Joyful
+Ross Geller	Well, I-I want to give her another chance, y'know? She lives so close. And, at the end of the date, the other time, she-she said something that was-if she was kidding was very funny. On the other hand, if she wasn't kidding, she's not fun, she's stupid, and kind of a racist.	Peaceful
+Joey Tribbiani	Hey!	Joyful
+Ross Geller	Hey!	Joyful
+Chandler Bing	Hey, man!	Peaceful
+Phoebe Buffay	Hey! Ooh, how was your first day working at the restaurant?	Peaceful
+Joey Tribbiani	Damn!	Powerful
+
+Joey Tribbiani	Hey.	Neutral
+Monica Geller	Hey.	Neutral
+Joey Tribbiani	Hey, what happened to your fancy chef's jacket?	Neutral
+Monica Geller	They baked it. I can't take this anymore. I'm gonna call a meeting tonight, I'm gonna fire you tonight.	Mad
+Joey Tribbiani	You got it! Oh-oh!	Scared
+Monica Geller	What are you doing?!	Mad
+Joey Tribbiani	It's still a tiny bit on fire there.	Scared
+Monica Geller	Thanks. I think you got it!	Neutral
+
+Rachel Green	Chandler!! You have the best taste in men!	Joyful
+Chandler Bing	Well, like father, like son.	Joyful
+Rachel Green	Patrick and I had such a great time last night! I mean I think this could maybe turn into something serious.	Joyful
+Chandler Bing	Really?! I-I thought you weren't looking for something serious? I thought you were looking for some kind of a fling.	Joyful
+Rachel Green	Well, y'know, possibly. You didn't tell him that, though? Right?	Scared
+Chandler Bing	Ummmmmmmm, no.	Scared
+Rachel Green	You told this guy that I was looking for a fling?! You don't tell the guy that!	Mad
+Chandler Bing	Why not?! I'd be thrilled if I heard that some hot girl was just looking to get-oh I see.	Neutral
+Rachel Green	Oh, between you telling him that I wanted to have a fling and me putting out on the first date-oh, he's so gonna get the wrong idea.	Mad
+
+Monica Geller	Hey, Joey, could you pass the cheese?	Joyful
+Joey Tribbiani	Yeah. Listen uh, I'd prefer it if you didn't call me Joey. Since I don't know anyone here, I thought it'd be cool to try out a cool work nickname.	Scared
+A Waiter	Hey, dragon! Here's your tips from Monday and Tuesday.	Peaceful
+Joey Tribbiani	There's like-there's like 300 bucks in this one!	Joyful
+The Waiter	Yeah, people get pretty generous around the holidays. And it never hurts to wear tight trousers.	Scared
+Monica Geller	Okay. Could the waiters gather around to hear tonight's specials? Okay, first there is a Chilean Sea Bass prepared with a Mango relish on a bag-Why is nobody writing these down?	Mad
+The Waiter	Because we can remember them.	Neutral
+Monica Geller	Because your all gonna make up fake specials and make me cook them like you did the other night?	Mad
+The Waiter	Well, sure, that too.	Powerful
+Monica Geller	Okay, forget the specials for a minute. Umm, all right here's the thing, for the last two weeks I have umm, tried really hard to create a positive atmosphere...	Peaceful
+The Waiter	Can't hear you!	Powerful
+Monica Geller	A positive atmosphere! But I-I-I have had it up to here. From now on, it is gonna be my way, or the highway! All right? Does anybody have a problem with that?!! Hey new guy! I said, does anybody have a problem with that?!	Mad
+Joey Tribbiani	No ma'am.	Joyful
+The Waiter	Hey! He has a name, it's Dragon. Do you wanna know your name? Check your hat. We did the hat right?	Neutral
+
+Monica Geller	What the hell happened?!	Scared
+Joey Tribbiani	I am so-so-so sorry. I was gonna do it! Really! But I was standing there with 327 dollars in one hand and 238 dollars in the other hand, and I was thinking, "Wow! It's been a long time since I had... 327 + 238 dollars!"	Sad
+Monica Geller	Joey, we had a deal. That-that's why you're here! I've got to fire you!	Mad
+Joey Tribbiani	And I gotta pay rent! Look, how-how about this? You don't fire me, instead I stay here, I gain their trust, and they'll start listening to all the nice things I've been saying about you.	Scared
+Monica Geller	What kinda things have you been saying?	Neutral
+Joey Tribbiani	Well nothing yet, they really hate you and I want to fit in.	Neutral
+
+Phoebe Buffay	Happy, happy Chanukah, Chandler and Monica. Very merry...	Joyful
+Chandler Bing	Oh, y'know, y'know what Pheebs?	Neutral
+Phoebe Buffay	What?	Neutral
+Chandler Bing	I'm not Jewish, so...	Neutral
+Phoebe Buffay	So! Ross doesn't really decorate his tree with floss, but you don't hear him complaining do you? God!	Neutral
+Chandler Bing	Bad dream?	Neutral
+Ross Geller	I wasn't sleeping.	Neutral
+Chandler Bing	Oh yeah, then uh, what was Phoebe's song about?	Neutral
+Ross Geller	The one with the cat. I gotta go, I've got another date.	Neutral
+Phoebe Buffay	So, did you pick one yet?	Neutral
+Ross Geller	No, it turns out that the one from uptown was making a joke. But it was a different joke than I thought-it wasn't that funny. So I'm still torn.	Neutral
+Phoebe Buffay	Well look, you don't really like the one from uptown and you're too exhausted from dating the one up in Poughkeepsie, so I say you just end them both. Okay? You take a train up to Poughkeepsie and break up with her, and on your way back you break up with uptown. And then by the time you get home tonight, you're done!	Neutral
+Ross Geller	Y'know, you're right. Thank you.	Neutral
+Phoebe Buffay	Umm, well I had a similar problem when I lived in Prague.	Neutral
+Chandler Bing	Prague?	Neutral
+Phoebe Buffay	There's sooo much you don't know.	Neutral
+
+Rachel Green	Chandler! Patrick just uh, ended things with me. Did you or did you not tell him that I was looking for a serious relationship?	Neutral
+Chandler Bing	I did! I absolutely did!	Scared
+Rachel Green	You idiot!!	Mad
+Chandler Bing	I'm sure you're right, but why?	Scared
+Rachel Green	You don't tell a guy that you're looking for a serious relationship! You don't tell the guy that! Now you scared him away!	Mad
+Chandler Bing	Oh, man. I'm sorry, I'm so-so sorry.	Sad
+Rachel Green	Y'know, you should never be allowed to talk to people!	Mad
+Chandler Bing	I know! I know!	Sad
+Rachel Green	Oh! See just I'm right back where I started! Aww, this sucks! Being alone, sucks!	Mad
+Chandler Bing	Well, y'know, you're-you're gonna meet somebody! You're a great catch! Y'know when I was telling all those guys about you, I didn't have to lie once.	Powerful
+Rachel Green	Really?	Joyful
+Chandler Bing	Yeah! You graduated Magma Ku Laude, right?	Neutral
+Rachel Green	No.	Neutral
+Chandler Bing	Oh, it doesn't matter. Hey, y'know what, I've got two tickets to tonight's Rangers game, you wanna come with me?	Peaceful
+Rachel Green	Cute guys in little shorts? Sure.	Joyful
+Chandler Bing	Well, actually it's a hockey team, so it's angry Canadians with no teeth.	Joyful
+Rachel Green	Well that sounds fun too.	Joyful
+Chandler Bing	Have you ever been with a woman?	Peaceful
+Rachel Green	What?! Chandler, what is the matter with you?!	Mad
+Chandler Bing	So there is no good time to ask that question.	Scared
+
+Monica Geller	I need more swordfish. Can you get me some more swordfish?	Powerful
+Kitchen Worker	I don't speak English.	Mad
+Monica Geller	You did a minute ago!	Powerful
+Kitchen Worker	Well, I don't know what to tell ya!	Mad
+Monica Geller	Fine!	Mad
+Monica Geller	Okay! Very funny! Somebody let me out please?! Come on, I'm cold! And covered in marinara sauce! Come on! Let me out!	Mad
+The Waiter	You found that handle, did ya?	Powerful
+Monica Geller	That's not funny.	Mad
+The Waiter	Well that's not true.	Powerful
+Monica Geller	I'm a good person. And I'm a good chef, and I don't deserve to have marinara sauce all over me! Y'know what, if you want me to quit this bad, then all you have to do is...	Scared
+Joey Tribbiani	Hey! Chef Geller! Y'know that little speech you made the other day? Well I got a problem with it!	Powerful
+Monica Geller	You do?	Mad
+Joey Tribbiani	You bet I do! I just ah, wasn't listening then, that's all.	Powerful
+Monica Geller	Well if you want a problem? I'll give you a problem!	Powerful
+Joey Tribbiani	What are you gonna do? You're gonna fire me?	Scared
+Monica Geller	You bet your ass I'm gonna fire you! Get out of my kitchen! Get out!! All right! Anybody else got a problem? How 'bout you Chuckles? You think this is funny now?	Mad
+The Waiter	No.	Scared
+Monica Geller	How about if I dance around all covered in sauce? Huh? You think it's funny now?	Mad
+The Waiter	No, it's really good.	Joyful
+Monica Geller	Good! Now, take those salads to table 4, And you! Get the swordfish! And you! Get a haircut!	Powerful
+
+The Conductor	Last stop, Montreal. This stop is Montreal.	Neutral
+Ross Geller	What?	Neutral
+Woman On Train	I made a bet with myself that you have beautiful eyes. Now that I see them, I win.	Joyful
+Ross Geller	What?	Neutral
+Woman On Train	We're at my stop. But would you like to have coffee?	Joyful
+Ross Geller	Are we really in Montreal?!	Joyful
+Woman On Train	Yes we are. So, coffee?	Joyful
+Ross Geller	Coffee sounds great. Wait, so, so you live in Montreal?	Joyful
+Woman On Train	Oh, no. But it's just a two hour ferry ride to Nova Scotia.	Neutral
+
+Joey Tribbiani	Well I guess I should've thought about my wife and kids before I talked back to chef Geller!	Neutral
+Monica Geller	Thanks.	Neutral
+Joey Tribbiani	Yep! Looks like it's gonna be a leeeeean Christmas at the Dragon house this year.	Joyful
+Monica Geller	Enough!	Mad
+Joey Tribbiani	Lean-lean-lean!	Sad
+
+Emily Waltham	So what did he decide? Does your Uncle Nathan get an invite or not?	Scared
+Ross Geller	Ohh, God, nobody likes him, and he's so cheap, he'd never fly to London in a million years. Yeah, invite him? Hey, did I do these neat enough?	Scared
+Emily Waltham	Yeah, they're fine.	Joyful
+Ross Geller	Yeah?	Peaceful
+Emily Waltham	If anyone asks, we'll just say Ben addressed them. Oh! So you invited Rachel then?	Powerful
+Ross Geller	Sure. Why not?	Peaceful
+Emily Waltham	Really?	Scared
+Ross Geller	Yeah?	Peaceful
+Emily Waltham	I don't think I'd be comfortable with any of my old lovers there.	Powerful
+Ross Geller	Wait-wait-wait, do you, do you think, maybe we shouldn't invite her?	Peaceful
+Emily Waltham	Oh, no-no, y'know I absolutely adore Rachel it's just that, well it might be a awkward for you. But it's absolutely your decision. More tea?	Sad
+Ross Geller	Yeah sure.	Peaceful
+Emily Waltham	Earl Grey?	Mad
+Ross Geller	Huh? Yeah, fine, invite whoever you want.	Peaceful
+
+Ross Geller	I don't want to be single, okay? I just... I just- I just wanna be married again!	Mad
+Chandler Bing	And I just want a million dollars!	Peaceful
+Monica Geller	Rachel?!	Scared
+Rachel Green	Oh God Monica hi! I just went to your building and you weren't there and then this guy with a big hammer said you might be here and you are, you are!	Mad
+Monica Geller	Okay, everybody, this is Rachel, another Lincoln High survivor. This is everybody, this is Chandler, and Phoebe, and Joey, and- you remember my brother Ross?	Powerful
+Rachel Green	Hi, sure!	Peaceful
+Ross Geller	Hi.	Neutral
+
+Ross Geller	You know you probably didn't know this, but back in high school, I had a, um, major crush on you.	Peaceful
+Rachel Green	I knew.	Neutral
+Ross Geller	You did! Oh.... I always figured you just thought I was Monica's geeky older brother.	Powerful
+Rachel Green	I did.	Peaceful
+Ross Geller	Oh. Listen, do you think- and try not to let my intense vulnerability become any kind of a factor here-but do you think it would be okay if I asked you out? Sometime? Maybe?	Powerful
+Rachel Green	Yeah, maybe...	Powerful
+Ross Geller	Okay... okay, maybe I will...	Powerful
+
+Ross Geller	See, I see.... big passion in your future.	Powerful
+Rachel Green	Really?	Neutral
+Ross Geller	I do.	Neutral
+Rachel Green	Oh Ross, you're so great.	Joyful
+Joey Tribbiani	It's never gonna happen.	Neutral
+
+Ross Geller	Hey, I have a question. Well, actually, it's not so much a question as.. more of a general wondering... ment.	Neutral
+Rachel Green	Okay.	Neutral
+Ross Geller	Okay. Umm, for a while now, I've been wanting to, um....	Neutral
+Rachel Green	Ohhh!!!!	Scared
+Ross Geller	Yes, yes, that's right...	Neutral
+Rachel Green	Oh, look at the little cat! Look at it!	Joyful
+Ross Geller	What? Ow!	Scared
+Joey Tribbiani	I'm on top of the world, looking down on creation and the only explanation I can find...	Joyful
+
+Rachel Green	All right, listen, missy. If you want this cart, you're gonna have to take me with it!	Mad
+Rachel Green	Yes! Did you see that?	Joyful
+Ross Geller	You were incredible! Brand new woman, ladies and gentlemen.	Joyful
+Rachel Green	I could not have done this without you.	Powerful
+Ross Geller	Ok, um, uh, more clothes in the dryer? I'm fine, I'm fine.	Peaceful
+
+Ross Geller	You had no right to tell me you ever had feelings for me.	Mad
+Rachel Green	What?	Sad
+Ross Geller	I was doing great with Julie before I found out about you.	Mad
+Rachel Green	Hey, I was doin' great before I found out about you. You think it's easy for me to see you with Julie?	Mad
+Ross Geller	The point is I... I don't need this right now, OK. It, it's too late, I'm with somebody else, I'm happy. This ship has sailed.	Mad
+Rachel Green	Alright, fine, you go ahead and you do that, alright Ross.	Mad
+Ross Geller	Fine.	Mad
+Rachel Green	'Cause I don't need your stupid ship.	Mad
+Ross Geller	Good.	Mad
+Rachel Green	Good.	Mad
+
+Rachel Green	Ross do you realise this is the first time in my life I'm doing something I actually care about. This is the first time in my life I'm doing something that I'm actually good at. I mean. if you don't get that...	Powerful
+Ross Geller	No, hey, I get that, okay, I get that big time. And I'm happy for ya, but I'm tired of having a relationship with your answering machine! Okay, I don't know what to do anymore.	Sad
+Rachel Green	Well neither do I!	Peaceful
+Ross Geller	Is this about Mark?	Scared
+Rachel Green	Oh my God.	Scared
+Ross Geller	Okay, it's not, it's not.	Mad
+Rachel Green	Oh my God. I cannot keep having this same fight over and over again, Ross, no, you're, you're, you're making this too hard.	Powerful
+Ross Geller	Oh I'm, I'm making this too hard. Okay, what do you want me to do.	Peaceful
+Rachel Green	I don't know, I don't know. Urrrgh! Look, maybe we should take a break.	Scared
+Ross Geller	Okay, okay, fine, you're right. Let's ah, let's take a break, let's cool off, okay, let's get some frozen yogart, or something..	Powerful
+Rachel Green	No. A break from us.	Sad
+
+Chloe	Do I know why we're rushing?	Scared
+Ross Geller	Yeah, y'know the ah, the girlfriend I told you about last night? Well it turns out she ah, she wants to get back together with me. Oh, I found it!!	Peaceful
+Chloe	That's so great for you guys!	Joyful
+Ross Geller	Yeah!	Scared
+Chloe	Good luck, with your girlfriend.	Joyful
+Ross Geller	Oh, thank you. Hey, hey. Rachel!!!!	Scared
+Rachel Green	Hi. Ohhh, you got my message.	Joyful
+Ross Geller	Yeah, oh hey, you are right on time.	Scared
+Rachel Green	So what do you say? Can I be your girlfriend again?	Peaceful
+Ross Geller	Yes, you can, very much.	Powerful
+Ross Geller	Ahhhh!!	Scared
+
+Rachel Green	Y'know what, I want you to leave! Get outta here!	Mad
+Ross Geller	No!!	Mad
+Rachel Green	Just get out! Now!!	Mad
+Ross Geller	No!! No!! I wanna stay. I wanna talk about this.	Powerful
+Rachel Green	Okay! All right! How was she?	Neutral
+Chandler Bing	Uh-oh.	Scared
+Ross Geller	What?	Neutral
+Rachel Green	Was she good?	Neutral
+Joey Tribbiani	Don't answer that.	Neutral
+Rachel Green	Come on Ross! You said you wanted to talk about it, let's talk about it!! How was she?	Mad
+Ross Geller	She was...	Scared
+Joey Tribbiani	Awful! Horrible!	Mad
+Chandler Bing	She was not good. Not good.	Neutral
+Joey Tribbiani	She was nothing compared to you.	Neutral
+Ross Geller	She, she was different.	Peaceful
+Joey Tribbiani	Ewwwww!	Neutral
+Chandler Bing	Uh-oh.	Scared
+Rachel Green	Good different?	Neutral
+Ross Geller	Nobody likes change.	Neutral
+Ross Geller	What? Okay, okay, okay, okay.	Neutral
+
+Rachel Green	You seem to really like her.	Joyful
+Ross Geller	Yeah, I really do. Yeah, but what am I gonna do, I mean we-we both agreed that it was gonna be a two-week thing, y'know no commitment.	Neutral
+Rachel Green	Ross, that girl just spent the entire evening talking to your friends, asking to hear stories about you, looking through Monica's photo albums, I mean you don't do that if you're just in it for two weeks.	Neutral
+Ross Geller	You think?	Neutral
+Rachel Green	Yeah, you got like 14 hours until she has to be at the airport, and you're sitting here in the hallway with a 28-year-old cheerleader with a fat lip.	Neutral
+Ross Geller	Hey, you're right.	Joyful
+Rachel Green	Yeah.	Joyful
+
+Rachel Green	Who's this from?	Neutral
+Chandler Bing	Oh, that's Ross's.	Joyful
+Rachel Green	Oh... Oh my God. He remembered.	Powerful
+Phoebe Buffay	Remembered what?	Neutral
+Rachel Green	It was like months ago. We were walking by this antique store, and I saw this pin in the window, and I told him that it was just like one my grandmother had when I was a little girl. Oh! I can't believe he remembered!	Joyful
+Phoebe Buffay	Oh, it's so pretty. This must have cost him a fortune.	Joyful
+Monica Geller	I can't believe he did this.	Joyful
+Chandler Bing	Come on, Ross? Remember back in college, when he fell in love with Carol and bought her that ridiculously expensive crystal duck?	Joyful
+Rachel Green	What did you just say?	Scared
+Chandler Bing	F-hah.... flennin....	Scared
+Rachel Green	Oh.... my God.	Joyful
+
+Ross Geller	Rach, I got a message from you.	Joyful
+Rachel Green	Oh my God. Oh my God Ross, no, hang up the phone, give me the phone Ross, give me the phone, give me the phone, give me the. . .	Scared
+Ross Geller	You're over me?	Sad
+Rachel Green	Ohhhhhhhh God.	Peaceful
+Ross Geller	Wha... you're uh, you're, you're over me?	Sad
+Rachel Green	Ohh, ohh.	Sad
+Ross Geller	When, when were you... under me?	Scared
+Rachel Green	Well, basically, lately, I've uh, I've uh, sort of had feelings for you.	Scared
+Ross Geller	OK, I need to lie down.	Scared
+
+Joey Tribbiani	He broke up with Julie. Well, go hug her, for god's sakes.	Mad
+Rachel Green	Really?	Neutral
+Ross Geller	Really. It's always been you, Rach.	Neutral
+Rachel Green	Oh, god.	Scared
+Chandler Bing	Ohhh.	Sad
+
+Ross Geller	Y'know, hey! You're the one who ended it, remember?	Mad
+Rachel Green	Yeah, because I was mad at you, not because I stopped loving you!	Scared
+Ross Geller	You still love me?	Scared
+Rachel Green	Noo.	Mad
+Ross Geller	What does this mean? What do you, I mean do you wanna, get back together?	Scared
+Rachel Green	Noo! Maybe! I, I don't know.	Scared
+Ross Geller	What?!	Mad
+Rachel Green	I just, I feel, I-I just...	Neutral
+
+Chandler Bing	All right, check it out. Check this out. It says here that there's a place you can go to rent videos of all the museums! "It's almost as good as being there."	Joyful
+Joey Tribbiani	It's better! You can't go to a museum in your underwear!	Joyful
+Chandler Bing	Well, You could, but... probably just the one time.	Joyful
+Joey Tribbiani	I bet we could get videos of all the sites, get a VCR in our hotel room... we'd never even have to go outside!	Joyful
+Chandler Bing	If we do that, we gotta get Die Hard.	Joyful
+Joey Tribbiani	Oh-ho! I bet the British version is gooooood!	Joyful

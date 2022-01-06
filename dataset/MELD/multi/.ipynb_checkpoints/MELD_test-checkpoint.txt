@@ -1,0 +1,2891 @@
+Speaker	Utterance	Emotion	Sentiment
+
+Mark	Why do all you’re coffee mugs have numbers on the bottom?	surprise	positive
+Rachel	Oh. That’s so Monica can keep track. That way if one on them is missing, she can be like, ‘Where’s number 27?!’	anger	negative
+Rachel	Y'know what?	neutral	neutral
+
+Joey	Come on, Lydia, you can do it.	neutral	neutral
+Joey	Push!	joy	positive
+Joey	Push 'em out, push 'em out, harder, harder.	joy	positive
+Joey	Push 'em out, push 'em out, way out!	joy	positive
+Joey	Let's get that ball and really move, hey, hey, ho, ho.	joy	positive
+Joey	Let's—  I was just—yeah, right.	joy	positive
+Joey	Push!	joy	positive
+Joey	Push!	joy	positive
+
+Ross	Okay.	neutral	neutral
+Rachel	Ross, didn't you say that there was an elevator in here?	neutral	neutral
+Ross	Uhh, yes I did but there isn't. Okay, here we go.	sadness	negative
+Ross	Okay, go left. Left! Left!	surprise	negative
+Rachel	Okay, y'know what? There is no more left, left!	anger	negative
+Ross	Oh okay, lift it straight up over your head!	anger	negative
+Ross	Straight up over your head!	anger	negative
+Ross	You can do it!	joy	positive
+Ross	You can do it!	joy	positive
+Ross	Okay.	neutral	neutral
+Ross	You got it?	neutral	neutral
+
+Steve	Oh, okay, I get it.	neutral	neutral
+Ross	No wait, look. Look! I'm sorry, it's just I've never even	fear	negative
+Steve	Howard's the	neutral	neutral
+Ross	Yes but too me he's just, man.	neutral	neutral
+Steve	Okay, fine, whatever. Welcome to the building.	anger	negative
+Ross	Ugh, can you believe that guy!	disgust	negative
+Phoebe	Yeah. I really like his glasses.	neutral	neutral
+
+Phoebe	Ohh!	surprise	positive
+Monica	What?	neutral	neutral
+Phoebe	It kicked! I think the baby kicked!	surprise	positive
+Monica	Oh my God!	surprise	positive
+Phoebe	Oh no wait, oh no, the elastic on my underwear busted.	neutral	neutral
+Joey	Oh my God! I overslept! I was supposed to be on the set a half an hour ago! I gotta get out of here!	fear	negative
+Monica	Oh wait, Joey, you can’t go like that! You stink!	disgust	negative
+Joey	Look, I know I feel asleep before I could shower and now I don’t have time!	anger	negative
+Joey	They’re just ten blocks away, if I run, I can make it.	neutral	neutral
+
+Chandler	You’re coming on to the entire room!  I’m Chandler.	anger	negative
+Chandler	Hi.	neutral	neutral
+Marjorie	Hi.	neutral	neutral
+Chandler	You mind if I	neutral	neutral
+Marjorie	No, please.	neutral	neutral
+Chandler	So uh, what are you in for?	neutral	neutral
+Marjorie	I talk in my sleep.	neutral	neutral
+Chandler	What a coincidence, I listen in my sleep.	neutral	neutral
+Joey	So why don’t you give me your number?	neutral	neutral
+
+Joey	Previously on Friends.	neutral	neutral
+Monica	I don’t know exactly. It’s-it’s sorta like wrestling.	neutral	neutral
+Phoebe	Oh?!	surprise	negative
+
+Monica	Yeah, but without the costumes.	neutral	neutral
+Phoebe	Oh.	neutral	neutral
+Joey	And it’s not fake, it’s totally brutal.	neutral	neutral
+Chandler	Yeah, it’s two guys in a ring, and the rules are: “They’re	neutral	neutral
+Monica	So you can like, bite, and pull people’s hair and stuff?	surprise	negative
+Ross	Yeah, anything goes, except ah, eye gouging and fish hooking.	neutral	neutral
+Monica	What’s fish hooking?	surprise	negative
+Ross	Huh, what’s fish hooking...   Thanks man, that would have been really hard to describe. What is that taste?	neutral	neutral
+Joey	What? My hands are totally clean, I just gave the duck a bath.	neutral	neutral
+
+Jade	Oh, Bob, he was nothing compared to you. I had to bite my lip to keep from screaming your name.	sadness	negative
+Chandler	Well, that makes me feel so good.	joy	positive
+Jade	It was just so awkward and bumpy.	neutral	neutral
+Ross	Bumpy?	surprise	negative
+Chandler	Well, maybe he had some kind of uh, new, cool style, that you're not familiar with.	neutral	neutral
+Chandler	And uh maybe you have to get used to it.	neutral	neutral
+Jade	Well there really wasn't much time to get used to it, you know what I mean?	joy	positive
+
+Phoebe	Coming through!  Oh! Coming through!  Oh! Hello! Hi!  No! Right! Coming through!	fear	negative
+Monica	Oh well, it’s not so bad.	neutral	neutral
+Fireman #1	Yeah, most of the damage is pretty mostly contained in the bedrooms.	sadness	negative
+Phoebe	Oh!	surprise	negative
+Rachel	My God!	surprise	negative
+Joey	Hey buddy, do you think I can borrow your uniform this Thursday?	neutral	neutral
+Fireman #1	Excuse me?	surprise	positive
+Monica	Joey! He’s working!  You would look	anger	negative
+Joey	Oh, how bad is it?	sadness	negative
+Phoebe	Oh, it’s bad. It’s really bad. The only thing in there that isn’t burned is an ass. Which I do	sadness	negative
+Chandler	How’s your room Rach?	neutral	neutral
+Rachel	Everything’s ruined. My bed. My clothes. Look at my favorite blue sweater.	sadness	negative
+Monica	Isn’t that mine?	neutral	neutral
+Rachel	Fine! I’m sorry for your loss!	anger	negative
+Fireman #1	So uh, you’re not gonna be able to live here for a while, you ladies have a place to stay?	neutral	neutral
+Rachel	Wow! Oh-okay, look pal, I am	joy	positive
+Monica	Yes, they can stay with us.	neutral	neutral
+Chandler	Have you figured out what started the fire Mr. Fireman?	neutral	neutral
+
+Joey	There’s just so much pressure.	anger	negative
+Joey	I mean no offense, but what you guys do is very different.	neutral	neutral
+Joey	I don’t know if you’d understand.	neutral	neutral
+Ross	Yeah, none of us have to deal with pressure at our jobs.	neutral	neutral
+
+Rachel	Well Phoebe, we gotta do something!	sadness	negative
+Rachel	I mean there’s no way Joey’s gonna make it in time.	fear	negative
+Rachel	So I’m gonna go through the hotel and see if there’s any other weddings going on.	neutral	neutral
+Phoebe	Okay. Oh but don’t tell them Monica’s pregnant because they frown on that.	neutral	neutral
+Rachel	Okay.	neutral	neutral
+
+Ross	What’s all this about you guys fighting?! Is this really over a room?! I mean, that is so silly!	anger	negative
+Monica	Ross, we can handle this.	neutral	neutral
+Ross	Well, apparently not, and I can’t just stand by and watch two people I care about very much be hurt over something that is so silly.	sadness	negative
+Ross	I mean, enough of the silliness!	anger	negative
+Chandler	Well, why don’t you tell her to stop being silly!	anger	negative
+Ross	Okay-okay!	anger	negative
+Ross	Two very good points, look I’ve known you both a long time, and I’ve never seen either of you one/millionth as happy as you’ve been since you’ve got together.	sadness	negative
+Ross	Do you really want to throw that all away over a room?	sadness	negative
+Ross	That is so silly.	joy	positive
+Ross	Now wh-what is more important, love or silliness?	neutral	neutral
+Chandler	Well, we are fond of the silliness, but we also have a soft spot for the love.	neutral	neutral
+Monica	Love is the best medicine.	joy	positive
+Chandler	That’s laughter.	joy	positive
+Monica	Why do you do it?	neutral	neutral
+Chandler	I don’t know.	neutral	neutral
+Ross	Okay! All right! Now, Chandler you-you wanna live with Monica, right?	neutral	neutral
+Chandler	Yeah, I do.	neutral	neutral
+Ross	And Mon, you wanna live with Chandler, don’t ya?	neutral	neutral
+Monica	Yes.	neutral	neutral
+Ross	Good! A verbal contract is binding in the state of New York!	joy	positive
+
+Roger	Oh.	neutral	neutral
+Phoebe	But I don't. Me, Phoebe.	neutral	neutral
+Roger	Well, I'm not I'm not at all surprised they feel that way.	neutral	neutral
+Phoebe	You're not? See, that's why you're so great!	surprise	positive
+Roger	Actually it's, it's quite, y'know, typical behaviour when you have this kind of dysfunctional group dynamic.	neutral	neutral
+Roger	Y'know, this kind of co-dependant, emotionally stunted, sitting in your stupid coffee house with your stupid big cups which, I'm sorry, might as well have nipples on them, and you're like all 'Oh, define me!	anger	negative
+Roger	Define me!	anger	negative
+Roger	Love me, I need love!	anger	negative
+
+Phoebe	Have you really done this before?	surprise	positive
+Joey	Yeah!	joy	positive
+Joey	Yeah!	joy	positive
+Joey	Yeah!	joy	positive
+Joey	You just take a big, big swing.	neutral	neutral
+Joey	Now, don’t hold back.	neutral	neutral
+Phoebe	Hey!	joy	positive
+Joey	Hey-hey-hey!	joy	positive
+Chandler	What are you doing?	neutral	neutral
+Phoebe	We’re just celebrating that Joey got his health insurance back.	joy	positive
+Chandler	Oh, all right.	neutral	neutral
+
+Phoebe	Yeah! Sure! Yep!  Oh, y'know what? If I heard a shot right now, I'd throw my body on you.	joy	positive
+Gary	Oh yeah? Well maybe you and I should take a walk through a bad neighborhood.	joy	positive
+Phoebe	Okay!	joy	positive
+Phoebe	Bye!	neutral	neutral
+Joey	Bye!	neutral	neutral
+Joey	Cut it out Ross! I hate to have to save your life and kick your ass in the same day!	anger	negative
+
+Monica	Hey, Joey, could you pass the cheese?	neutral	neutral
+Joey	Listen uh, I’d prefer it if you didn’t call me Joey.	neutral	neutral
+Joey	Since I don’t know anyone here, I thought it’d be cool to try out a cool work nickname.	neutral	neutral
+A Waiter	Hey, dragon! Here’s your tips from Monday and Tuesday.	neutral	neutral
+Joey	There’s like-there’s like 300 bucks in this one!	surprise	negative
+The Waiter	Yeah, people get pretty generous around the holidays. And it never hurts to wear tight trousers.	neutral	neutral
+Monica	Could the waiters gather around to hear tonight’s specials?	neutral	neutral
+Monica	Okay, first there is a Chilean Sea Bass prepared with a Mango relish on a bag—Why is nobody writing these down?	neutral	neutral
+The Waiter	Because we can remember them.	neutral	neutral
+Monica	Because your all gonna make up fake specials and make me cook them like you did the other night?	anger	negative
+
+Ross	Hey. When you guys were kids and you played	neutral	neutral
+Monica	I was always Joanne.	neutral	neutral
+Joey	Question. Was ah, ‘Egg the Gellers!’ the war cry of your neighbourhood?	neutral	neutral
+Phoebe	Ewww! Oh! It’s the Mattress King!	disgust	negative
+Chandler	Don’t look honey. Change the channel! Change the channel!	disgust	negative
+Janice	Wait! Wait! I wanna see this. After I divorce him, half of that kingdom is gonna be mine.	joy	positive
+Chandler	What a wank!	anger	negative
+Janice	Oh, I cannot believe he’s using our divorce to sell mattresses.	anger	negative
+Monica	I know!	anger	negative
+Monica	And four ninety-nine for a pillow top queen set, who cares about the divorce, those babies will sell themselves.	anger	negative
+Monica	And I’m appalled for you by the way.	anger	negative
+Rachel	You had to do it, didn’t you? You couldn’t just leave it alone.	sadness	negative
+Ross	Four percent. Okay. I tip more than that when there’s a bug in my food.	disgust	negative
+Rachel	Ross, tonight was about the two of you getting along.  Oh, would you just see my chiropractor, already.	anger	negative
+Ross	Yeah, I’m gonna go to a doctor who went to school in a mini-mall.	disgust	negative
+Ross	Hey Pheebs, what are you doing?	neutral	neutral
+Phoebe	I’m, I’m freaking out!	fear	negative
+Phoebe	Monica kinda trusted me with something and she shouldn’t have!	fear	negative
+Phoebe	All right, I haven’t lived here in a while, so I have to ask you something.	neutral	neutral
+Phoebe	Does Monica still turn on the lights in her bedroom?	neutral	neutral
+Rachel	Um. yeah.	neutral	neutral
+Phoebe	I am	neutral	neutral
+Rachel	All right, look, here’s the bottom line Ross, this is fixable, if we act fast, okay.	neutral	neutral
+Rachel	So, I’ll invite him to brunch tomorrow and you can make nice.	neutral	neutral
+Ross	Look, honey, I have tried to make nice, it doesn’t work.	anger	negative
+Rachel	Okay, look, Ross, I realise that my Father is difficult, but that’s why you have got to be the bigger man here.	neutral	neutral
+Ross	Look sweetie, I could be the bigger man, I could be the biggest man, I could be a big, huge, giant man, and it still wouldn’t make any difference, except that I could pick your Father up and say ‘Like me!	anger	negative
+Ross	Like me tiny doctor!’	anger	negative
+Rachel	Okay, well can’t you just try it one more time Ross? For me? For me?	sadness	negative
+Ross	Rachel one brunch is not gonna solve anything. You gotta face it, okay we’re never gonna get along.	anger	negative
+Rachel	Okay, well you are just gonna have too, okay.	anger	negative
+Rachel	Because I already got a Mother and a Father who cannot stay in the same room together, okay, I don’t wanna have to have a separate room for you too!	anger	negative
+Ross	Okay, okay, okay.  I’ll get the bagels.	neutral	neutral
+
+Rachel	Okay now Joey, y'know that since you're returning all of this stuff right after the audition you're gonna have to wear underwear?	neutral	neutral
+Joey	All right, then you'd better show me some of that too then.	neutral	neutral
+Rachel	Okay, it's missing something. Ooh, I know! Umm, okay.	neutral	neutral
+
+Joey	Really? A purse?	surprise	positive
+
+Rachel	It's not a purse! It's a shoulder bag.	anger	negative
+Joey	It looks like a women's purse.	neutral	neutral
+Rachel	No Joey, look. Trust me, all the men are wearing them in the spring catalog. Look.  See look,	neutral	neutral
+Joey	See look,	neutral	neutral
+Rachel	Exactly! Unisex!	neutral	neutral
+Joey	Maybe you need sex.	neutral	neutral
+Rachel	No! No Joey! U-N-I-sex.	joy	positive
+Joey	Well, I ain't gonna say no to that.	neutral	neutral
+
+Phoebe	So, um, have you told your parents?	neutral	neutral
+Duncan	No, but it'll be OK, they're pretty cool, my brother's straight so. . .	neutral	neutral
+Phoebe	Here you go.	neutral	neutral
+Phoebe	You know what, I just have one more question, um, if you had figured this out sooner and um, I had been around, do you think that I would have been the one who.	neutral	neutral
+Phoebe	no, um, I'm sorry, don't tell me, I don't think either answer would make me feel better.	sadness	negative
+Duncan	I love you Phoebe.	joy	positive
+Phoebe	So your brother's straigh huh? Seriously.	surprise	positive
+
+Chandler	Hey!	joy	positive
+Monica	Hi.	neutral	neutral
+Chandler	I just came over to drop off…nothing. So that weekend kinda sucked, huh?	neutral	neutral
+Monica	Yeah, it did.	joy	positive
+Chandler	So, I guess this is over.	sadness	negative
+Monica	What?	neutral	neutral
+Chandler	Well, y'know, you and me, it had to end sometime.	sadness	negative
+Monica	Why, exactly?	surprise	negative
+Chandler	Because of the weekend, we had a fight.	sadness	negative
+Monica	Chandler that's crazy!	surprise	positive
+Monica	If you give up every time you'd have a fight with someone you'd never be with anyone longer than—Ohhh!	anger	negative
+Chandler	So, this isn't over?	neutral	neutral
+Monica	You are so cute!	joy	positive
+Monica	No.	joy	positive
+Monica	No, it was a fight.	neutral	neutral
+Monica	You deal with it and move on!	joy	positive
+Monica	It's nothing to freak out about.	neutral	neutral
+Chandler	Really? Okay. Great!	joy	positive
+Monica	Ohh, welcome to an adult relationship!	joy	positive
+Chandler	We're in a relationship?	surprise	negative
+Monica	I'm afraid so.	neutral	neutral
+Chandler	Okay.	neutral	neutral
+
+Rachel	Hi!	joy	positive
+Danny	So you like the short hair better.	neutral	neutral
+Rachel	What? Yeti—I mean Danny?	neutral	neutral
+
+Phoebe	Can I tell you a little secret?	neutral	neutral
+Rachel	Yeah!	joy	positive
+Phoebe	I want to keep one.	neutral	neutral
+Rachel	Ohh, I'm gonna be on the news!	joy	positive
+
+Monica	What? Honey.	neutral	neutral
+Rachel	Oh, I am, my side still hurts from when you crashed into me yesterday.	neutral	neutral
+Monica	Oh God, I’m so sorry.	sadness	negative
+Rachel	I know.	neutral	neutral
+Rachel	Ow!!	anger	negative
+Monica	Oh God!	surprise	negative
+Ross	Hey, you guys! Guess what?	joy	positive
+Rachel	Got a job on a river boat?	neutral	neutral
+Ross	Y'know what I didn’t wear this suit for a year because you hated it. Well, guess what? You’re not my girlfriend anymore so...	anger	negative
+Rachel	Oh I see, so this suit is making a point.	neutral	neutral
+Rachel	Now that you’re on you’re own, you’re free to look as stupid as you like.	anger	negative
+Ross	You like it right?	neutral	neutral
+Monica	Oh absolutely. I like it even more on you than I did on Colonel Sanders.  Ross! Ross! I’m kidding!	neutral	neutral
+Rachel	Yeah, come here!	neutral	neutral
+Monica	What-what was it you were gonna tell us?	neutral	neutral
+Rachel	Yeah. Oh! Was how you invented the cotton gin?!	neutral	neutral
+Ross	Okay, good bye!	anger	negative
+
+Joey	Hey I got one! I got one!	joy	positive
+
+Man	Hi!	joy	positive
+Phoebe	Hi.	neutral	neutral
+
+Man	Oh uh, up or down?	neutral	neutral
+Phoebe	Oh down please.  I-I hate to be a ball buster can I just do it?	joy	positive
+Man	Could you press up too please?	neutral	neutral
+Phoebe	Sure! I feel so bad for you. I broke my leg once too.	sadness	negative
+Man	Oh yeah? How’d yours happen?	neutral	neutral
+Phoebe	Well, it’s a long story.	neutral	neutral
+Phoebe	It’s kind of embarrassing.	neutral	neutral
+Phoebe	Let’s just say there was a typographical error with a sex manual.	joy	positive
+Phoebe	How about you?	neutral	neutral
+Man	Car accident.	sadness	negative
+Man	Oh, let me guess some idiot on a cell phone wasn’t paying attention?	neutral	neutral
+Man	Yeah. Me.  Oh hey, that’s me.  Hey uh, I take it you’re just visiting someone.	neutral	neutral
+Phoebe	Uh-huh, yeah.	neutral	neutral
+Man	Well umm, if you have sometime y’know and maybe you might want to visit someone else	neutral	neutral
+Phoebe	Oh yeah! I-I would like that.	joy	positive
+Phoebe	Wait! What?! No!! Elevator!! No!	anger	negative
+Joey	Uh, you gotta press the button.	neutral	neutral
+
+Chandler	Oh we did, and you still have all your lamps.	neutral	neutral
+Chandler	Oh, I didn't factor in the room tax.	surprise	negative
+Ross	Oh dude, don't worry about it, I found an unattended maid's car.    We're way ahead of the game.	neutral	neutral
+Ross	Oh my god.	surprise	positive
+Chandler	What?	surprise	positive
+Ross	There's something new in the bowl.	surprise	positive
+Chandler	Look, we have enough, just walk away.	fear	negative
+Ross	No, but I want...I want the pinecones!	joy	positive
+Chandler	There's a forest right outside.	neutral	neutral
+Ross	It's not the same.	neutral	neutral
+Chandler	Ok, go quick!	fear	negative
+Ross	Thank you for a delightful stay.	joy	positive
+Ross	Oh, my maple candy!	joy	positive
+
+Rachel	Oh my God, what happened?	surprise	negative
+Janice	Oh. God, crazy Chandler. He spun me...off...the...bed!	joy	positive
+Rachel	Wow! Spinning that sounds like fun.	joy	positive
+Janice	Oh,  I wish. No, you know he was just trying Ross's Hug and Roll thing.	joy	positive
+Rachel	Ross's what?	surprise	positive
+Janice	You know what, where he hugs you and kinda rolls you away and... Oh... my....God.	disgust	negative
+
+Rachel	Whoops.  Oh, hey, do you need help with that?	neutral	neutral
+
+Phoebe	Yes!! Yes! Yes! Yes!! That’s my Dad, that’s Frank! Yeah! I’m sorry I’m getting all flingy.	surprise	positive
+Phoebe Sr	Take it easy--if you want, there’s cookies on the counter, or, or--sangria!  I can make sangria!	joy	positive
+Phoebe	No-no, sorry. Cookies are good, thanks.	neutral	neutral
+Phoebe Sr	Oh.	neutral	neutral
+Phoebe	Well, so, umm, anyway umm, I’ve been, I’ve been looking for my Father, and umm, have you heard from him, or seen him?	neutral	neutral
+Phoebe Sr	Oh no, I-I’m sorry, I guess we lost track of everybody after high school.	sadness	negative
+Phoebe	Oh, okay. Well, so tell me everything about my parents. Everything.	neutral	neutral
+Phoebe Sr	Ohh, well. Y'know we were always together, in fact the had a nickname for the three of us.	neutral	neutral
+Phoebe	Oh, what? What was it?	surprise	positive
+Phoebe Sr	The three losers.	sadness	negative
+Phoebe Sr	Oh, poor Lily.	sadness	negative
+Phoebe Sr	Ohh, y'know I-I heard about what happened, that must have been just terrible for you, losing your mother that way.	sadness	negative
+Phoebe	Yeah, no, it was great.	joy	positive
+
+Phoebe	Well, alright, we already tried feeding her, changing her,  burping her, oh try this one!	sadness	negative
+Phoebe	Go back in time and listen to Phoebe!	anger	negative
+Monica	Alright hereâ€™s something, it says to try holding the baby  close to your body and then swing her rapidly from side to side.	neutral	neutral
+Rachel	Ok.	neutral	neutral
+Monica	It worked!	surprise	positive
+Rachel	Oh  oh no just stopped to throw up a little bit.	sadness	negative
+Rachel	Oh come on, what am I gonna do, its been hours and it  wonâ€™t stop crying.	sadness	negative
+Monica	Umm, she Rach, not it, she.	neutral	neutral
+Rachel	Yeah, Iâ€™m not so sure.	neutral	neutral
+Monica	Oh my god, I am losing my mind.	anger	negative
+Phoebe	Yeah, no kidding, this just proves no good can come from  having sex with Ross!	anger	negative
+
+Monica	Well, you’re not.	neutral	neutral
+Rachel	Oh, it’s so easy for you I mean, you’re not married, you get to have sex with who ever you want!	disgust	negative
+Monica	Yeah I can!  And don’t think I don’t, because I do! I mean all the time, you betcha!	joy	positive
+Rachel	Monica. You’ve, you’ve done it right?	surprise	positive
+Monica	Of course I have! What do you think, I’m some 30 year old virgin?	anger	negative
+Rachel	Oh my God! You’re a 30 year old virgin!	surprise	negative
+Monica	Say it louder, I don’t think the guy all the way in the back heard you!	disgust	negative
+Monica	It’s not like, I haven’t any opportunities.	anger	negative
+Monica	I mean, y’know, I’m just waiting for the perfect guy.	neutral	neutral
+Monica	I’m seeing this guy Roger, all right?	neutral	neutral
+Monica	He’s not perfect, but umm, I think maybe I should just get it over with.	neutral	neutral
+Monica	Y’know, give him my flower.	neutral	neutral
+Rachel	Oh my God!! Do it!! Honey, you’ve waited	surprise	negative
+Monica	Y’know what? You are right?!	surprise	positive
+Rachel	I mean sex does not have to be a big deal!	anger	negative
+Rachel	There shouldn’t be all this rules and restrictions!	anger	negative
+Rachel	Y’know, people should be able to sleep with who ever they want, whenever	neutral	neutral
+Monica	Rachel! I’m never gonna think it’s okay for you to cheat on your husband!	anger	negative
+Rachel	Oh what do you know? Virgin!	anger	negative
+
+All	Push, push!	neutral	neutral
+Ross	We're here!	joy	positive
+Carol	Where have you been?	neutral	neutral
+Ross	Long story, honey.	neutral	neutral
+Dr. Franzblau	All right, Carol, I need you to keep pushing. I need— Excuse me, could I have this?	neutral	neutral
+
+Rachel	C'mon up.	neutral	neutral
+Monica	Behind my brother's back?  ... is exactly the kind of crazy thing you won't be hearing from me.	anger	negative
+
+Janice	So, I hear, you hate me!	anger	negative
+Joey	I, ah, I never said hate, I was very careful about that.	neutral	neutral
+Janice	A little birdie told me something about you wanting to rip your arm off and throw it at me.	anger	negative
+Joey	And you got a 'hate' from that?! Your taking a big leap there...	fear	negative
+Janice	All right, fine, fine, fine, fine, fine, we've got to do something about our little situation here Joey.	anger	negative
+Janice	So, this is my idea: you and me spending some quality time together.	neutral	neutral
+Joey	But what does that gonna do...	anger	negative
+Janice	For Chandler!	anger	negative
+
+Student	Guess what, I got an audition!	joy	positive
+Joey	Awww, one of my students got an audition. I’m so proud.	joy	positive
+Student	I was wondering if you would consider coaching me for it?	neutral	neutral
+Joey	You bet! What’s the part?	joy	positive
+Student	Oh it’s great, it’s a role on	joy	positive
+
+Ross	Hi!  Hi!  Hi. Has umm, anyone seen Chandler?	neutral	neutral
+Mr. Geller	I thought he was with you.	neutral	neutral
+Ross	He-he was with me umm, we’re playing a little game, y’know? Hide and seek.	neutral	neutral
+Mr. Geller	You can’t ask us son, that’s cheating.	neutral	neutral
+Ross	You’re right, thanks for keeping me honest dad.	neutral	neutral
+Mrs. Geller	Well, he better not come by here. He can’t see the bride in the wedding dress.	neutral	neutral
+Mrs. Bing	As I recall when we got married, I saw the groom in the wedding dress.	joy	positive
+Mr. Bing	But that was after the wedding, it’s not bad luck then.	neutral	neutral
+Mrs. Bing	Honey, it isn’t good luck.	neutral	neutral
+Ross	Oh my God! Monica!	surprise	positive
+Monica	I know! Hey, how’s Chandler doin’?	neutral	neutral
+Ross	Great. He’s doing great. Don’t you worry about Chandler.	neutral	neutral
+
+Monica	Yeah baby!	joy	positive
+Phoebe	I’m really glad you guys are okay but, I just keep thinking what would happen if-if you two  actually had hooked up.	neutral	neutral
+
+Monica	So, we did okay at the strip club, right?	neutral	neutral
+Chandler	Oh yeah, that was great. Thanks to you, the hottest cocktail waitress there is quitting to teach the third grade!	anger	negative
+Rachel	I can’t believe it! He still hasn’t called.	anger	negative
+Phoebe	Who, Josh?	surprise	negative
+Rachel	It’s Joshua.	anger	negative
+Monica	What, he doesn’t like Josh?	surprise	negative
+Rachel	No, I don’t.	disgust	negative
+Chandler	All right, well I’m gonna put my sweats back on.	neutral	neutral
+Phoebe	Oh no!	surprise	negative
+Phoebe	Wait!	surprise	negative
+Phoebe	Okay, y’know what, you were right, you were right.	sadness	negative
+Phoebe	We really weren’t great at being guys, but you know why?	sadness	negative
+Phoebe	Because we’re girls.	neutral	neutral
+
+Ross	Thank you, thanks.	joy	positive
+Ross	Yeah, I lost it.	sadness	negative
+Ross	Y’know, I’m not gonna play anymore,  would you, can you finish my set?	neutral	neutral
+Phoebe	After that? Yeah! No, I mean if I can help.	surprise	positive
+Ross	Yeah, like I could	neutral	neutral
+Rachel	What?	surprise	positive
+Ross	I played bad on purpose guys.	joy	positive
+Monica	Okay, so you were trying to play bad this whole time.	surprise	positive
+Ross	Yeah—no, just that last song.	neutral	neutral
+
+Monica	Oh, I was thinking about having people over for the game.	neutral	neutral
+Joey	Oh yeah, who’s playing?	neutral	neutral
+Monica	The players.	neutral	neutral
+Ross	Somebody seems to be missing being the hostess.	neutral	neutral
+Monica	Please, it’s a relief is what it is, is what it is.	neutral	neutral
+Joey	All right Pheebs, stick out your plate!	neutral	neutral
+Phoebe	Oh.	neutral	neutral
+
+Chandler	Whose is it?	neutral	neutral
+Rachel	I don’t want to say.	neutral	neutral
+Chandler	Oh, come on! I don’t care! Come on! Whose is it?	joy	positive
+Rachel	Diane Keaton.	neutral	neutral
+
+Monica	Phoebe! Come on! Let’s go!  Come on!  Why aren’t you dressed yet?!	anger	negative
+Phoebe	I’m sorry, but I just wrote the best dance song for your wedding. Check this out.	neutral	neutral
+Monica	No, Phoebe, I’ll tell you what, if you get ready now I’ll let you play it at the wedding.	neutral	neutral
+Phoebe	Really?!	surprise	positive
+Phoebe	Oh that’s so exciting!	joy	positive
+Phoebe	Thanks Mon!	joy	positive
+Phoebe	Oh but Mon, if you touch my guitar again I’ll have to pound on you for a little bit.	anger	negative
+Monica	Fair enough, now go get ready!	neutral	neutral
+Monica	I’ll get everybody else , finally we can start celebrating my— I’m sorry, uh apparently I’ve opened the door to the past.	neutral	neutral
+
+Leslie	My best shoes, so good to me.	joy	positive
+Leslie	I wear them everyday.	joy	positive
+Leslie	Down at the heel, holes in the toes.	joy	positive
+Leslie	Don’t care what people say.	joy	positive
+Leslie	My feet’s best friends, pals to the end.	joy	positive
+Leslie	With them I’m one hot chicky.	joy	positive
+Leslie	Though late one night, not much light, I....	neutral	neutral
+Phoebe	I stepped in something icky.	joy	positive
+Phoebe and Leslie	Sticky shoes, sticky shoes, always make me smile. Sticky shoes, sticky shoes, next time I’ll.... avoid the..... pillleeeee.	joy	positive
+
+Joey	God, it’s gonna so weird like when I come home and you’re not here.	sadness	negative
+Joey	No more Joey and Chan’s.	sadness	negative
+Joey	No more J and C’s.	sadness	negative
+Joey	"You wanna go over to Joey and Chandler’s?"	neutral	neutral
+Joey	"Can’t, its not there."	neutral	neutral
+Chandler	Look, I’m just gonna be across the hall, we can still do all the same stuff.	neutral	neutral
+Joey	Yeah but we won’t be able to like get up in the middle of the night and have those long talks about our feelings and the future.	sadness	negative
+Chandler	Not once did we do that.	neutral	neutral
+Monica	Hi.	neutral	neutral
+Chandler	Hey!	neutral	neutral
+Joey	Hi.	neutral	neutral
+Monica	So I, I told Rachel it was just gonna be the two of us.	neutral	neutral
+Chandler	Oh yeah? Well, how’d she take it?	neutral	neutral
+Monica	Really well. Yeah. Surprisingly well. Yeah, she didn’t cry. She wasn’t angry or sad.	neutral	neutral
+
+Monica	Okay, if you need the vacuum, it’s in my closet on the left-hand side. Ah, the garbage bags are next to the refrigerator	neutral	neutral
+Phoebe	Okay, okay, but Rachel’s gonna be here too, can’t I just ask her this stuff?	neutral	neutral
+Monica	Yeah, okay, give that a try!	neutral	neutral
+Chandler	All right! Let’s do it!	joy	positive
+Joey	Woo-hoo!!	joy	positive
+Ross	Yeah, cheerie-o!	joy	positive
+Joey	London baby!	joy	positive
+
+Monica	Hi!	joy	positive
+Chandler	Hi!	joy	positive
+Joey	Monica? What time is it?	neutral	neutral
+Chandler	Uhh, 9.	neutral	neutral
+Joey	But it's dark out.	neutral	neutral
+Monica	Well that's because you always sleep to noon, silly! This is what 9 looks like.	neutral	neutral
+Joey	I guess I'll get washed up then. Watch that sunrise.	neutral	neutral
+Monica	I'm	neutral	neutral
+Chandler	I know, me too.	neutral	neutral
+Chandler	Hey!	joy	positive
+Chandler	Y'know what if we went away for a whole weekend?	neutral	neutral
+Chandler	Y'know we'd have no interruptions and we could be naked the entire time.	joy	positive
+Monica	All weekend? That's a whole lotta naked.	surprise	positive
+Chandler	Yeah, I can say that I have a conference and you can say you have a chef thing.	neutral	neutral
+Monica	Ohh, I've always wanted to go to this culinary fair that they have in Jersey!	joy	positive
+Chandler	Okay, y'know your not though. Let's go.	neutral	neutral
+Monica	Wait! What about Joey?	neutral	neutral
+
+Ross	Oh umm, there’s also a book here by a woman named Wendy Bagina.  What is that?	neutral	neutral
+Chandler	Sounds like two people are really enjoying the Dewey decimal system.	neutral	neutral
+Female Student	I’m so sorry!	fear	negative
+Chandler	You didn’t bring	neutral	neutral
+
+Joey	Hey!	joy	positive
+Rachel	Hi!	joy	positive
+Joey	Oh you know uh Kash, really liked you the other day. He said he thought you were charming.	neutral	neutral
+
+Ross	Okay I-I just have to stop by my place first.	neutral	neutral
+Joey	To tape the game? You do this every time Ross, you’re	disgust	negative
+Ross	No-no, I-I have to see if this apartment became available.	neutral	neutral
+Joey	Oh, you’re switching apartments?	surprise	negative
+Ross	It’s not for me, it’s for Rachel.	neutral	neutral
+Joey	But Rachel has an apartment.	neutral	neutral
+Ross	Yeah, but when the baby comes she’s gonna want to move.	neutral	neutral
+Joey	She is?	surprise	negative
+Ross	Yeah, you didn’t expect her to live there with a baby did you?	surprise	negative
+Joey	I guess I didn’t really think about it.	neutral	neutral
+Ross	Ezel!  Hey Gunther! You’re an ezel!	anger	negative
+Ross	Damnit!	anger	negative
+
+Monica	Look what I got! Look what I got! Look what I got!  Can you believe they make these for little people?	surprise	positive
+Rachel	Little village people.	neutral	neutral
+Monica	Okay, look at this one. This is my favourite.	joy	positive
+Rachel	Oh, that is so sweet!	joy	positive
+Monica	I know! Phoebe is gonna love dressing them in these!	joy	positive
+Rachel	Huh. Except, Phoebe’s not gonna be the one that gets to dress them.	neutral	neutral
+Monica	Because she’s not gonna get to keep the babies.	sadness	negative
+Rachel	Oh my God! We are throwing the most depressing baby shower ever!	sadness	negative
+Monica	Wait a minute!	surprise	positive
+Monica	Unless, we give her all gifts she can use after she’s done being pregnant.	joy	positive
+Monica	Like-like umm, regular coffee, Tequila.	neutral	neutral
+Rachel	Oh, and somebody can get those leather pants she’s always wanted!	joy	positive
+Monica	Oh, she’s gonna love that!	joy	positive
+
+Judge	Okay you two are asking the court for an annulment?	neutral	neutral
+Rachel	Yes your honor, and here are, are forms, all filled out.	neutral	neutral
+Judge	So based on your petition you are seeking an annulment on the grounds that Mr. Geller is mentally unstable.	neutral	neutral
+Ross	Fine, I’m mentally unstable.	anger	negative
+Judge	And based on the fact that Mr. Geller is intravenous drug user.	neutral	neutral
+Ross	What?!	surprise	negative
+Rachel	Uh yes, heroin and crack.	neutral	neutral
+Ross	Crack isn’t even an intravenous drug!	anger	negative
+Rachel	Well, you would know.	neutral	neutral
+Judge	Now it also says here that you lied about your sexual preference before marriage?	neutral	neutral
+Ross	Oh, come on!	sadness	negative
+Rachel	Ross, please, I found the magazines!	sadness	negative
+
+Rachel	Phoebe just because I'm alone doesn’t mean I wanna walk around naked.	neutral	neutral
+Rachel	I mean, you live alone, you don't walk around naked.	neutral	neutral
+Phoebe	Uh-huh! Why do you think it takes me so long to answer the door?	joy	positive
+
+Rachel	I know, I lied! I didn’t want her to think I was a terrible mother! I can’t even see my own baby!	sadness	negative
+Ross	Oh sure, come here!  Sure you can! Uh, look come here look,  it’s-it’s-it’s, it’s right there .	neutral	neutral
+Rachel	Oh. Oh, it’s beautiful. I see it now.	joy	positive
+Ross	Do you really?	neutral	neutral
+Rachel	No, I don’t see it!	anger	negative
+Ross	Come on! Come on! Here, okay-okay, you see this?  This tiny thing that looks like a peanut?	joy	positive
+Rachel	Yeah.	neutral	neutral
+Ross	Sweetie that’s it.	joy	positive
+Rachel	That’s it? Well I saw that! Ohh-ohh-oh, thank you.	joy	positive
+Ross	You’re welcome.	neutral	neutral
+Rachel	Wow! I can’t believe that’s our baby.	surprise	positive
+Ross	Yeah, that’s our baby.	joy	positive
+
+Monica	Gin.	neutral	neutral
+Chandler	We were playing Gin? Y'know if we were a couple, we could play this game naked.	joy	positive
+Monica	Will you stop!	joy	positive
+Chandler	Okay. All right.	neutral	neutral
+Monica	Okay, all right, I think you’re great, I think you’re sweet, and you’re smart, and I love you.	joy	positive
+Monica	But you will always be the guy who peed on me.	disgust	negative
+
+Chandler	Hey!	joy	positive
+Monica	Hey!	joy	positive
+Chandler	Let me tell you about this chick I scored with last night! Oh no wait a minute that was you!	joy	positive
+Monica	Hey, check me out, I’m a slut!	joy	positive
+Chandler	So you uh, want to do something tonight?	neutral	neutral
+Monica	Oh I can’t. Dr. Roger is coming over again.	neutral	neutral
+Chandler	Oh.	neutral	neutral
+Chandler	Oh right!	surprise	positive
+Chandler	Right!	surprise	positive
+Chandler	Because you’re still seeing him and uh, he’s a good guy.	sadness	negative
+Chandler	I mean, I remember a time when	sadness	negative
+Monica	Are you okay?	neutral	neutral
+Chandler	Yeah! Totally! Totally, and you?	joy	positive
+Monica	Great! It’s so amazing! I mean, last time Dr. Roger came over, I was	joy	positive
+Chandler	I bet he can.	neutral	neutral
+Monica	Y’know, I don’t have an appointment, but I sure could use a physical.  Are you sure you’re okay?	neutral	neutral
+Chandler	Oh yeah! Yeah! Don’t worry about me, I’ll be fine!	sadness	negative
+
+Ross	You got the clothes clean. Now that's the important part.	neutral	neutral
+Rachel	Oh, I guess. Except everything looks like jammies now.	neutral	neutral
+Rachel	Whoa, I'm sorry. Excuse me. We had this cart.	anger	negative
+
+Chandler	Yeah, but what if it's not? What if there    is a reason why we can't have a baby?	fear	negative
+Janice	Oh, Chandler, look. You and Monica are meant to have children.    I am sure it's gonna be just fine.	neutral	neutral
+Chandler	oh, oh, yeah, ok, thanks.	joy	positive
+Chandler	I can't believe    I didn't even think of that.	surprise	positive
+Chandler	I guess I was just so worried about having to...    come here and do... 'that'...	sadness	negative
+Janice	What, you can do it in the parking lot of a Taco Bell, but you    can't do it at a doctor's office?	anger	negative
+Chandler	It was a "Wendy's!!    "	anger	negative
+
+Chip	...and then Zana, just let one rip!!	surprise	positive
+Monica	Look, not that I enjoy talking about people who I went to high school with, ‘cause I do, but umm, maybe we could talk about something else?	disgust	negative
+Monica	Like you, I don’t even know where you work?	surprise	positive
+
+Kathy	Yeah.	neutral	neutral
+Chandler	Yeah. Well, I think our second fight is going to be a	anger	negative
+
+Phoebe	Hey.	neutral	neutral
+Ross	Hey!	neutral	neutral
+
+Chandler	So, you stole my joke, and you stole my money.	anger	negative
+Ross	Well, I was going to stick it in the ATM, but now I think I’ll show the sexy teller that I am a published writer.	neutral	neutral
+Chandler	Well, she is going to know that you stole the joke.	anger	negative
+Ross	Oh, what are you going to do, follow me down there?	anger	negative
+Chandler	Yeah!	anger	negative
+Ross	Well, I’m not going to go now anyway .	neutral	neutral
+Chandler	Okay .	neutral	neutral
+Gunther	Here you go.	neutral	neutral
+Joey	Ah, Gunther, I can’t pay for this right now because I’m not working, so I’ve had to cut down on some luxuries like uh, payin’ for stuff.	neutral	neutral
+Gunther	Well, if you want, you can work here.	neutral	neutral
+Joey	Uh, I don’t know.	neutral	neutral
+Joey	Ya see, it’s just, see I was a regular on a soap opera y’know?	neutral	neutral
+Joey	And to go from that to this, I just… Plus, I’d have to wait on all my friends.	sadness	negative
+Gunther	Okay, but the money’s good, plus you get to stare at Rachel as much as you want.	neutral	neutral
+Joey	What?!	surprise	negative
+Gunther	Flexible hours.	neutral	neutral
+Joey	Maybe I could be a waiter. Could I use the phone?	neutral	neutral
+
+Chandler	I have no name.	neutral	neutral
+Phoebe	All right, so, what are we supposed to call you?	neutral	neutral
+Chandler	Okay uh, for now, temporarily, you can call me, Clint.	neutral	neutral
+Joey	No way are you cool enough to pull of Clint.	disgust	negative
+Chandler	Okay, so what name am I cool enough to pull off?	surprise	negative
+Phoebe	Umm, Gene.	neutral	neutral
+Chandler	It’s Clint. It’s Clint!	anger	negative
+Joey	See you later, Gene.	neutral	neutral
+Phoebe	Bye, Gene.	neutral	neutral
+Chandler	It’s Clint!	anger	negative
+Joey	What’s up with Gene?	surprise	negative
+
+Flight Attendant	Welcome to Las Vegas.	neutral	neutral
+Flight Attendant	Thank you!  Enjoy your flight?	joy	positive
+Rachel	Yes, I did. Thank you very much, it was excellent.	joy	positive
+Flight Attendant	Hope you had a nice flight.	neutral	neutral
+Ross	Ohh, it was the best!	joy	positive
+
+Monica	Oh, Larry.	neutral	neutral
+Phoebe	Umm, do health inspectors work on commission?	neutral	neutral
+Larry	No, bribes.	neutral	neutral
+Phoebe	It's okay to laugh right?	joy	positive
+
+Rachel	Come on Joey!!!	anger	negative
+Joey	Rach, I told you everything I knew last night!	anger	negative
+Joey	Look, it's not that big of a deal, so Monica and Chandler are doing it.	neutral	neutral
+Rachel	I can't believe you would say that!	sadness	negative
+Joey	Sorry. Monica and Chandler are making love.	neutral	neutral
+Rachel	No! I mean come on! This is a	anger	negative
+Joey	I don't know.	neutral	neutral
+Rachel	Is he romantic with her?	joy	positive
+Joey	I don't know.	neutral	neutral
+Rachel	Are they in love?	joy	positive
+Joey	I don't know.	neutral	neutral
+Rachel	You don't know anything.	anger	negative
+Joey	Ohh, I know one thing!	joy	positive
+Rachel	What?	joy	positive
+Joey	They did it right there on the couch.	neutral	neutral
+
+Chandler	Excuse me, look, we've been here for over an hour, and a lot of people less sick than my friend have gone in.	anger	negative
+Chandler	I mean, that guy with the toe thing?	anger	negative
+Chandler	Who's he sleeping with?	neutral	neutral
+Chandler	Oh, c'mon Dora, don't be mad...	neutral	neutral
+Chandler	I know we both said some things we didn't mean, but that doesn't mean we still don't love each other.	neutral	neutral
+Chandler	Y'know, I feel like I've lost her..  Ba-!	joy	positive
+
+Joey	So you see, Molly, what people don't understand is that acting    is a discipline. It takes a lot of hard work.	neutral	neutral
+Molly	So where did you study?	neutral	neutral
+Joey	Oh, I didn't go to college.	neutral	neutral
+Molly	No, where did you study acting?	neutral	neutral
+Joey	Molly ... people don't study acting ...	neutral	neutral
+Ross	Molly, ah, do you mind giving us just a minute?	neutral	neutral
+Molly	Sure, I'll go check on Emma.	neutral	neutral
+Ross	Thanx.	neutral	neutral
+Joey	Will the stable boy never get the princess??	sadness	negative
+Ross	What do you think you're gonna do, have sex with her right here    on my couch?	disgust	negative
+Joey	No ... the leather sticks to my ass.	disgust	negative
+Joey	You know, this isn't fair.	anger	negative
+Joey	What makes you think that I'm just gonna sleep with her and then blow her off?	anger	negative
+Joey	Huh?	anger	negative
+Joey	Can't you guys open your minds to the possibility that I actally like her,    and might want something real?	anger	negative
+Joey	Look, the truth is, I haven't felt this    way about anyone since Rachel, ok?	sadness	negative
+Joey	I didn't think I could ever love again.	sadness	negative
+Ross and Chandler	Come on! Joe!	joy	positive
+Woman	Hi, is Molly here?	neutral	neutral
+Ross	Yeah, come on in. Molly?	neutral	neutral
+Molly	Hey! Guys, this is Tabatha .  I'll see you tomorrow.	neutral	neutral
+Ross	Ok ...  Well, uh, Joey, I guess    we have no problem.	neutral	neutral
+Joey	It's like my favorite fairy tale come true!  The princess, the stable boy and the lesbian!	joy	positive
+
+Joey	And what’s cool is, the character is from Naples, right?	joy	positive
+The Director	Yeah.	neutral	neutral
+Joey	My whole family’s from Naples!	joy	positive
+The Director	Oh that’s great! Okay, well I’ve heard everything I need to hear. I just need to uh, Leslie	surprise	positive
+The Casting Director	Joey, this is the awkward part.	joy	positive
+Joey	Oh!	surprise	positive
+Joey	Hey right!	surprise	positive
+Joey	Not a problem.	neutral	neutral
+Joey	I totally understand.	neutral	neutral
+Joey	You need to y’know make sure I don’t have any horrible scars or tattoos.	neutral	neutral
+Joey	Don’t you worry. I have nothing to hide.	neutral	neutral
+Joey	So there you go, that’s me.	neutral	neutral
+Joey	One hundred percent natural!	joy	positive
+Joey	I tell ya, that has never happened before.	fear	negative
+
+Nurse	This room’s available.	neutral	neutral
+Rachel	Okay!	joy	positive
+Rachel	Okay wait!	anger	negative
+Rachel	You listen to me!	anger	negative
+Rachel	You listen to me!	anger	negative
+Rachel	Since I have been waiting four women, that’s four, one higher than the number of centimeters that I am dilated, have come and gone with their babies!	anger	negative
+Rachel	I’m next!	anger	negative
+Rachel	It’s my turn!	anger	negative
+Rachel	It’s only fair!	anger	negative
+Rachel	And if you bring in one woman and she has her baby before me I’m going to sue you!	anger	negative
+Rachel	Not this hospital, I’m going to sue you!	anger	negative
+Rachel	And my husband  he’s a lawyer!	anger	negative
+Ross	Uh Rach	neutral	neutral
+Rachel	Go get back on that case honey!	anger	negative
+Nurse	I don’t think the next patient is very far along.	neutral	neutral
+Rachel	Okay, well then bring her in.	neutral	neutral
+Woman	OH….MY….GAWD!!!	surprise	positive
+
+Joey	Ross-Ross-Ross-Ross! Stay away from that guy , and that guy . And that one—Dude! They’re all huge!	fear	negative
+Ross	They don’t look any bigger than me!	neutral	neutral
+Joey	Well, maybe that’s because you’re closer to you. So you look bigger to you from where you are.	anger	negative
+Emily	I’m just going to say hi to the lads. All right?	neutral	neutral
+Ross	All right.	neutral	neutral
+Emily	Okay.	neutral	neutral
+Phoebe	Hi.	neutral	neutral
+Phoebe	Whoa!  I kinda liked it.	joy	positive
+Ross	Okay, I know what I have to do. I’ve got to go Red Ross.  Y’know, Red Ross!	anger	negative
+Joey	I totally don’t know what you’re talking about.	neutral	neutral
+Ross	Come on! The time we were all waiting in line for	anger	negative
+
+Phoebe	Y'know you guys were a lot more supportive when I wanted to make denim furniture.	joy	positive
+Joey	No, Pheebs, listen, if you decide to do this, we’ll be supportive like crazy.	neutral	neutral
+Monica	We just want you to think it through.	neutral	neutral
+Rachel	Yeah, honey, maybe you can talk to somebody who’s had a baby. Like your mom?	neutral	neutral
+Phoebe	My mom never gave birth. Oh! But my birth mom did.	neutral	neutral
+
+Phoebe	Umm, thank you for meeting with me.	neutral	neutral
+Frank Sr.	Thank you. All right.	neutral	neutral
+Phoebe	Come, sit.	neutral	neutral
+Phoebe	Sit.	neutral	neutral
+Phoebe	Sit!	anger	negative
+Phoebe	Umm, all righty, before we get started I just—I need you to state for the official record that you are in fact Frank Buffay.	neutral	neutral
+
+Ross	Lucky sixes....	neutral	neutral
+Rachel	Everybody, this is Paolo. Paolo, I want you to meet my friends. This is Monica.	neutral	neutral
+Monica	Hi!	neutral	neutral
+Rachel	And Joey....	neutral	neutral
+Monica	Hi!	neutral	neutral
+Rachel	And Ross.	neutral	neutral
+Monica	Hi!	neutral	neutral
+Rachel	He doesn't speak much English.	neutral	neutral
+Rachel	Look at that!	surprise	positive
+Ross	So, um... where did Paolo come from?	neutral	neutral
+Rachel	Oh... Italy, I think.	neutral	neutral
+Ross	No, I mean tonight, in the building. Suddenly. Into our lives.	neutral	neutral
+Rachel	Well, the cat... the cat turned out to be Paolo's cat!	neutral	neutral
+Ross	That, that is funny... .... and Rachel keeps touching him.	neutral	neutral
+Phoebe	Alright. I looked all over the building and I couldn't find the kitty anywhere.	neutral	neutral
+Rachel	Oh, I found him. He was Paolo's cat.	neutral	neutral
+Phoebe	Ah! Well! There you go! Last to know again! And I'm guessing... since nobody told me... this is Paolo.	joy	positive
+Rachel	Ah, Paolo, this is Phoebe.	neutral	neutral
+Phoebe	You betcha!	joy	positive
+
+Ross	Okay, where in the hell did you get that?!	surprise	negative
+Monica	When Mom and Dad drove you to the hospital to get your nose fixed, I swam into the lake and fished it out.	neutral	neutral
+Ross	That cup is mine!	anger	negative
+Monica	No it’s not! You want it, you’re gonna have to win it!	anger	negative
+Rachel	All right, so are we not having dinner at all?	sadness	negative
+
+Rachel	Why?	sadness	negative
+Monica	Because I don't work at the Szechwan Dragon.	neutral	neutral
+Rachel	You really, really need to get some sleep, honey.	neutral	neutral
+Monica	I know I do.	neutral	neutral
+Ross	Hi.	neutral	neutral
+Rachel	Hi.	neutral	neutral
+Ross	Guess what?	neutral	neutral
+Ross	They published my paper.	joy	positive
+Rachel	Oh, really, let me see, let me see.	joy	positive
+Phoebe	Rach, look!  Oh, hi! Where is my strong Ross Skywalker to come rescue me.  There he is.	joy	positive
+
+Monica	You know what this is, this is us getting ready for the prom.	neutral	neutral
+Rachel	Oh.	neutral	neutral
+
+Rachel	What?! You got us evicted!!	anger	negative
+Monica	I told you not to go down there!	anger	negative
+Joey	Well he made Rachel cry!	disgust	negative
+Monica	Rachel always cries!	anger	negative
+Rachel	That’s not true!	anger	negative
+Monica	Now Joey, you go down there and you suck up to him. I mean you suck like you’ve never sucked before!	neutral	neutral
+Joey	All right! I’ll try! But if I can’t, you can stay with Chandler and I until you get settled.	neutral	neutral
+Rachel	Go!!	anger	negative
+Joey	All right, all right, all right.	neutral	neutral
+Joey	I mean I’ll have to check with him first, but I’ll think he’ll be cool with it.	neutral	neutral
+
+Ross	So, he’s just a nice guy. You really think this Mark doesn’t want anything in exchange for helping him?	joy	positive
+Rachel	Well, I assume I’ll have to take showers with him, but y'know, that’s true of any job.	neutral	neutral
+
+Monica	How ya feelin’?	neutral	neutral
+
+Chandler	Well, my apartment isn’t there anymore, because I drank it.	neutral	neutral
+Phoebe	Where’d you get too? We lost you after you opened up all the presents.	neutral	neutral
+Ross	Yeah.	neutral	neutral
+Chandler	Yeah, I ended up in the storage room, and not alone.	neutral	neutral
+All	Woooo hoooo!!!	joy	positive
+Chandler	Ow, no ‘woo-hooing,’ no ‘woo-hooing.’	anger	negative
+Phoebe	Why, what happened?	surprise	negative
+Chandler	Ah, I fooled around with Joey’s sister.  Well, that’s not the worst part.	sadness	negative
+Monica	What is the worse part?	neutral	neutral
+Chandler	I can’t remember which sister.	sadness	negative
+Ross	You see what men do! Don’t tell me men are not nice!  This is men!!	anger	negative
+
+Chandler	What’s wrong with you?	anger	negative
+Joey	Nothing!	anger	negative
+Joey	Well, I-I got this blinding pain in my stomach when I was lifting weights before, then I uh passed out and uh, haven’t been able to stand up since.	sadness	negative
+
+Joey	But um, I don’t think it’s anything serious.	neutral	neutral
+Chandler	This sounds like a hernia. You have to—you-you—Go to the doctor!	surprise	negative
+Joey	No way!	anger	negative
+Joey	‘Kay look, if I have to go to the doctor for anything it’s gonna be for this thing sticking out of my stomach!	anger	negative
+Joey	Why did I have to start working out again?	disgust	negative
+Joey	Damn you 15s!	anger	negative
+
+Rachel	It’s a trifle.	neutral	neutral
+Rachel	It’s got all of these layers.	neutral	neutral
+Rachel	First there’s a layer of ladyfingers, then a layer of jam, then custard, which I made from scratch.	neutral	neutral
+Rachel	[Joey and Ross make impressed faces] Then raspberries, more ladyfingers, then beef sautéed with peas and onions, [Joey and Ross look like something’s wrong.]	neutral	neutral
+Rachel	then a little more custard, and then bananas, and then I just put some whipped cream on top!	neutral	neutral
+Ross	It tastes like feet!	disgust	negative
+Joey	I like it.	joy	positive
+Ross	Are you kidding?	surprise	negative
+
+Chandler	Does anyone else think David Copperfield is cute?	neutral	neutral
+Monica	No, but he told me, he thinks your a fox.	neutral	neutral
+
+Host	Welcome everybody, welcome to Amazing Discoveries!	joy	positive
+Phoebe	Oh, oh! It's on again!	joy	positive
+Joey	You guys, can we please not watch this all right.	disgust	negative
+All	Shhhh!	anger	negative
+Host	Folks, has this ever happened to you.	neutral	neutral
+Host	You go to the refrigerator to get a nice glass of milk,  and these darn cartons are so flingin'-flangin' hard to open.	neutral	neutral
+Joey	Oh, you said it Mike.  Aw! There's got to be a better way!	anger	negative
+Mike	And there is Kevin.	neutral	neutral
+Joey	Can we please turn this off?	sadness	negative
+Rachel	Noo way, Kevin.	joy	positive
+Mike	There is a revolutionary new product that guarantees that you'll never have to open up milk cartons again. Meet the Milk Master 2000.	neutral	neutral
+Ross	Are you intrigued?	surprise	positive
+Chandler	You're flingin'-flangin' right I am!	joy	positive
+Mike	Keep in mind, he's never used this product before, you're gonna see how easy this is to do.	neutral	neutral
+
+Mike	Go ahead.	neutral	neutral
+Mike	This works with any milk carton.	neutral	neutral
+Joey	Wow, it is easy.  Now, I can have milk everyday.	surprise	positive
+
+Rachel	Well, you might want to tell him it sounds like his wife is  gay.	neutral	neutral
+Ross	She is not…  She’s gay. Oh my God. She is	anger	negative
+Rachel	Good day for married people huh?	surprise	negative
+Ross	I’m sorry your husband cheated on you.	sadness	negative
+Rachel	I’m sorry your wife is gay. I guess women aren’t that great either.	sadness	negative
+Ross	Try telling my wife that.	sadness	negative
+
+Joey	Hey Ross, will you pass me that knife?	neutral	neutral
+
+Monica	I can't wait to be with you!	joy	positive
+Monica	I'll sneak over as soon as Ross picks up Ben.	neutral	neutral
+Monica	I'll just tell Rachel I'm gonna be doing laundry for a couple of hours.	neutral	neutral
+Chandler	Laundry. Huh. Is that my new nickname?	joy	positive
+Monica	Awww, y'know what your nickname is, Mr. Big	joy	positive
+Rachel	Arghh!!	disgust	negative
+
+Joey	I can’t believe I’m going to lose this job!	sadness	negative
+Chandler	Oh I’m so sorry man! Is there anything I can do?	sadness	negative
+Joey	Yeah! Help me get this mini-fridge past the security guard.	neutral	neutral
+Wayne	Hey Joey, I want to talk to you.	neutral	neutral
+Joey	Yeah?	neutral	neutral
+Joey	Oh, Chandler, Wayne.	neutral	neutral
+Joey	Wayne, Chandler.	neutral	neutral
+Chandler	Hi, how are ya?	neutral	neutral
+Wayne	Joey, Joey, I-I-I’ll g-get you your job back if you help me out.	neutral	neutral
+Joey	Why should I help you?!	anger	negative
+Chandler	The reason he just said.	neutral	neutral
+Joey	What do you need?	neutral	neutral
+Wayne	I-I-I saw you on stage talking to that beautiful woman, y’know Sarah?	neutral	neutral
+
+Paul	What?	surprise	negative
+Ross	And I too am just a love machine.	neutral	neutral
+Paul	Ross, let me show you where the guest room is.	neutral	neutral
+
+Phoebe	Oh, I thought this was your party and it turns out it’s a party for Howard. He's just the sweetest little man!	surprise	positive
+Guest #1	See ya Phoebe! Oh and hey, thanks for chipping in!	joy	positive
+Ross	You chipped in?!	surprise	positive
+Phoebe	Yeah, uh-huh, a 100 dollars.	neutral	neutral
+Ross	Phoebe! I can't believe you gave them money! I thought you agreed it was totally unreasonable that they asked me for that money!	surprise	negative
+Phoebe	Yeah, but they didn't ask me!	anger	negative
+Phoebe	Y'know?	neutral	neutral
+Phoebe	This way I'm just y'know, the exotic, generous stranger.	joy	positive
+Phoebe	That's always fun to be.	joy	positive
+Ross	Yeah, but you're making me look bad!	anger	negative
+Phoebe	No I'm not.	neutral	neutral
+Phoebe	No!	surprise	positive
+Phoebe	If anything I'm making you look better!	joy	positive
+Phoebe	They'll see you talking to me and that's--I'm a hit!	joy	positive
+Steve	Oh hey, Pheebs!	joy	positive
+Phoebe	Hey!	joy	positive
+Steve	Oh hey, Ross.	neutral	neutral
+Steve	Umm, see, I was thinking maybe you two could switch apartments because Phoebe's more our kind of people.	fear	negative
+Steve	Something to think about.	neutral	neutral
+Phoebe	Yeah, okay, my bad.	joy	positive
+
+Joey	Here. I need to borrow some moisturizer.	neutral	neutral
+Monica	For what?	neutral	neutral
+Joey	Whaddya think? Today's the big day!	joy	positive
+Monica	Oh my God. Okay, go into the bathroom, use whatever you want, just don't ever tell me what you did in there.	disgust	negative
+Joey	Thank you!	joy	positive
+Chandler	Where's Joey? His mom's on the phone.	neutral	neutral
+Monica	He's in the bathroom. I don't think you wanna go in there!	anger	negative
+Chandler	C'mon, we're roommates!  My eyes!! My eyes!!	disgust	negative
+Monica	I warned you...	neutral	neutral
+Rachel	Who is being loud?	anger	negative
+Chandler	Oh, that would be Monica.	neutral	neutral
+Chandler	Hey, listen, I wanna borrow a coupla things, Aurora spent the night, I really wanna make her breakfast.	neutral	neutral
+Monica	Oh, you got the whole night, huh?	surprise	positive
+Chandler	Yeah, well, I only have twenty minutes until Ethan, so, y'know..	neutral	neutral
+Rachel	Ooh, do I sense a little bit of resentment?	surprise	negative
+Chandler	No, no resentment, believe me, it's worth it.	neutral	neutral
+Chandler	'Kay?	neutral	neutral
+Chandler	Y'know in a relationship you have these key moments that you know you'll remember for the rest of your life?	neutral	neutral
+Chandler	Well, every- single- second is like that with Aurora.. and I've just wasted about thirty-five of them talking to you people, so, uh.. Monica, can you help me with the door?	neutral	neutral
+Monica	Oh, um, Chandler?	neutral	neutral
+Monica	Y'know, the-the old Monica would-would remind you to scrub that Teflon pan with a plastic brush...But I'm not gonna do that.	neutral	neutral
+
+Joey	Hey Monica, it's Joey!	joy	positive
+Monica	Hey Joey! Aww, you remembered even though you're a big star!	joy	positive
+Joey	Aw, come on! It'll be years before I forget you!	neutral	neutral
+Monica	Joey, what's it like on a movie set, huh?	neutral	neutral
+Monica	Do you have a dressing room?	neutral	neutral
+Monica	Do you have a chair with your name on it?	neutral	neutral
+Joey	Uh, well yeah-yeah, I've got all of that going on.	neutral	neutral
+Joey	Yeah, listen uh, I want you to make sure you tell Chandler that he couldn't have been more wrong!	neutral	neutral
+Joey	Uh-oh!	fear	negative
+Joey	I gotta go Monica, my uh, my sushi's here!	neutral	neutral
+Joey	Sorry about that. Thanks for waitin'.	neutral	neutral
+Joey	Everybody smile!  Okay, thanks a lot! Enjoy your stay at	joy	positive
+
+Rachel	Wow, this is so cool, you guys. The entire city is blacked out!	surprise	positive
+Monica	Mom says it's all of Manhattan, parts of Brooklyn and Queens, and they have no idea when it's coming back on.	anger	negative
+Rachel	Wow, you guys, this is big.	surprise	positive
+Monica	Pants and a sweater?	anger	negative
+Monica	Why, mom?	anger	negative
+Monica	Who am I gonna meet in a blackout?	anger	negative
+Monica	Power company guys?	anger	negative
+Monica	Eligible looters?	anger	negative
+Monica	Could we talk about this later?	anger	negative
+Monica	OK.	neutral	neutral
+Phoebe	Can I borrow the phone? I want to call my apartment and check on my grandma.  What's my number?	neutral	neutral
+Phoebe	Well, I never call	neutral	neutral
+
+Joey	What ‘cha doing?	neutral	neutral
+Chandler	Having a swim.	neutral	neutral
+Joey	What about the chick?	neutral	neutral
+Chandler	Chicks don’t swim.	neutral	neutral
+Joey	Are you sure?	neutral	neutral
+Chandler	I don’t know. Should we try it?	neutral	neutral
+Joey	Sure.	neutral	neutral
+Chandler	See, I told you they don’t swim.	neutral	neutral
+Joey	Wait. Give him a minute.	neutral	neutral
+Chandler	Noo!  Oh, it’s okay, it’s okay, baby, baby, baby.	fear	negative
+
+Phoebe	Me taking care of you is no problem, huh?	neutral	neutral
+Phoebe	You guys feel safe.	neutral	neutral
+Phoebe	Right?	neutral	neutral
+Phoebe	Okay, I’m gonna take that spit bubble as, "Yeah, I do!"	neutral	neutral
+Phoebe	Okay, after I get rid of this dirty diaper Leslie, I’ll set you up with a clean one.	neutral	neutral
+Phoebe	Okay, I’m sorry.	sadness	negative
+Phoebe	I didn’t mean to scare you.	sadness	negative
+Phoebe	I just have to clean that up.	neutral	neutral
+Phoebe	Okay?	neutral	neutral
+Phoebe	‘Cause let’s face it, we’re at Monica’s.	neutral	neutral
+Phoebe	I broke it.	sadness	negative
+Phoebe	All right.	neutral	neutral
+Phoebe	Well, that’s just the way that goes.	neutral	neutral
+Phoebe	Okay, good.	neutral	neutral
+Phoebe	Why are there only two of you?	fear	negative
+Phoebe	Where is Leslie?	fear	negative
+Phoebe	Well, you can’t answer.	neutral	neutral
+Phoebe	Leslie?	neutral	neutral
+Phoebe	Where are you Leslie?	fear	negative
+Phoebe	Leslie, now would be a	sadness	negative
+
+Phoebe	Hey!	joy	positive
+Monica	Hey.	neutral	neutral
+Phoebe	Hey, why are you mopping your ceiling?	sadness	negative
+Monica	Oh, there’s banana on it.	neutral	neutral
+
+Rachel	You said she was bald.	anger	negative
+Phoebe	Yeah, she was bald, she’s not now.	neutral	neutral
+Rachel	How could you not tell me that she has hair?	surprise	negative
+Phoebe	I don’t know, I hardly ever say that about people.	neutral	neutral
+Rachel	Ohh, well, this is just perfect!	anger	negative
+Phoebe	Well I’m sorry, I thought you said it was okay.	sadness	negative
+Rachel	Yeah, I said what was okay when I thought she was some weird bald chick. I mean, y'know, that girl has hair got	anger	negative
+Phoebe	Well, maybe it won’t work out. Maybe Ross won’t like her personality.	sadness	negative
+Rachel	Why, does she have a bad personality?	neutral	neutral
+Phoebe	Oh no, Bonnie’s the best!	joy	positive
+
+Ross	Hey!	joy	positive
+Joey	Hey.	neutral	neutral
+Ross	Do you have a minute? I’d like to talk to you about something I’m, I’m really uncomfortable talking about.	fear	negative
+Joey	Sure. What? About uh, you showering with your mom?	surprise	negative
+Ross	I actually had a topic in mind! I’m, I’m kinda going through a dry spell, sex wise.	anger	negative
+Joey	Whoa, for like months?	surprise	positive
+
+Joey	Excellent! Excellent! And uh, finally, are you into any weird stuff y’know, sexually?	joy	positive
+Cliff	No!	surprise	negative
+Joey	Oooh, wrong answer.	neutral	neutral
+
+Phoebe	Ow! My ass. Okay. Okay.  Oh, shhh!	anger	negative
+Phoebe	No! No!! It’s me! It’s me! I-I didn’t want to make any noise!	fear	negative
+Phoebe Sr	Then don't break in!!	anger	negative
+
+Joey	Oh yeah, Smokey Joe here got half way to the highway and collapsed.	anger	negative
+Chandler	I have the lung capacity of a two year old.	neutral	neutral
+Monica	Then why are you smoking?	disgust	negative
+Chandler	Well it’s very unsettling.	sadness	negative
+
+Rachel	Honey, I was wondering....	neutral	neutral
+Ross	Hmm?	neutral	neutral
+Rachel	Do you still have that, um, Navy uniform?	joy	positive
+Ross	Nooo, I had to return it to the costume place.	sadness	negative
+Rachel	Hmm.	neutral	neutral
+Ross	I think I have an old band uniform from high school.	joy	positive
+Rachel	You remember not having sex in high school, right?	sadness	negative
+Ross	Yeah.	sadness	negative
+Rachel	Well honey, what about you?	neutral	neutral
+Ross	What?	neutral	neutral
+Rachel	I mean do you have any fun, you know, fantasy type things?	neutral	neutral
+Ross	No.	neutral	neutral
+Rachel	Come on you gotta have one!	surprise	positive
+
+Phoebe	Ugh!	disgust	negative
+Phoebe	I mean if you buy a bed from Janice’s ex-husband, that’s like betraying Chandler.	anger	negative
+Monica	Not at these prices.	anger	negative
+Phoebe	Hi. Y'know in England this car would be on the other side of the store.  Woo!	joy	positive
+Monica	Oh! Ohhhhh! Oh! Phoebe, come here. Aw, this is my new bed. You gotta feel this bad boy.	joy	positive
+Phoebe	Eh, Monica it, it feels so weird, y'know, Chandler’s your friend...  Oh!	surprise	positive
+Phoebe	Oh my God!	surprise	positive
+Phoebe	Aw, all right take this bed, you can make other friends.	joy	positive
+
+Lorraine	You know, ever since I was little, I've been able to pick up quarters with my toes.	joy	positive
+Joey	Good for you.  Uh, quarters or rolls of quarters?	joy	positive
+Janice	By the way, Chandler. I cut you out of all my pictures. So if you want, I have a bag with just your heads.	anger	negative
+Chandler	That's OK.	neutral	neutral
+Janice	Oh, are you sure?	surprise	positive
+Janice	Because you know, you could make little puppets out of them, and you could use them in your theater of cruelty.	anger	negative
+Joey	We can't do that.	neutral	neutral
+Chandler	What? What can't you do?	surprise	negative
+
+Joey	She really said that?	surprise	positive
+Ross	Well, I added the 'exactly like me' part...	neutral	neutral
+Ross	But she said she's looking for someone, and someone is gonna be there tonight.	neutral	neutral
+Joey	'Tonight' tonight?	surprise	positive
+Ross	Well, I think it's perfect.	joy	positive
+Ross	Y'know, it's just gonna be the two of us, she spent all day taking care of my monkey...	neutral	neutral
+Chandler	I can't remember the last time I got a girl to take care of my monkey.	sadness	negative
+Ross	Anyway, I figured after work I'd go pick up a bottle of wine, go over there and, uh, try to woo her.	joy	positive
+Chandler	Hey, y'know what you should do? You should take her back to the 1890's, when that phrase was last used.	disgust	negative
+
+Mrs. Bing	Car's waiting downstairs, I just wanted to drop off these copies of my book for your friends. Anything you want from Lisbon?	neutral	neutral
+Chandler	No, just knowing you're gonna be there is enough.	neutral	neutral
+Mrs. Bing	Alright, well, be good, I love you.	joy	positive
+Chandler	You kissed my best Ross! ...Or something to that effect.	anger	negative
+Mrs. Bing	O-kay. Look, it, it was stupid.	sadness	negative
+Chandler	Really stupid.	anger	negative
+Mrs. Bing	Really stupid.	sadness	negative
+Mrs. Bing	And I don't even know how it happened.	sadness	negative
+Mrs. Bing	I'm sorry, honey, I promise it will never happen again.	sadness	negative
+Mrs. Bing	Are we okay now?	fear	negative
+Chandler	Yeah. No. No...	anger	negative
+Ross	Ah, the forbidden love of a man and his door.	neutral	neutral
+Joey	Shh. He did it. He told her off, and not just about the kiss, about everything.	neutral	neutral
+Ross	You're kidding.	surprise	negative
+Joey	No, no. He said "When are you gonna grow up and start being a mom?"	neutral	neutral
+
+Phoebe	Oh there it is.	neutral	neutral
+Monica	That’s not your regular dry cleaners.	neutral	neutral
+Phoebe	I know, but that creep that I went on that date with goes to there so I have to find a new one.	disgust	negative
+Phoebe	I also have to find a new video store, a new bank, a new adult bookstore, a new grocery store	disgust	negative
+Monica	What?!	surprise	negative
+Phoebe	A new grocery store.	neutral	neutral
+Phoebe	The universe said I was going to meet a nice guy and that’s what they gave me?	anger	negative
+Phoebe	When I get up there I’m going to kick some ass.	anger	negative
+Monica	Don’t worry Phoebe, you’re gonna meet someone. If I can meet a great guy, so can you.	neutral	neutral
+Phoebe	Yeah, we both can. And we both will.	neutral	neutral
+Phoebe	Oh, you didn’t have to come in with me.	neutral	neutral
+Monica	Are you kidding? This is where they get out stains! Okay? This is like	joy	positive
+Guy	Oh, excuse me! I think you dropped s… Wow!	surprise	positive
+Phoebe	What?	surprise	positive
+Guy	I’m sorry, it’s just that you’re so incredibly beautiful.	surprise	positive
+Phoebe	Oh yeah well, I’m sorry about that too, but what are you going to do?	neutral	neutral
+Guy	I hope you don’t think I’m crazy but I feel like I was meant to pick this up, do you believe in that kind of thing?	joy	positive
+Phoebe	A little.   Now you’re talking.	neutral	neutral
+Guy	Would you like to go out and have a cup of coffee?	neutral	neutral
+Phoebe	I-I-I’d love to. Let me just tell my friend.	joy	positive
+Monica	Ooh, an ink stain! Hey, can I watch how you get this out?	joy	positive
+Phoebe	She must’ve left.	neutral	neutral
+
+Ross	Monica! Stop throwing it so hard! We're on the same team!	anger	negative
+Chandler	Four hours? You guys have been doing this for four hours?	surprise	negative
+Joey	That's right baby.	joy	positive
+Chandler	All right, let me in.	neutral	neutral
+Monica	No-no! Don't do it! Don't!	fear	negative
+Chandler	What?	surprise	negative
+Monica	He's a dropper!	anger	negative
+Joey	Oh yeah, that's right!	anger	negative
+Chandler	I'm not a dropper!	anger	negative
+Ross	It's really a uh-uh three person game, y'know?	neutral	neutral
+Chandler	It's throwing and catching!	anger	negative
+Ross	All right.	neutral	neutral
+Chandler	Oh! Oh! That's so hard.	surprise	positive
+Joey	Whoa-whoa you guys, it's not a cat!	anger	negative
+Monica	Oh my—Oh good God!	surprise	negative
+Rachel	I give up you guys, I don't know what I'm going to do with this thing!	anger	negative
+Ross	Baking it didn't help, huh?	neutral	neutral
+
+Rachel	All right, well the place was closed. I’ll just copy it later.	neutral	neutral
+Joey	Or not. Uh, Rach, why don’t you just move in with me?	neutral	neutral
+Ross	Whoa! Whoa! Whoa, Joey!	surprise	positive
+Joey	No-no-no-no-no-no-no-no… It’s okay, I mean I—look Rach, I know I scared you off with that whole Naked Thursday’s thing, but we don’t have to do that!	neutral	neutral
+Rachel	Well, it would be easier to move just right across the hall. Wait a minute, unless you’re thinking about Naked Wednesday’s.	neutral	neutral
+Joey	Thursday’s clearly not good for ya, pick a day!	joy	positive
+
+Sarah	So that’s two boxes of the Holiday Macaroons. On behalf of the Brown Birds of America, I salute you.	joy	positive
+Ross	Just admit it Chandler, you have no backhand.	neutral	neutral
+Chandler	Excuse me little one, I have a very solid backhand.	anger	negative
+Ross	Shielding your face and shrieking like a girl... is not a backhand.	disgust	negative
+Chandler	I was shrieking... like a Marine.	neutral	neutral
+Ross	All right here. Watch me execute the three ‘P’s of championship play. Power.  Precision.  and penache.	neutral	neutral
+
+Lydia	She's not much of a phone person.	neutral	neutral
+Joey	Yeah, so, uh, so, uh, what's the deal with this father guy, I mean, if someone was havin' my baby somewhere, I'd wanna know about it, you know?	neutral	neutral
+Lydia	Hey, Knick fan, am I interested in your views on fatherhood? Uh, no.	anger	negative
+Joey	Ok, look, maybe I should just go.	neutral	neutral
+Lydia	Maybe you should.	anger	negative
+Joey	Good luck, and uh, take care, huh?	sadness	negative
+Joey	You know what the Celtics problem is? They let the players run the team.	neutral	neutral
+Lydia	Oh, that is so not true.	neutral	neutral
+Joey	Oh, it is.	neutral	neutral
+Lydia	It isn't.	neutral	neutral
+Joey	It is.	neutral	neutral
+Lydia	Isn't!	anger	negative
+
+The Instructor	Okay ladies, that ends today’s class, and let’s remember, let’s be safe out there.	neutral	neutral
+Ross	It’s a great class.	joy	positive
+The Instructor	Thanks.	neutral	neutral
+Ross	Yeah, yeah, I was watching.	neutral	neutral
+Ross	Umm, hey, a couple of questions though.	neutral	neutral
+Ross	Umm, about that-that-that last move where the woman tripped you and then pinned you to the floor, what-what-what-what would you do next?	fear	negative
+The Instructor	Well, she would take her keys and try to jam them	neutral	neutral
+Ross	No. No-no. No. What would	anger	negative
+The Instructor	Who? Me the attacker?	surprise	negative
+
+Dana	I’m sorry Chandler, y’know you are such a sweet guy and I, I don’t want to hurt you.	sadness	negative
+Dana	Oh, I wish there was something I can do to make you feel better.	sadness	negative
+Chandler	No-no—Really?!	surprise	positive
+Dana	Of course!	joy	positive
+Chandler	Well, it just hurts so bad. I uh	sadness	negative
+Dana	Ohh, I’m sorry.	sadness	negative
+Chandler	Well maybe there is one thing you can do.	neutral	neutral
+Dana	What?! Anything! Anything!	joy	positive
+Chandler	Well, I umm, I mean this is just off the top of my head now, umm but I have this friend.	neutral	neutral
+Chandler	This actor friend and he would kill me if he thought I was doing this umm, but umm would it be possible for him to get an audition for your movie say on Thursday?	fear	negative
+Dana	Absolutely! But you-you would really feel better about me rejecting you if your actor friend can audition for my movie?	surprise	positive
+Chandler	Well, the heart wants what it wants. I’ll see you later.	neutral	neutral
+
+Monica	Okay, I got that. I’ll escape over there. I’ll come back over here. All right, come on	neutral	neutral
+Phoebe	Hey, you guys. Listen, I’m sorry that I was hogging the game before——Oh my God! Your friends have some unfortunate initials!	sadness	negative
+Monica	They’re all Chandler.	neutral	neutral
+Phoebe	Chandler sucks! He couldn’t have gotten this good!	surprise	negative
+Chandler	I did.  But it came at a price.	neutral	neutral
+Monica	But Ben is coming over tonight and he can’t see this.	fear	negative
+Chandler	Oh come on, by age seven kids have already seen orgies.  Was it just me?!	surprise	negative
+
+Chandler	Sure!	joy	positive
+Monica	Okay, I was thinking we should have a beautiful guest room, right?	neutral	neutral
+Monica	With a mahogany sleigh bed and bedside tables with flowers on them all the time!	joy	positive
+Monica	And we could have a roll top desk with comment cards on them so people could say how much they loved staying here!!	joy	positive
+Monica	Okay, whatever, I really haven’t thought about it that much.	neutral	neutral
+Chandler	Well, I like that idea.	joy	positive
+Chandler	Obviously!	joy	positive
+Chandler	I was thinking maybe-maybe-maybe it could be a game room, y’know?	neutral	neutral
+Chandler	I mean you can buy old arcade games like uh, like	neutral	neutral
+Monica	No.	disgust	negative
+Chandler	Okay so you mean no as in, "Gee Chandler, what an interesting idea. Let’s discuss it before we reject it completely."	joy	positive
+Monica	Oh, I’m sorry. Of course I mean that. Interesting idea, umm, talk about it, but no.	disgust	negative
+Chandler	So, that’s it?	surprise	negative
+Monica	I just don’t think arcade games go in the beautiful guest room. The beautiful guest room is gonna be filled with antiques.	neutral	neutral
+Chandler	Which is why	neutral	neutral
+Monica	What do you have against the beautiful guest room?	anger	negative
+Chandler	I don’t have anything against the beautiful guest room, especially since everybody we know lives about 30 seconds away!	anger	negative
+Monica	Are you mocking me?	anger	negative
+Chandler	No, I’m not mocking you,  or you beautiful guest room.	neutral	neutral
+
+Monica	Y'know, I love doing crossword puzzles with you honey!	joy	positive
+Joey	Aww, me too. Now let's finish this and go to bed.	joy	positive
+Monica	Okay! There's only one left, three letter word, not dog but	neutral	neutral
+Joey	Cat.	neutral	neutral
+Monica	Yes! You are so smart!  I love you.	joy	positive
+Joey	I love you too.	joy	positive
+
+Chandler	I never sucked, I actually didn't want you to know how good I was!	neutral	neutral
+Monica	Why?	surprise	negative
+Chandler	I don't know.	neutral	neutral
+Monica	This is so great! Now we can enter into doubles tournaments!	joy	positive
+Chandler	That's	neutral	neutral
+
+Monica	Hey. Okay, I gave him another chance, but Tim has	neutral	neutral
+Phoebe	But	neutral	neutral
+Monica	No! No-no! He is totally incompetent. I called the chef who recommended him to me. He said, "Ha-ha! Gotcha!"	disgust	negative
+Phoebe	Okay. Okay, but you can’t fire him today.	neutral	neutral
+Monica	Why not?!	anger	negative
+Phoebe	Because I’m dumping him today.	neutral	neutral
+Monica	What?! You said he was sweet!	surprise	negative
+Phoebe	He	neutral	neutral
+Monica	Just don’t pick up your phone.	neutral	neutral
+Phoebe	Then he comes over!  "I’m so worried about you." Uck! Be a man!	disgust	negative
+Monica	What? So now I’m not allowed to fire him?	surprise	negative
+Phoebe	You can’t fire him and dump him the same day, he’ll kill himself.	sadness	negative
+Monica	Okay well then, I’ll fire him today and you go out with him for another week.	neutral	neutral
+Phoebe	Are you kidding?! Another week with that sip, I’ll kill	disgust	negative
+Monica	Okay well, then we’ll both do it today and he’ll just have to deal with it!	neutral	neutral
+Phoebe	Okay. But the question is who’s gonna go first. ‘Cause whoever goes second is the bitch.	sadness	negative
+
+Ticket Counter Attendant	This is the final boarding call for Flight 664 to Yemen.	neutral	neutral
+Chandler	Well, I-I guess I gotta go.	sadness	negative
+Janice	Oh, my Bing-a-ling. I’ll wait for you. Do you even know how long you’re going to be gone?	sadness	negative
+Chandler	Well, just until we find an energy source to replace fuel.	neutral	neutral
+Janice	Oh. Well, I’ll right you everyday.  15 Yemen Road, Yemen.	neutral	neutral
+Chandler	Okay, good-bye. Good-bye.	sadness	negative
+Janice	Chandler?	neutral	neutral
+Chandler	No!	anger	negative
+Janice	Chandler!	surprise	positive
+Chandler	Janice!	surprise	positive
+Chandler	There you are!	surprise	positive
+Chandler	There you are!	surprise	positive
+Chandler	I had to have one last kiss, and also-also you said that you were going to leave right after I got on the plane!	sadness	negative
+Janice	No! No! I wanna see you take-off.	neutral	neutral
+Chandler	Well, I then guess I’m going to Yemen! I’m going to Yemen!  When we get to Yemen, can I stay with you?	joy	positive
+
+Rachel	Hi!	joy	positive
+Joey	Hey.	neutral	neutral
+Phoebe	Hey—Ooh, how’s Hilda? Is she working out?	neutral	neutral
+Rachel	Ohh, my new assistant is working out, yes.	neutral	neutral
+Joey	Was she happy you gave her the job?	neutral	neutral
+Rachel	Oh, my-my new assistant was very happy that I hired my new assistant.	neutral	neutral
+Joey	Hello?	neutral	neutral
+Joey	Oh hey!	surprise	positive
+Joey	Can you, can you hang on a second?	neutral	neutral
+Joey	It’s the producers over at Mac and C.H.E.E.S.E.	neutral	neutral
+Joey	can you excuse me for a minute?	neutral	neutral
+Joey	Hey, funny you should call.	joy	positive
+Joey	I was just looking over next week’s script.	neutral	neutral
+Joey	Canceled?!	surprise	negative
+Joey	Like they’re taking it off the air?	surprise	negative
+Joey	Ohh.	neutral	neutral
+Joey	All right, see you Monday.	neutral	neutral
+Joey	We’re not even shootin’ them anymore?!!	surprise	negative
+Joey	All right, bye!	anger	negative
+Joey	They canceled Mac and C.H.E.E.S.E!	anger	negative
+Phoebe	Sorry.	sadness	negative
+Rachel	I’m sorry Joey.	sadness	negative
+Joey	Why would they do that?! It was a good show right?!	surprise	negative
+
+Rachel	It’s so secluded up here.	neutral	neutral
+Paul	I know. I like it up here.	joy	positive
+Rachel	I feel like we’re the only two people in the world.  Oops. Sorry.	joy	positive
+Paul	What’s the matter honey? Did you see a little mouse?	neutral	neutral
+Rachel	No-no! Big bear! Big bear outside! I think I-I—would you—actually, would you go check on that?	fear	negative
+Paul	Honey, we don’t have any bears here.	neutral	neutral
+Rachel	Well, okay. Would-would you get me a	neutral	neutral
+Paul	Okay. I’ll be right back.	neutral	neutral
+Rachel	Okay.  What?! What are you doing here?!	surprise	negative
+Ross	What are	neutral	neutral
+Rachel	I came with Paul!	anger	negative
+Ross	Yeah, I recognize the ankles!	neutral	neutral
+Rachel	Get up!	anger	negative
+Paul	Here you go honey!	joy	positive
+Rachel	Ahh. Thank you!	joy	positive
+Paul	Diet Coke	neutral	neutral
+
+Rachel	What the hell was that?!	anger	negative
+Ross	A lesson in the importance of unagi.	neutral	neutral
+Phoebe	Ohh,	neutral	neutral
+Ross	Perhaps. Now I’m curious, at what point during those girlish screams would you have begun to	neutral	neutral
+Rachel	All right, so we weren’t	neutral	neutral
+Ross	I’m sorry I had to take such drastic measures to make my point, but I—look, I just want you guys to be safe.	neutral	neutral
+
+Brenda	What are you doing?	neutral	neutral
+Chandler	I’m leaning. This is where I lean.	neutral	neutral
+Brenda	Okay. (Goes over and fluffs up the pillows on the couch.	neutral	neutral
+Chandler	Brenda a bee!	fear	negative
+Brenda	What?	surprise	negative
+Chandler	Yes! It’s flown into your blouse and you’d better undo your buttons lest it sting you!	anger	negative
+Brenda	I think I know what’s going on here.	disgust	negative
+Chandler	You do?	neutral	neutral
+Brenda	Look, I know it must be hard that your wife is a lesbian, but it’s wrong. You’re married.	disgust	negative
+Chandler	I totally understand.  Can I	neutral	neutral
+
+Director	All right, let's do it!	joy	positive
+Director	No, no, no. What was that?	surprise	negative
+Joey	I know, it was the best I could get out of them.	neutral	neutral
+Director	Well, people!	sadness	negative
+Joey	People, people, people.	neutral	neutral
+Director	Let's try it again, and this time let's watch everybody watch Joey.	neutral	neutral
+Director	Show 'em how it's done.	neutral	neutral
+Director	Count it off.	neutral	neutral
+
+Emily	So what did he decide? Does your Uncle Nathan get an invite or not?	neutral	neutral
+Ross	Ohh, God, nobody likes him, and he’s so cheap, he’d never fly to London in a million years.	disgust	negative
+Ross	Yeah, invite him?	neutral	neutral
+Ross	Hey, did I do these neat enough?	neutral	neutral
+Emily	Yeah, they’re fine.	neutral	neutral
+Ross	Yeah?	joy	positive
+Emily	If anyone asks, we’ll just say Ben addressed them.  Oh! So you invited Rachel then?	surprise	positive
+Ross	Sure. Why not?	neutral	neutral
+Emily	Really?	surprise	positive
+Ross	Yeah?	neutral	neutral
+Emily	I don’t think I’d be comfortable with any of my old lovers there.	sadness	negative
+Ross	Wait-wait-wait, do you, do you think, maybe we shouldn’t invite her?	fear	negative
+Emily	Oh, no-no, y’know I absolutely adore Rachel it’s just that, well it might be a awkward for you.	sadness	negative
+Emily	But it’s absolutely your decision.	neutral	neutral
+Emily	More tea?	neutral	neutral
+Ross	Yeah sure.	neutral	neutral
+Emily	Earl Grey?	neutral	neutral
+Ross	Huh? Yeah, fine, invite whoever you want.	neutral	neutral
+
+Rachel	Hi.	neutral	neutral
+Joey	Hey!	joy	positive
+Phoebe	Hey! So how was the doctor?	neutral	neutral
+Rachel	Oh, everything went great.	joy	positive
+Phoebe	Good.	neutral	neutral
+Ross	Oh hey, show them the picture of your uterus.	neutral	neutral
+Phoebe	Oh.	joy	positive
+Joey	I don’t see the baby. Where is it?	neutral	neutral
+Rachel	Oh no, I know I couldn’t see it either at first, but it’s right umm…  Ross, I lost it again.	joy	positive
+
+Phoebe	Could you help me with something?	neutral	neutral
+Phoebe	The patient I’m looking for has a broken leg and is in a wheelchair.	neutral	neutral
+Phoebe	And umm, he’s like early to mid-thirties, very attractive.	neutral	neutral
+Nurse	I think I know who you’re talking about.	neutral	neutral
+Phoebe	Oh yay! Great! Okay, what room number is he in?	joy	positive
+Nurse	I’m sorry, that information is restricted to hospital staff	neutral	neutral
+Joey	Uh, she’s with me.  Dr. Drake Remoray.	neutral	neutral
+Nurse	Dr. Drake who?	neutral	neutral
+Joey	Remoray. It’s Portuguese. We need that information. I’m a doctor.	neutral	neutral
+Nurse	A doctor at this hospital?	surprise	negative
+Joey	Damnit woman we’re losing precious time! Now do you want this man’s blood on your head?	anger	negative
+Phoebe	Hands.	neutral	neutral
+Joey	Hands!	neutral	neutral
+Joey	It is absolutely essential that you tell me what room the man my assistant described is staying in.	neutral	neutral
+Joey	He’s a patient of mine, I’ve been treating him for years!	neutral	neutral
+Nurse	He’s in room 816.	neutral	neutral
+Joey	816, thank you!	joy	positive
+Phoebe	Thank you.	neutral	neutral
+Joey	And what is his name?	neutral	neutral
+Phoebe	No!	surprise	negative
+
+Ross	Hi!	joy	positive
+Rachel and Bonnie	Hi!	joy	positive
+Bonnie	Rachel was just helping me out. My head got all sunburned.	neutral	neutral
+Ross	Awww.	joy	positive
+Bonnie	Thanks a million.	joy	positive
+Rachel	Oh, you’re welcome a million.	joy	positive
+Bonnie	Okay, I’ll see you in our room.	neutral	neutral
+Ross	Yeah.	neutral	neutral
+Rachel	Oh my God.	surprise	positive
+Ross	I know.	neutral	neutral
+Ross	Okay, I gotta go.	neutral	neutral
+Rachel	Whoa! What?! Why?!	surprise	negative
+Ross	Well, I-I gotta go break up with Bonnie.	sadness	negative
+Rachel	Here?! Now?!	surprise	negative
+Ross	Well, yeah.	neutral	neutral
+Ross	I can’t-I can’t stay here all night, and if I go in there she’s-she’s gonna wanna... do stuff.	fear	negative
+
+Ross	What happened?	surprise	negative
+Chandler	He’s not gonna make it, he’s stuck in Chicago.	sadness	negative
+Ross	Ohh, man! Chicago, is sooo lucky!	joy	positive
+Chandler	Stupid, useless Canadian money!	anger	negative
+
+Mr. Waltham	Rachel, one of your customers seems to have left his billfold. A Joshua Bergen.	neutral	neutral
+Rachel	Really?	surprise	positive
+Mr. Waltham	Will you call him?	neutral	neutral
+Rachel	Yes!	joy	positive
+Rachel	I will!	joy	positive
+Rachel	Absolutely!	joy	positive
+
+Rachel	Oh my God! That is so good!	joy	positive
+
+Chandler	I’m full, and yet I know if I stop eating this, I’ll regret it.	neutral	neutral
+Joey	Hey!	neutral	neutral
+Rachel	Hey!	neutral	neutral
+Joey	What do you got there?	neutral	neutral
+Rachel	Oh it’s umm, it’s tofu cake. Do you want some?	neutral	neutral
+Chandler	What are you doing tonight?	neutral	neutral
+Joey	Huh? Uh	neutral	neutral
+Chandler	Dude! Dude!	surprise	negative
+Joey	Oh!  Sorry. Uh, I’ve got those plans with Phoebe, why?	neutral	neutral
+Chandler	Oh really? Uh, Monica said she had a date at 9:00.	surprise	negative
+Joey	What?! Tonight?!	surprise	negative
+Chandler	That’s what Monica said.	neutral	neutral
+Joey	After she gave me that big speech?!	surprise	negative
+Joey	She goes and makes a date with a guy on the same night she has plans with me?	anger	negative
+Joey	I think she’s trying to pull a fast one on Big Daddy!	anger	negative
+
+Chandler	Okay, is this lamp in the same place?	neutral	neutral
+Ross	Who cares? I repel women.	disgust	negative
+Chandler	No-no-no-no-no-no-no-no!!! You can't come in here! R-r-r-r-Ross is naked.	surprise	negative
+Monica	What?!	surprise	negative
+
+Jill	It’s yours!	neutral	neutral
+Rachel	Yeah well, I’m-I’m a slut.	sadness	negative
+Jill	Me too.	neutral	neutral
+Ross	Hi Jill!	joy	positive
+Jill	Hey!	joy	positive
+Ross	Hi .	neutral	neutral
+Rachel	Rachel.	neutral	neutral
+Ross	Rachel! Well, you-you’re not at home, you’re-you’re-you’re right here.	surprise	positive
+Rachel	Yeah I know, and I bet you thought it would be weird. But it’s not!	joy	positive
+Ross	Okay. So well I’ll umm,  I’ll have her home by midnight.	neutral	neutral
+
+Joey	That part was perfect for me! I can't believe I didn't get it!	anger	negative
+Ross	I'm sorry, man.	sadness	negative
+Ross	Hey, y'know what you should do?	neutral	neutral
+Ross	You should make something happen for yourself.	neutral	neutral
+Ross	Y'know, like-like write a play.	neutral	neutral
+Ross	Write a movie!	joy	positive
+Ross	Huh?	neutral	neutral
+Ross	I mean, what about those	neutral	neutral
+Joey	Come on Ross be realistic, y'know? If I did write something, what are the chances I could get those guys to star in it?	sadness	negative
+Joey	Wait a second, I could star in it!	joy	positive
+Ross	Or that.	neutral	neutral
+Joey	I can't write!	anger	negative
+Joey	Y'know I mean I-I-I'm an actor, I don't have the discipline that takes, y'know?	sadness	negative
+Joey	I can't do it.	sadness	negative
+Ross	I'll help you.	neutral	neutral
+Ross	Yeah, I'll make up a schedule and make sure you stick to it.	neutral	neutral
+Ross	And plus, it'll give me something to do.	neutral	neutral
+
+Chandler	Soo, ah, Eric, what kind of photography do ya do?	neutral	neutral
+Eric	Oh, mostly fashion, so there may be models here from time to time, I hope that’s cool.	neutral	neutral
+Chandler	Yes, that is cool. Because I have models here y'know......never.	neutral	neutral
+Eric	Oh, yeah, during the summer, I spend most weekends at my sister’s beach house, which you are welcome to use by the way.	neutral	neutral
+Eric	Although, I should probably tell you, she’s a porn star.	neutral	neutral
+
+Chandler	Well, listen I ah, still have one more person to ah meet, but unless it turns out to be your sister, I think you’re chances are pretty good.	neutral	neutral
+Chandler	All right.	neutral	neutral
+
+Chandler	As bad as that went, I actually enjoyed myself. I think that I’m going to apologize for all of the stupid things I do.	neutral	neutral
+Monica	Why don’t you just stop doing stupid things? Then you wouldn’t have to apologize.	neutral	neutral
+Chandler	I would really love it if I could do both.	neutral	neutral
+Monica	All right, I…I have to ask.	sadness	negative
+Chandler	What?	neutral	neutral
+Monica	Are you gonna break up with me if I get fat again?	fear	negative
+Chandler	What?!	surprise	negative
+Monica	Well, you broke up with Julie Grath! How much weight could she have gained?	anger	negative
+Chandler	A hundred and forty-five pounds.	disgust	negative
+
+Ross	Yes, yes it is. It’s uh…  Every time on the lips! Why?! Why on lips?!	anger	negative
+Monica	Here’s Frannie. Hmm, won’t she be happy to see me?	joy	positive
+Ross	Now wait a minute, you be nice! All right? I didn’t bring you here so you can ambush her.	anger	negative
+Monica	Frannie was the one who found your	neutral	neutral
+Ross	That bitch!	anger	negative
+Frannie	Monica! What	surprise	negative
+Monica	Am I doing here? Why? Surprised to see me? Ross brought me. How do you like that?!	anger	negative
+Ross	Hi Frannie, congratulations.	neutral	neutral
+Monica	You invite my brother, you invite my whole family, and not me?!	anger	negative
+Monica	Why?!	surprise	negative
+Monica	What—Why wouldn’t you want me at your wedding?	anger	negative
+Monica	What could I have possibly done?!	anger	negative
+Monica	Stuart!	anger	negative
+Frannie	I believe you know my husband.	neutral	neutral
+Ross	So it’s really a question of	neutral	neutral
+
+Chandler	Hey ladies! What are you in here for?	neutral	neutral
+Gary	Hey Chandler, what are you doing here?	surprise	positive
+Chandler	Gary, I'm here to report a crime.	neutral	neutral
+Gary	Yeah?	surprise	positive
+Chandler	It is a crime that you and I don't spend more time together.	neutral	neutral
+Gary	What's up?	neutral	neutral
+Chandler	Well, I heard that you thinking about asking Phoebe to move in with you and I thought maybe, we should have a talk.	neutral	neutral
+Chandler	Man to uh, me.	neutral	neutral
+Gary	Sure. Okay.	neutral	neutral
+Chandler	Uh, are you crazy? Are you insane? If you live with Phoebe, you two are gonna be y'know, live-living together!	surprise	positive
+Gary	Yeah, I-I considered that. I just know it would make me happy.	neutral	neutral
+Chandler	You mean scared.	neutral	neutral
+Gary	No, I mean happy.	neutral	neutral
+
+Ross	Hey! Oh listen, I was just clearing some space for your stuff.	joy	positive
+Rachel	Oh thanks, but listen, I was just at Monica’s and she and Chandler had a big fight and they’re not moving in.	sadness	negative
+Ross	What do you mean, they’re not moving in? They-they’re still moving in right?	surprise	negative
+Rachel	No-no, they just had a big blowout over what to do with my room.	neutral	neutral
+Ross	What?! Over a stupid room!	surprise	negative
+Rachel	Yeah, I feel kinda bad for them, but I’m also really psyched ‘cause I don’t have to move in here!	joy	positive
+Ross	Oh no, yeah no, that part’s great!	joy	positive
+
+Chandler	Shut-out!!	surprise	negative
+Monica	Where are you guys going? Come on, one more game!	surprise	negative
+Joey	Uh, it's 2:30 in the morning!	sadness	negative
+Chandler	Yeah, get out!	anger	negative
+Monica	You guys are always hanging out in my apartment!	anger	negative
+Monica	Come on, I'll only use my left hand, huh?	anger	negative
+Monica	Come on, wussies!	anger	negative
+Monica	All right, ok, I gotta go.	neutral	neutral
+Monica	I'm going,  and I'm gone.	neutral	neutral
+Chandler	One more game?	neutral	neutral
+Joey	Oh yeah!	joy	positive
+
+Janice	I’m sorry.	sadness	negative
+
+Chandler	Ohhh. Don’t go.	sadness	negative
+Janice	No, I-I-I gotta go.	sadness	negative
+Chandler	No. No! No! No!	sadness	negative
+
+Janice	Honey, honey, people are looking.	sadness	negative
+Chandler	I don’t care!  I don’t care!!	anger	negative
+Janice	Yeah, um, I’m, I’m leaving now.	sadness	negative
+Chandler	You can’t leave! I have your shoe!	sadness	negative
+Janice	Good-bye Chandler Bing.	sadness	negative
+Gunther	Rachel has those in burgendy.	neutral	neutral
+
+Phoebe	Oh, ew!	disgust	negative
+Frank	What?	neutral	neutral
+Phoebe	Yeah I know what I wanted to ask you.	neutral	neutral
+Phoebe	Um, can you roll your tongue?	neutral	neutral
+
+Phoebe	Because I can, and my Mom couldn’t, and I thought y'know, I figured that was something I got from our Dad.	neutral	neutral
+Frank	What, wait, you mean like this?	neutral	neutral
+Phoebe	Yeah, yeah. You can do it to.	surprise	positive
+Frank	Your not doing it.	neutral	neutral
+Phoebe	Oh right, yeah okay, my Mom could, and I can’t. We don’t have that....	neutral	neutral
+
+Ross	Where there is no fear of commitment.	neutral	neutral
+Chandler	Do we have any... Do we have any thoughts here?	neutral	neutral
+Joey	Well, I've never been through the tunnel myself, 'cause as I understand it, you're not allowed to go through with more than one girl in the car, right.	neutral	neutral
+Joey	But, it seems to me it's pretty much like anything else, you know, face your fear.	neutral	neutral
+Joey	It have a fear of heights, you go to the top of the building!	fear	negative
+Joey	If you're afraid of bugs.....get a bug.	neutral	neutral
+Joey	Right.	neutral	neutral
+Joey	In this case, you have a fear of commitment, so I say you go in there and be the most committed guy there ever was.	neutral	neutral
+Rachel	Amazingly, that makes sense.	joy	positive
+Chandler	You think?	neutral	neutral
+Joey	Oh, yeah. Go for it man, jump off the high dive, stare down the barrel of the gun, pee into the wind!	joy	positive
+Chandler	Yeah, Joe, I assure you if I'm staring down the barrel of a gun, I'm pretty much peeing every which way.	fear	negative
+
+Mona	Hey!  Hey!	joy	positive
+Ross	Hi!	joy	positive
+Mona	Hi! Look! I got our pictures developed from Rockefeller Center.	joy	positive
+Ross	Oh great! Hey-hey Joey, do you want to check out pictures of me and Mona ice skating?	joy	positive
+Joey	Oh uh, ordinarily I would love too, but I am just swamped right now.	neutral	neutral
+Ross	Hey where-where are the pictures that creepy pretzel vendor took of us together?	neutral	neutral
+Mona	Oh yeah, probably at the end.  Oh my God! He only took pictures of my breasts!	surprise	negative
+Joey	I’m missin’ picture time?!	joy	positive
+Phoebe	Y’know she has a face Ross!	anger	negative
+Mona	Okay. Okay, here’s a good one of us.	joy	positive
+Ross	Wow!	joy	positive
+Ross	That is a good one!	joy	positive
+Ross	Wow, it looks like a, like a holiday card y’know, with the tree in the middle and the skaters and the snow.	joy	positive
+Mona	Y’know, every year I say I’m gonna send out holiday cards and I never do it.	neutral	neutral
+Mona	Do you wanna, do you wanna send this one out together?	neutral	neutral
+Ross	Together? Like-like to people?	surprise	negative
+Mona	Yeah, y’know. Happy holidays from Mona and Ross. It’ll be cute, okay?	joy	positive
+Ross	Okay.	joy	positive
+Mona	Oh, I gotta get to work. So call me later?	neutral	neutral
+Ross	Uh sure, sure.	neutral	neutral
+Mona	Bye guys.	neutral	neutral
+
+Ross	I mean, I don’t feel like I even have a girlfriend anymore.	anger	negative
+Rachel	You want me to just quit my job so that you can feel like you’ve got a girlfriend?	anger	negative
+Ross	Is this about Mark?	neutral	neutral
+Rachel	Oh my God.	surprise	negative
+Ross	Okay, it’s not, it’s not.	neutral	neutral
+Rachel	Oh my God. I cannot keep having this same fight with you Ross! Look, urrgh, maybe we should take a break.	sadness	negative
+Ross	Fine, you’re right.	neutral	neutral
+Ross	Let’s ah, let’s take a break,  let’s cool off, okay, let’s get some frozen yoghurt, or something..	neutral	neutral
+Rachel	No. A break from us.	sadness	negative
+
+Doug	Bing! We’re all set for tonight, 8 o’clock.	joy	positive
+Chandler	Oh uh, as it turns out, we can’t do it. Monica has to work.	joy	positive
+Doug	Oh, my ex-wife didn’t work, unless you call turning into her mother work. Fine. Tomorrow night then.	neutral	neutral
+Chandler	Oh uh well tomorrow’s no good for her either.	neutral	neutral
+Doug	Oh? Why not?	neutral	neutral
+Chandler	It’s the semi-finals…of her…botchy ball tournament.	neutral	neutral
+Doug	What’s going on Bing? Does uh, your wife have a problem with me or something?	anger	negative
+Chandler	Well now-now you’re just talking crazy.	joy	positive
+Doug	So why can’t the three of us go out together?	neutral	neutral
+Chandler	Because uh…we-we…we split up. Monica and I split up. Hold me.	sadness	negative
+Doug	Good God Bing I…well I can’t say I’m altogether surprised, I saw the way she looked at you, and there was no love there.	sadness	negative
+Doug	And the way she looked at me, pure lust.	joy	positive
+Chandler	Y’know what would really help me through this tough time is choking something. Can I choke ya?	anger	negative
+Doug	Bing my boy, we’re gonna get you over this.	neutral	neutral
+Doug	Now here’s the plan, grab your coat, we’re going to a strip club.	joy	positive
+Chandler	Oh no-no-no, Monica would freak.  But to hell with that bitch.	anger	negative
+
+Joey	Look at you, all sweet and innocent, sleeping like an angel...    with Emma's chubby little hands wrapped around ya.	neutral	neutral
+Joey	It's    okay, Emma, you stay asleep.	neutral	neutral
+Rachel	: Step away from the crib,    I have a weapon!	anger	negative
+Joey	It's okay, it's okay Rach, it's me. Put down the scrunchy.	neutral	neutral
+Rachel	What are you doing?	neutral	neutral
+Joey	Well, I heard Emma stirring, so I came to make sure she could    reach Hugsy.	neutral	neutral
+Rachel	Oh, oh thanks. Alright well, now that I'm up I'm going to go    to the bathroom.	neutral	neutral
+Joey	There you go sweetie...     This isn't over.	neutral	neutral
+
+Joanna	Did he call?	neutral	neutral
+Rachel	No. Sorry.	sadness	negative
+Joanna	Why?! Why?! He said he’d call. Why hasn’t he called?	sadness	negative
+Sophie	Maybe he’s intimated by really smart, strong, successful women.	neutral	neutral
+Joanna	Sophie, would you please climb out of my butt. Why hasn’t he called, Rachel? Why?	anger	negative
+Rachel	Okay, okay. Umm, well ah, maybe he, maybe he feels awkward because you are my boss.	neutral	neutral
+Joanna	Awkward? Why should he feel awkward?	surprise	negative
+
+Joanna	The only person that should feel awkward is you, and you didn’t tell him not to call me, did you?	anger	negative
+Joanna	Because if you feel uncomfortable with your friend dating someone you work for, there are always ways to fix...that.	anger	negative
+
+Chandler	And you’re upset because you didn’t make your best friend cry?	sadness	negative
+Monica	I mean, all I’m asking for is just a little emotion!	anger	negative
+Monica	Is that too much to ask after six years?!	anger	negative
+Monica	I mean what?	anger	negative
+Monica	Are-are-are Rachel and I not as close as you guys?!	anger	negative
+Monica	I mean do we not have as much fun?!	anger	negative
+Monica	Don’t I deserve a few tears?!!	sadness	negative
+Monica	I mean we-we told Joey, he cried his eyes out!	sadness	negative
+Joey	Hey!	anger	negative
+Joey	I did not cry my eyes out!!	anger	negative
+Joey	Come on!	sadness	negative
+Joey	It’s like the end of an era!	sadness	negative
+Joey	No more J-man and Channie’s!	sadness	negative
+Chandler	Okay, I gotta ask, who calls us that?!	anger	negative
+
+Chloe	Do I know why we’re rushing?	neutral	neutral
+Ross	Yeah, y'know the ah, the girlfriend I told you about last night?	neutral	neutral
+Ross	Well it turns out she ah, she wants to get back together with me.	neutral	neutral
+Ross	Oh, I found it!	joy	positive
+Chloe	That’s so great for you guys!	joy	positive
+Chloe	Good luck, with your girlfriend.	neutral	neutral
+Ross	Oh, thank you.  Hey, hey.  Rachel!!!!	joy	positive
+Rachel	Hi. Ohhh, you got my message.	neutral	neutral
+Ross	Yeah, oh hey, you are right on time.	neutral	neutral
+Rachel	So what do you say? Can I be your girlfriend again?	neutral	neutral
+Ross	Yes, you can, very much.	joy	positive
+Ross	Ahhhh!!	surprise	positive
+
+Monica	Ooh! I'm sorry! I think, I THINK, that may have missed the table!	joy	positive
+Mike	Do	neutral	neutral
+Monica	Ah,	neutral	neutral
+Mike	Do	neutral	neutral
+Monica	Ah,	neutral	neutral
+Mike	DO YOU?	anger	negative
+
+Ross	Y’know I don’t understand why they didn’t cry. It was a beautiful speech.	sadness	negative
+Monica	Oh, come on.	disgust	negative
+Ross	Hey!	sadness	negative
+Ross	All that stuff you said about true love, you were right, I mean, we did learn a lot from Mom and Dad!	joy	positive
+Ross	And that picture of Chi-Chi with her mischievous grin.	neutral	neutral
+Ross	And what you said about Nana.	neutral	neutral
+Ross	Ohh, yeah she really would’ve wanted to be there.	sadness	negative
+Ross	And you know what?	neutral	neutral
+Ross	I think she was.	neutral	neutral
+Monica	Oh good God, Ross! How the hell do you do it?	surprise	negative
+
+Joey	You forget how many great songs Heart had.	neutral	neutral
+Chandler	Yeah.	neutral	neutral
+Ross	You know, Barracuda was the first song I learned to play on the keyboard.	neutral	neutral
+Chandler	So, you heard it, you repeated it, so that must mean you wrote it.	neutral	neutral
+Joey	Oh, you guys, with this joke. I gotta say, I know I cracked up, but I’m not even sure I got it.	neutral	neutral
+Ross	What, you didn’t get it? The doctor is a monkey.	neutral	neutral
+Chandler	And monkeys can’t write out prescriptions.	neutral	neutral
+Chandler	You are not allowed to laugh at my joke.	anger	negative
+Ross	Your joke? Well, I think ‘the Hef’ would disagree, which is why he sent me a check for one hundred ah-dollars.	neutral	neutral
+
+Monica	I can’t find garbage bags!	anger	negative
+Rachel	Oh, I think I saw some in here.	neutral	neutral
+Monica	What is it?!	surprise	negative
+Rachel	I don’t know! But maybe if we keep that drawer shut, it’ll die.	disgust	negative
+Monica	I can’t believe we’re living here!	sadness	negative
+
+Chandler	You still havenâ€™t told Rachel you werenâ€™t really  proposing?	surprise	negative
+Joey	No! She had the ring on, she seemed so excited, and then she  took her breast out.	anger	negative
+Chandler	Joey, you have to tell her whatâ€™s going on! And what did it  look like?!	surprise	negative
+Joey	I didnâ€™t look at it. Stupid babyâ€™s head was blocking most of  it.	anger	negative
+Chandler	Go and tell Rachel right now before Ross finds out.	sadness	negative
+Joey	Look, itâ€™s not that easy. She said she wanted to marry me. I  donâ€™t want to hurt her.	sadness	negative
+Chandler	Okay, look, just do it gently.	neutral	neutral
+Joey	Youâ€™re right.	neutral	neutral
+Joey	Youâ€™re right.	neutral	neutral
+Joey	I-Iâ€™ll go tell her now before Ross  finds out and Iâ€™ll be gentle.	neutral	neutral
+Joey	I can do that.	neutral	neutral
+Joey	I am a gentle person.	neutral	neutral
+Joey	Oh, by the  way.	neutral	neutral
+Joey	Two people screwing in there  if you want to check that out.	neutral	neutral
+
+Phoebe	Okay, umm, it's this tragic love story between Cathy and Heathcliff and umm, it takes place on like these really creepy mores in England.	sadness	negative
+Phoebe	Which	neutral	neutral
+The Teacher	How would you characterize the theme of this book, uh let's see here , Rachel Green?	neutral	neutral
+Rachel	Umm, well I would have to say that it's a, it's tragic love story.	neutral	neutral
+The Teacher	Well, that's sort of a given, but yes. Anyone else?	neutral	neutral
+Rachel	Oh-oh-oh, symbolism! And uh, the-the uh, wildness of the mores, which	joy	positive
+The Teacher	Excellent! What Rachel has shrewdly observed here	joy	positive
+Phoebe	You completely stole my answer!	anger	negative
+Rachel	Well, honey that was pretty obvious.	sadness	negative
+Phoebe	Well how would you know?! You didn't even read it!	anger	negative
+The Teacher	What do you think? You in the blue shirt.	neutral	neutral
+Phoebe	I think that uh, yours is a question with many answers.	neutral	neutral
+The Teacher	Would ya care to venture one?	neutral	neutral
+Phoebe	Would	neutral	neutral
+The Teacher	Are you just repeating what I'm saying?	anger	negative
+The Teacher	All right, let's move on.	neutral	neutral
+Phoebe	Okay then.	neutral	neutral
+
+Joey	All right, okay, this is great, uh, Chandler, you get behind the desk.	neutral	neutral
+Joey	And-and when she comes in hopefully, she won’t recognise you because, well, why would she?	neutral	neutral
+Joey	Uh, okay, and then you buzz Ross and I.	neutral	neutral
+Joey	You be Mr. Gonzalez, and I’ll be uh, Mr. Wong.	neutral	neutral
+Ross	Diverse.	neutral	neutral
+The Stripper	Did anybody call for security?	neutral	neutral
+Chandler	You be cool.	neutral	neutral
+The Stripper	Okay, which one of you guys is Gunther Central-Perk?  Hey, Joey?	neutral	neutral
+Ross	Where’s my ring? My dead grandmother’s wedding ring? Where is it? Where is it?	fear	negative
+Chandler	Way to be cool, man.	neutral	neutral
+The Stripper	What’s he talking about?	neutral	neutral
+Joey	There was a ring, in a box, on my nightstand, after you left, it was gone!	anger	negative
+The Stripper	Wait, you guys think I stole some ring?	surprise	negative
+Ross	We know you took so just-just save yourself the time and confess!	anger	negative
+The Stripper	Okay, who are you?	surprise	negative
+The Stripper	The Hardy boys?	anger	negative
+The Stripper	Look, I don’t need to steal some stupid ring, all right?	anger	negative
+The Stripper	I make $1,600 a week doing what I do; any of you guys make that?	anger	negative
+Chandler	Marry me.	neutral	neutral
+
+Monica	Oh my God! Joey!	surprise	negative
+Phoebe	Hell yeah! I’ll marry you!	joy	positive
+Monica	You can’t marry him!	anger	negative
+Phoebe	Hey lady, your day’s over! It’s my turn!	anger	negative
+Monica	Phoebe!	surprise	negative
+Joey	Why?! Why can’t she marry me?!	surprise	negative
+Phoebe	I can and I will!	anger	negative
+Monica	She’s not pregnant. It’s Rachel. Rachel’s the one who’s pregnant.	neutral	neutral
+Joey	Oh my God.	surprise	negative
+Phoebe	Hey!	anger	negative
+Monica	Phoebe I think he would notice if you didn’t have a baby in nine months!	anger	negative
+Phoebe	It’s Joey!	surprise	negative
+Joey	Now I can’t believe it! What? Rachel’s pregnant?  Who’s the father?	surprise	positive
+Phoebe	We don’t know.	neutral	neutral
+Joey	Ohh… I wonder if that dude.	neutral	neutral
+Monica	There’s a dude?	surprise	negative
+Joey	Yeah.	neutral	neutral
+Phoebe	Who? Who is it?	surprise	negative
+Joey	About a month ago this guy spent the night with Rachel, I didn’t see who it was but	disgust	negative
+Phoebe	Was that story over?	neutral	neutral
+Joey	The guy left this.	neutral	neutral
+Phoebe	Oh my God! I know who the father is	surprise	negative
+Monica	People have got to finish their stories!	anger	negative
+
+Joey	Oh my God, you’re back!	surprise	positive
+Phoebe	Ohh, let me see it! Let me see your hand!	surprise	positive
+Monica	Why do you want to see my hand?	neutral	neutral
+Phoebe	I wanna see what’s in your hand. I wanna see the trash.	disgust	negative
+Phoebe	Eww! Oh, it’s all dirty. You should throw this out.	disgust	negative
+
+Ross	No!	anger	negative
+Monica	Me too!	joy	positive
+Ross	Hey, when the music starts up again, I was thinking of maybe goind into the robot, y’know?	neutral	neutral
+Monica	Ross, I think we should stick to the routine, we don’t wanna look stupid!	joy	positive
+Director	Alright we’re back! Ten seconds left here we go! Ten! Nine! Eight! Seven!	joy	positive
+All	Three, Two, One!	neutral	neutral
+Director	Cut!	neutral	neutral
+Joey	No! Year! Happy No Year!	joy	positive
+Director	Okay, here’s where we go to the live shot of Times Square, nice work everyone that’s a wrap!	joy	positive
+
+Paul	So Lizzie, are-are-are you planning on staying the night?	neutral	neutral
+Elizabeth	Oh no-no believe me, I’m leaving as soon as possible!	neutral	neutral
+Paul	Good. Good. Not that we don’t want you to stay, obviously you’re welcome—How much more homework do you have?	neutral	neutral
+
+Chandler	I see. Y’know umm, Phoebe makes sock bunnies.	neutral	neutral
+Monica	No!	surprise	negative
+Monica	No, she doesn’t.	neutral	neutral
+Monica	Uh Phoebe, what she makes—that’s uh—they’re sock rabbits.	neutral	neutral
+Monica	They are completely different—Okay!	anger	negative
+Monica	Okay!	surprise	negative
+Monica	Okay!	surprise	negative
+Monica	I didn’t make it!	sadness	negative
+Monica	I’m sorry!	sadness	negative
+Monica	I totally forgot about tonight and the fact that we’re supposed to	neutral	neutral
+Chandler	Oh, it’s okay. I don’t	neutral	neutral
+Monica	No-no, it’s not okay!	sadness	negative
+Monica	It’s not!	sadness	negative
+Monica	I mean you were just… You’re so incredible!	sadness	negative
+Monica	You went through all this time and effort to make this tape for me!	sadness	negative
+Monica	Y’know I’m just gonna—I, I am gonna make this up to you!	joy	positive
+Monica	I will!	sadness	negative
+Monica	I-I am going to	neutral	neutral
+Chandler	Well, I did put a lot of thought in the tape.	neutral	neutral
+
+Rachel	No.  And then I called him, and he wasn’t there.	neutral	neutral
+Mark	Well, then he’s, he’s probably just, out.	neutral	neutral
+Rachel	Oh, thank you that’s very helpful, I’m glad you came over.	neutral	neutral
+Rachel	Hello.	neutral	neutral
+Ross	Hi! It’s me.	sadness	negative
+Rachel	Hi! Oh, I’m so glad you called.	joy	positive
+Ross	Really? I’ve been thinking, this is crazy, I mean don’t, don’t you think we can work on this?	sadness	negative
+Mark	Hey, what do you want to drink?	neutral	neutral
+Ross	Who’s that?	surprise	negative
+Rachel	Nobody.	neutral	neutral
+Mark	Is it okay if I finish the apple juice?	neutral	neutral
+Ross	Is that Mark?	neutral	neutral
+Rachel	Umm, honey, look he just came over to....	neutral	neutral
+Ross	Yeah! Got it!	anger	negative
+Chloe	Hey, dinosaur guy, look at you, so sad. Come dance.	neutral	neutral
+Ross	Ah, that’s okay, thanks.	sadness	negative
+Chloe	Hey, you don’t have to smile. You just have to dance.	neutral	neutral
+Ross	Look, I don’t feel like dancing, I feel like having a drink. Okay?	sadness	negative
+Chloe	Oh, okay.  Hey, two beers.	neutral	neutral
+
+Rachel	You wanna go in the bedroom? It’s a little more comfortable.	neutral	neutral
+Tag	Sure.	neutral	neutral
+Rachel	Okay.  Oh wait! Umm, did you send those contracts to Milan?	surprise	positive
+Tag	If this is your idea of sexy talk?	surprise	positive
+Rachel	No seriously, y’know the contracts I gave you, did you overnight them?	fear	negative
+Tag	What contracts?	neutral	neutral
+Rachel	Okay please tell me that this is just one of your jokes that you do that I don’t get.	joy	positive
+Tag	Like what?	neutral	neutral
+Rachel	Y’know, like the thing when you put the phone in your pants?	disgust	negative
+Rachel	Tag!	anger	negative
+Rachel	I’m serious!	anger	negative
+Rachel	This isn’t funny!	anger	negative
+Rachel	Those contracts absolutely had to go out today!	anger	negative
+Tag	Rach, I’m sorry, but you didn’t give me any contracts!	surprise	negative
+Rachel	Yes I did! And I put a little	anger	negative
+Tag	I’m telling you, you never gave them to me.	neutral	neutral
+Rachel	Y’know what Tag, if we went down to the office you would see those contracts sitting on your desk.	anger	negative
+Tag	No, I would see you looking embarrassed because they are	anger	negative
+Rachel	Or maybe you would see me looking embarrassed because you are talking on the phone with your crotch!	disgust	negative
+Tag	You wanna go down to the office right now?	neutral	neutral
+Rachel	No! Come on its late, we’re not gonna go down to the office.	anger	negative
+Tag	Okay I understand.  I wouldn’t want to be proved wrong either.	neutral	neutral
+Rachel	Okay get your coat!  Oh! When did you unhook this?  Nice work!	joy	positive
+
+Joey	Hey Ross, this is one of my co-stars, Dirk.  Dirk, this    is my good friend Ross.	neutral	neutral
+Ross	Nice to meet you.	neutral	neutral
+
+Phoebe	Oh and I need to talk to you.	neutral	neutral
+Monica	About what?	neutral	neutral
+Phoebe	To see if know what these guys are talking about.	neutral	neutral
+
+Monica	Pheebs, how’s it going?	neutral	neutral
+Phoebe	I’m doing okay. I think it’s going well. Do you think they’re having fun? Am I talking to fast?	neutral	neutral
+Monica	Nope, sound like me. Pheebs, it’s going great. Look at Chandler with little baby girl Chandler.	joy	positive
+Chandler	Little baby girl Chandler, where I have heard that before?	neutral	neutral
+Chandler	Oh right, Coach Ruben.	neutral	neutral
+Chandler	Do you know what Pheebs?	neutral	neutral
+Chandler	When you’re done over there, we kinda have a situation over here too.	fear	negative
+Phoebe	Na-uh, no, we are all responsible for our own babies.	neutral	neutral
+Chandler	See that’s where I think that you’re wrong. We’ve been playing these babies man for man. we should really be playing a zone defense.	neutral	neutral
+Monica	What do you mean?	surprise	negative
+
+Chandler	Forgive me? You haven't been taking my calls in a week!	anger	negative
+Joey	Well, I'm totally over it Chandler. Friends forever! Don't come out here!	anger	negative
+Chandler	Uh, what was that?	surprise	negative
+Joey	Uh,	neutral	neutral
+
+Chandler	...I'm, I'm okay.	neutral	neutral
+Chandler	That sounds good. I'll call you- or you call me, whatever...	neutral	neutral
+Chandler	Okay.	neutral	neutral
+All	Bye.	neutral	neutral
+Phoebe	Whoo-hoo!	joy	positive
+Monica	Yeah, there you go!	joy	positive
+Ross	Second date!	joy	positive
+Chandler	...I dunno.	neutral	neutral
+Chandler	Well, she seems very nice and everything, but that whole thing about her coming all the way down here, just to see if I was okay?	anger	negative
+Chandler	I mean,... how needy is that?	disgust	negative
+
+Joey	Remember when you where a kid and your Mom would drop you off at the movies with a jar of jam and a little spoon?	neutral	neutral
+Rachel	You're so pretty.	joy	positive
+Phoebe	Hi!	joy	positive
+All	Hey, Phoebe.	neutral	neutral
+Phoebe	Hey, oh, you know that guy who's been following me? I talked to him today.	neutral	neutral
+Joey	You talked to him. Are you crazy?	surprise	negative
+
+Phoebe	Thank you, Happy Holidays.	joy	positive
+Phoebe	Now, that's trash. Young lady, you can't…  Hey! Stop that young lady, she donated trash!	anger	negative
+Phoebe	Hey!!	anger	negative
+Phoebe	The charity's on fire!	fear	negative
+Phoebe	Help!	fear	negative
+Phoebe	Oh good!	joy	positive
+Phoebe	Thank you, I need that.	joy	positive
+Phoebe	Whoa!	surprise	negative
+Phoebe	What is that?!	surprise	negative
+Phoebe	It's nine o'clock in the morning!	surprise	negative
+
+Female Clerk	Can I help you?	neutral	neutral
+Joey	Uh yeah, where-where’s the guy who decides who’s pictures go up on the wall?	neutral	neutral
+Female Clerk	He’s not here right now.	neutral	neutral
+Joey	Oh, you’re kidding me!	anger	negative
+Joey	All-all right, well make sure you tell him that Joey Tribbiani stopped by to drop off all of these clothes.	neutral	neutral
+Joey	Okay?	neutral	neutral
+Joey	I’m an actor. I’m kinda getting my picture up there on the wall.	neutral	neutral
+Female Clerk	Y’know, there are two people who could put your picture up there.	neutral	neutral
+Joey	Oh really? Well, maybe you and I go out for drinks?  You’re the other one right?	neutral	neutral
+
+Phoebe	Yeah, and it really freaked me out! And after a while I even tried to hurt you and it just spurred you on.	sadness	negative
+Monica	What?! You’re crazy! There’s nothing sexual about the noises I make!	surprise	positive
+Phoebe	There’s nothing sexual about this?	anger	negative
+Phoebe	Oo God!	sadness	negative
+Phoebe	What are you looking at?!	anger	negative
+Phoebe	I mean hi.	neutral	neutral
+Monica	Oh my—This is so embarrassing. Oh my God, I’m never gonna get massaged again!	fear	negative
+Phoebe	No, you can’t let this stop you from getting massages!	sadness	negative
+Phoebe	No look, I have, I have lots of clients that make the same noises you do!	neutral	neutral
+Monica	Really?!	surprise	negative
+Phoebe	Well not clients, lovers. But let’s just y’know, try it again. Come back and-and we’ll work through it.	neutral	neutral
+Monica	Are you sure?	surprise	positive
+Phoebe	Yes.	neutral	neutral
+Monica	I guess.	neutral	neutral
+Phoebe	Great! Okay, if you’ll just excuse me.  So, did you hear something you liked?	joy	positive
+
+Ross	Thanks for the coffee, or bedankt voor de koffie, Gunter.	neutral	neutral
+Ross	Yeah, we’re done.	neutral	neutral
+Ross	Ezel? Ezel? Ezel?	surprise	negative
+Joey	Hey Ross! Listen, do you want to go see that new Imax movie on tide pools?	joy	positive
+Ross	Really?!	surprise	negative
+Joey	No. But I got Knicks tickets for you, me, and Chandler.	neutral	neutral
+Ross	Sweet!	joy	positive
+Joey	All right, well finish your coffee; let’s go.	neutral	neutral
+
+Chandler	Ah, no-no-no just Ross. Ross and Joey is embarrassing enough.	disgust	negative
+Ross	Uh actually, sorry I can’t even make it. I’m seeing Mona again tonight.	neutral	neutral
+Chandler	I understand: who would cancel an actual date to go to a fake bachelor party?	neutral	neutral
+Joey	I’m sorry I gotta cancel tonight baby	sadness	negative
+
+Kim	So it's down to these two, Nancy I know you like this one and I think I agree. Rachel, what do you think?	neutral	neutral
+Rachel	Well umm, that one is pretty but uh, I just, I just love this fabric  Sorry.	neutral	neutral
+Kim	Oh don't be sorry, that's part of your job here to give your opinions and then I take credit for them--I'm kidding.	neutral	neutral
+Nancy	She is kidding, but don't ever disagree with her again. Okay, now I'm kidding!	joy	positive
+Rachel	Oh, what a fun office.	joy	positive
+Kim	I don't know which one, but I do know I need a cigarette.	neutral	neutral
+Kim	So what do you say we take a break, we go outside, and we'll figure this out when we come back?	neutral	neutral
+Kim	Rachel? Do you smoke?	neutral	neutral
+Rachel	Oh no, my dad's a doctor and he would always tell me just horror stories……about ghosts and goblins who totally supported the princess's right to smoke.	neutral	neutral
+
+Joey	What?	neutral	neutral
+Ross	Peach pit.	neutral	neutral
+Chandler	Yes, Bunny?	neutral	neutral
+Ross	Peach pit. That night we, uh- we had-	neutral	neutral
+Joey	-Peaches?	neutral	neutral
+Ross	Actually, nectarines, but basically...	neutral	neutral
+Chandler	Could've been a peach.	neutral	neutral
+Ross	Then, uh, then we got dressed, and I-I... I walked her to the-  -the bus stop... I'm fine.	neutral	neutral
+Joey	Hey, that woman's got an ass like Carol's!  What? Thought we were trying to find stuff.	joy	positive
+
+Joey	All right!	joy	positive
+Joey	Westminster Abbey!	joy	positive
+Joey	Hands down, best Abbey I’ve ever seen.	joy	positive
+Joey	Hey!	joy	positive
+Joey	Okay.	neutral	neutral
+Joey	What do you think of the Abbey, Chandler?	neutral	neutral
+Chandler	I think it’s great. It’s great. Y’know, they’re thinking of changing the name of this place.	neutral	neutral
+Joey	Really? To what?	surprise	negative
+Chandler	To Put the Camera Away!!!	anger	negative
+Joey	Man,	neutral	neutral
+
+Chandler	Y'know, I can't believe I'm getting my nails done!  And	surprise	negative
+Rachel	Chandler, there’s a guy right over there.	neutral	neutral
+Chandler	That’s a mailman! That’s	surprise	negative
+Rachel	Chandler, don’t worry! This doesn’t make you any less of a guy!	neutral	neutral
+Chandler	Hey, you know who used to have nails like that?	neutral	neutral
+
+Chandler	Eh..., I don’t, I don’t know.	sadness	negative
+Rachel	What?	neutral	neutral
+Chandler	Well, as old as he is in dog years, do you think Snoopy should still be allowed to fly this thing?	sadness	negative
+Gunther	Rachel?	neutral	neutral
+Rachel	Yeah.	neutral	neutral
+Gunther	Do you remember when you first came here, how you spent two weeks getting trained by another waitress?	neutral	neutral
+Rachel	Oh, sure! Do you need me to train somebody new?	joy	positive
+Gunther	Good one. Actually, ah, Terry wants you to take the training again, whenever.	neutral	neutral
+Rachel	Eh, do you believe that?	surprise	positive
+Chandler	Yeah?	neutral	neutral
+
+Chandler	Hey honey, you got the kind with the little girl, you said we were gonna to get the kind with the baby.	anger	negative
+Monica	No, you said the baby creeps you out.	neutral	neutral
+Chandler	No, the little girl creeps me out.	anger	negative
+Monica	You said the baby.	neutral	neutral
+Chandler	Why would the baby creep me out?	anger	negative
+Monica	Why would the little girl creep you out?	anger	negative
+Phoebe	You guys, I’m sorry, could you please talk a little slower?	neutral	neutral
+Chandler	This is going in your book?	surprise	negative
+Phoebe	Yeah, it’s about relationships. Y’know? The traps, the pitfalls, what not to do, keep going. This stuff is great!	joy	positive
+Monica	What?! Excuse me!	surprise	negative
+Phoebe	And how none of it matters when the people really love each other.	neutral	neutral
+Phoebe	And how people will believe anything you tell them as long as it’s a compliment.	neutral	neutral
+
+Ross	Yes, I made it!	joy	positive
+Ross	I’m on time!	joy	positive
+Ross	Okay, why don’t we all uh,  open our books to page 23.	neutral	neutral
+Ross	Where…  Where you will see…a uh…a bunch of uh…red spots.	neutral	neutral
+Ross	Okay,  umm, why don’t, why don’t you all start to read, while I—	neutral	neutral
+
+Rachel	Yeah, all right. All right! Just keep walkin'! All right?	anger	negative
+Rachel	Ross! What are you… I'm sorry sir. I just, I think he just really likes you.	neutral	neutral
+Ross	Hey! Y'know that teacher who had a baby with her student?	neutral	neutral
+Ross	What the? What	surprise	negative
+Flight Attendant	Miss? May I help you?	neutral	neutral
+
+Chandler	Okay look, don't...don't be mad okay?	fear	negative
+Chandler	But after I unpacked the boxes I wanted to do something nice for you, so, I-I-I cleaned the apartment.	neutral	neutral
+Chandler	So I moved everything around and then I forgot where it, where it went back and I'm sorry, I'm very sorry, I'm sorry, I'm sorry.	sadness	negative
+Monica	It's okay. Chandler, are you afraid of me or something?	neutral	neutral
+Chandler	Do you want me to be afraid of you?	neutral	neutral
+Monica	Of course not.	neutral	neutral
+Monica	I mean gosh, Chandler what you did, it's, it's a wonderful thing and I really appreciate it.	joy	positive
+Monica	I know I have this weird thing where I want everything to be in the perfect place, but I'd never expect you to worry about that.	joy	positive
+Chandler	Really?	surprise	positive
+Monica	Of course!	neutral	neutral
+Chandler	Oh well you're the best. You come here to me.	joy	positive
+Monica	All right, hold on okay? First thing's first.  Okay, now did Ross sit	neutral	neutral
+
+Ross	Okay, that's it. I cannot make this decision! It is	anger	negative
+Monica	A Magic Eight ball?! You can't be serious, you can't make this decision with a toy!	disgust	negative
+Phoebe	Ooh, it's not a toy.	anger	negative
+Ross	Well, I don't know what else to do.	sadness	negative
+Ross	I mean, I either keep my wife and lose one of my-my-my best friends or I keep my friend and get divorced the second time before I'm 30!	anger	negative
+Ross	So-so if anyone has-has a better suggestion, let's hear it!	anger	negative
+Ross	'Cause I-I got nothing!	anger	negative
+Ross	All right, don't be shy, any suggestion will do.	anger	negative
+Ross	Okay then.	neutral	neutral
+Ross	Here we go.	neutral	neutral
+Ross	Magic 8 Ball, should I never see Rachel again?	neutral	neutral
+Ross	Ask again later.	neutral	neutral
+Ross	Later is not good enough.	anger	negative
+Ross	Ask again later.	neutral	neutral
+Ross	What the hell!	anger	negative
+Ross	This is broken!	anger	negative
+Ross	It-it is broken!	anger	negative
+Monica	All right, let me see.  Will Chandler have sex tonight?  Don't count on it. Seems like it works to me.	neutral	neutral
+
+The Fan	Excuse me.	neutral	neutral
+Phoebe	Yeah?	neutral	neutral
+The Fan	Are you Phoebe Buffay?	neutral	neutral
+Phoebe	Yeah.	neutral	neutral
+The Fan	Can-can I get your autograph, I’m your biggest fan.	joy	positive
+
+Phoebe	I think she took it pretty well. You know Paolo's over there right now, so...	neutral	neutral
+Ross	Ah...ooh! Well, looks like, uh, we kicked your butts.	joy	positive
+Joey	No-no, she kicked our butts. You could be on the Olympic standing-there team.	anger	negative
+Ross	Come on, two on one.	neutral	neutral
+Chandler	What are you still doing here? She just broke up with the guy, it's time for you to swoop in!	surprise	negative
+Ross	What, now?	surprise	negative
+Joey	Yes, now is when you swoop!	joy	positive
+Joey	You gotta make sure that when Paolo walks out of there, the first guy Rachel sees is you, She's gotta know that you're everything he's not!	joy	positive
+Joey	You're like, like the anti-Paolo!	anger	negative
+Chandler	My Catholic friend is right.	neutral	neutral
+Chandler	She's distraught.	neutral	neutral
+Chandler	You're there for her.	neutral	neutral
+Chandler	You pick up the pieces, and then you usher in the age of Ross!	joy	positive
+
+Rachel	Well, I just called Joshua	neutral	neutral
+Phoebe	Oh, how did it go?	sadness	negative
+Rachel	Well, I did my best to convince him that I’m not some crazy girl who is dying to get married—I’m just going through a hard time.	neutral	neutral
+Phoebe	What did he say?	neutral	neutral
+Rachel	Well uh, his answering machine was	sadness	negative
+Monica	Ohh, sweetie!  Hey, I bet you anything that he’s gonna call you again.	sadness	negative
+Rachel	Yeah, maybe, but I don’t think I even care.	sadness	negative
+Rachel	I don’t think he’s the one I’m sad about.	sadness	negative
+Rachel	Y’know, I know that I said that I am totally okay with Ross getting married, but as it turns out, I don’t think I’m handling it all that well.	sadness	negative
+Phoebe	Yeah, maybe.	sadness	negative
+Rachel	And I-I am just trying to figure out why.	sadness	negative
+Phoebe	Any luck?	sadness	negative
+Rachel	Well, yeah, y’know how Ross and I were on again, off again, on again, off again?	sadness	negative
+Rachel	I guess I just figured that somewhere down the road, we would be on again.	sadness	negative
+Monica	Again. Y’know what? I think we all did.	sadness	negative
+Ross	Hey!	joy	positive
+
+Joey	I don’t get it!	surprise	negative
+Joey	It was in my room all night!	anger	negative
+Joey	And if she didn’t take it, and I didn’t take it; and you  didn’t take it, then who did?	anger	negative
+Joey	Shh!	anger	negative
+Joey	We’re trying to think!	anger	negative
+
+Joey	This is the unit for you my friend. Sturdy construction, tons of storage compartments, some big enough to fit a grown man.	neutral	neutral
+Guy	What?!	surprise	negative
+Joey	Oh yeah!	joy	positive
+Joey	I got in there myself once.	neutral	neutral
+Joey	My roommate bet me five bucks that I couldn’t, and then he stuck a board through the handles that locked me in.	neutral	neutral
+Joey	Yeah.	neutral	neutral
+Joey	It was funny ‘til I started feeling like I was in a coffin.	neutral	neutral
+Guy	No, you, you can’t fit in that thing. That’s not deep enough.	neutral	neutral
+Joey	Oh yeah?  If I can’t, I’ll knock five bucks off the price off the unit.	anger	negative
+Guy	All right, you have yourself a deal.	neutral	neutral
+Joey	Okay.  See?! I told ya!	surprise	positive
+Joey	Sometimes I get in here just to get away from it! Hey, a nickel!!	anger	negative
+
+Joey	Hey! What’s up?	neutral	neutral
+Rachel	Hey!	joy	positive
+Joey	Hey-hey, who’s your friend?  Hey!!	joy	positive
+Erin	Hey Joey!	joy	positive
+Joey	Erin! Still here!	joy	positive
+Rachel	Yeah, we ended up spending the day together and had such a great time!	joy	positive
+Joey	Why wouldn’t ya? Erin is great! Then-then there’s you guys.	joy	positive
+Erin	Ohh, listen. I’ve got to get going. Today was great, thanks!	joy	positive
+
+Bonnie	I think I brought back half of the beach in my hair. It was so much easier when I used to shave my head.	anger	negative
+Rachel	Y'know, I gotta tell ya, I just	neutral	neutral
+Bonnie	Really?!	surprise	positive
+Rachel	Ohh!	surprise	positive
+Bonnie	Because I think about shaving it all off again sometime.	neutral	neutral
+Rachel	Really?!	surprise	positive
+Bonnie	Yeah!	joy	positive
+Rachel	I mean you definitely should do that.	neutral	neutral
+Bonnie	Y'know what, I should do it.	joy	positive
+Rachel	Yeah!	joy	positive
+Bonnie	Yeah, thank you Rachel, you are soo cool.	joy	positive
+Rachel	Awww, stop. Come on. Now go shave that head!	neutral	neutral
+Bonnie	All right.	neutral	neutral
+
+Rachel	Oh, Monica. You are not still going over that thing.	sadness	negative
+Monica	This woman's living my life.	anger	negative
+Rachel	What?	surprise	negative
+Monica	She's living my life, and she's doing it better than me!	anger	negative
+Monica	Look at this, look.	anger	negative
+Monica	She buys tickets for plays that I wanna see.	anger	negative
+Monica	She, she buys clothes from stores that I'm intimidated by the sales people.	anger	negative
+Monica	She spent three hundred dollars on art supplies.	anger	negative
+Rachel	You're not an artist.	neutral	neutral
+Monica	Yeah, well I might be if I had the supplies! I mean, I could do all this stuff. Only I don't.	anger	negative
+
+Chandler	I can't believe you would actually say that. I would much rather be Mr.Peanut than Mr.Salty.	surprise	negative
+Joey	No way! Mr.Salty is a sailor, all right, he's got to be, like, thetoughest snack there is.	anger	negative
+Ross	I don't know, you don't wanna mess with corn nuts. They're craaazy.	neutral	neutral
+Monica	Oh my God. You guys! You gotta come see this! There's some creep out there with a telescope!	fear	negative
+Ross	I can't believe it! He's looking right at us!	surprise	negative
+Rachel	Oh, that is so sick.	disgust	negative
+Chandler	I feel violated. And not in a good way.	disgust	negative
+Phoebe	How can people do that?...  Oh, you guys, look! Ugly Naked Guy got gravity boots!	surprise	negative
+
+Joey	Man that was great! Huh? Can you believe how long we threw that ball around?	joy	positive
+Rachel	Yeah, it is amazing it lasted that long.	neutral	neutral
+Ross	I know. My arm is killing me.	neutral	neutral
+Rachel	No, I meant with the dropper over here.	neutral	neutral
+Chandler	Y'know, how did I get this reputation as a dropper? Okay? I'm	anger	negative
+
+Rachel	Ah, oh God. Oh, honey, oh that's OK.	sadness	negative
+Ross	What. Oh no, you just rolled over the juice box.	sadness	negative
+
+Joey	Hey.	neutral	neutral
+Joey	I just saw a woman breast feeding both of her twins at the same time. it is like a freak show up here.	neutral	neutral
+Joey	What’s the matter?	neutral	neutral
+Rachel	Nothing.	neutral	neutral
+Joey	What is it? Hey!	sadness	negative
+Rachel	Really it’s nothing. I’m just	sadness	negative
+Joey	Rach come on, what?	neutral	neutral
+Rachel	I’ve just been thinking about how my baby and I are gonna be all alone.	sadness	negative
+Joey	What are you talking about alone? What about Ross?	surprise	negative
+Rachel	Oh please, he’ll be with his real family, the twins and little miss new boobs.	sadness	negative
+Joey	Okay, how long was I watching that woman?	neutral	neutral
+Rachel	I’m just saying that y’know, someday Ross is gonna meet somebody and…he’s gonna have his own life. Right?	sadness	negative
+Joey	Yeah, I guess so.	neutral	neutral
+Rachel	I just never thought I would raise this baby all by myself. Pretty dumb huh?	sadness	negative
+
+Chandler	Bob. Bob! Bob!!!  What the hell are you doing?!	surprise	negative
+Bob	I just found out this is Chandler’s office! Come on Toby, give me a hand!	joy	positive
+
+Monica	Chandler, we said we would meet at the coffeehouse at six.	anger	negative
+Chandler	We said seven!	anger	negative
+Monica	We said six!	anger	negative
+Chandler	The only way that I said six would be if the seven’s, let meet at seven, not at six.	neutral	neutral
+Monica	Yeah and if I had seven, maybe I would’ve said something like this, "Wow! My boyfriend’s such a wise ass—seven!"	anger	negative
+Phoebe	Hi!	joy	positive
+Chandler	Oh my good God.	disgust	negative
+Phoebe	I know what time you said.	joy	positive
+Chandler	What?!	surprise	negative
+Phoebe	Well actually, I know what time Chester and Marcia said.	neutral	neutral
+
+The Dry Cleaner	You, get out of my shop!	anger	negative
+Phoebe	Well, what did he do?	surprise	negative
+The Dry Cleaner	He went out with my wife!	anger	negative
+Phoebe	Joey!	surprise	negative
+Joey	Whoa-whoa-whoa-whoa, I-I—Hey! I did	anger	negative
+The Dry Cleaner	That’s my wife!!! Get out!	anger	negative
+Phoebe	Well, we should go.	neutral	neutral
+Joey	Yeah.	neutral	neutral
+
+Chandler	Y’know you, really didn’t have to take me to the airport.	neutral	neutral
+Janice	Oh please.	neutral	neutral
+Janice	Every moment is precious.	sadness	negative
+Janice	Y’know?	neutral	neutral
+Janice	Besides, somebody had to ride in that other taxi with the rest of your luggage, and your friends don’t really seem to care too much that you’re leaving.	sadness	negative
+Chandler	Well, we’re really not that close.  Okay, so I guess this is uh, good-bye then.	neutral	neutral
+Janice	On no! No! It’s not good-bye, I’m not leaving until you get on that plane.	sadness	negative
+
+Chandler	No, I’m afraid I won’t be able to make love as well as him.	anger	negative
+Ross	Yeah, I was going for the metaphor.	neutral	neutral
+Chandler	Yes, and I was saying the actual words.	neutral	neutral
+Monica	So big deal, so Joey’s had a lot of girlfriends, it doesn’t mean he’s great in bed.	neutral	neutral
+Chandler	We share a wall! So either he’s great in bed, or she just likes to agree with him a lot.	neutral	neutral
+Monica	Sweetie, with you it’s gonna be different. The sex is gonna be great, ‘cause you-you guys are in love.	joy	positive
+Chandler	Yeah?	surprise	positive
+Rachel	Yeah!	joy	positive
+Ross	Just go for it Chandler.	neutral	neutral
+Monica	Yeah, you should.	neutral	neutral
+Rachel	Yeah, you should, really.	neutral	neutral
+Chandler	All right, all right, I’ll go sleep with my girlfriend. But I’m just doing it for you guys.	neutral	neutral
+
+Mr. Treeger	: I’m sure as hell a dancer, it’s no use Marge will never go for me.	sadness	negative
+Joey	Come on Treeger, don’t say that.	sadness	negative
+Joey	You just ahh, you just need more practice.	neutral	neutral
+Joey	Here, come on, let’s ahh, let’s try it again.	neutral	neutral
+Joey	Plus, it was, it was probably mostly my fault, anyway.	sadness	negative
+Joey	I mean, y’know, I’m not really that comfortable dancing with a— We-he!!	joy	positive
+Joey	Hey!	joy	positive
+Mr. Treeger	: Yeah!	joy	positive
+
+Phoebe	Are you sure? I’ll bet there’s another flight to Minsk in like	neutral	neutral
+David	July. Umm,	neutral	neutral
+Phoebe	That’s really beautiful. What does it mean?	joy	positive
+David	Please, clean my beakers. I don’t get out of the lab much.	neutral	neutral
+Phoebe	That’s good. I got to admit, I thought it was something else.	joy	positive
+David	Yeah, I… Well I really actually wanted to say umm, that, but um, I figured I probably shouldn’t because y’know, I…have to leave.	neutral	neutral
+Phoebe	You’re right! You’re right. Don’t say it.	sadness	negative
+David	I-I do though.	sadness	negative
+Phoebe	I do too.	sadness	negative
+David	Bye Phoebe.	neutral	neutral
+Phoebe	Okay, now’s not the time Joey. All right? You can yell at me tomorrow.	sadness	negative
+
+Rachel	Yeah, I-I heard.  I think it’s great!  Ohh, I’m so happy for you!	joy	positive
+Monica	I can’t believe you’re getting married!	joy	positive
+Ross	Yeah.	neutral	neutral
+Joey	Monica and Rachel made out.	neutral	neutral
+
+Rachel	Ohhh!	surprise	negative
+Ross	Why are we in bed together?	surprise	negative
+Rachel	I don’t know. Do-do you have any clothes on?	neutral	neutral
+Ross	Yeah.	neutral	neutral
+Rachel	Really?!	surprise	negative
+Ross	No!	neutral	neutral
+Ross	But we-we didn’t have…sex-uh, did we?	fear	negative
+Ross	I mean, I don’t remember much about last night, it was such a blur.	neutral	neutral
+Rachel	Oh! I remember laughing! I laughed a lot.	joy	positive
+Ross	And we didn’t have sex.	neutral	neutral
+Rachel	Ohh, I mean, we were really drunk. I’m just glad we didn’t do anything stupid.	neutral	neutral
+Ross	Tell me about it.	neutral	neutral
+
+Monica	What are we gonna do?	neutral	neutral
+Chandler	I say we go with	neutral	neutral
+Janice	Chandler?	neutral	neutral
+
+Chandler	Did she see us yet? Did she see us?	neutral	neutral
+Monica	Janice, what umm, what are you doing here?	sadness	negative
+
+Phoebe	What’s that smell?	disgust	negative
+Joey	I know!	anger	negative
+
+Rachel	Hi, remember us?	neutral	neutral
+Monica	Um, okay. You just called a little while ago about needing a signature on the admissions form. Well, it turns out we need a	neutral	neutral
+Monica	I am. I'm	neutral	neutral
+Rachel	Yeah, and and, I'm just gonna pay for this with a check.	neutral	neutral
+Rachel	Yeah, I know...  ..I'm I'm just not that bright either.	sadness	negative
+
+Rachel	Hey, Mon, if you were hoping to sleep with Joshua the first time tonight, which one of these would you want to be wearing.	neutral	neutral
+Monica	Y’know what? It	neutral	neutral
+Rachel	Sorry.	neutral	neutral
+Rachel	I’m so exited!	joy	positive
+Rachel	I’ve been waiting for this for months!	joy	positive
+Rachel	I got my hair coloured!	joy	positive
+Rachel	I got new sheets!	joy	positive
+Rachel	I’m making him a	joy	positive
+Rachel	What am I making him by the way?	neutral	neutral
+Monica	Well, you’re making him a frieze salad with goat cheese and pine nuts, wild nuts, wild rice, roast asparagus, and salmon au croup.	neutral	neutral
+Rachel	I thought I was making him filet mignon?	surprise	negative
+Monica	Yeah, you were, but you decided to make salmon because you had some left over at the restaurant.	neutral	neutral
+Monica	And then you realised if you  bitched about it, then you  would stop cooking, and you  would have to make your famous baked potato and Diet Coke.	anger	negative
+Rachel	Wow, I really get crabby when I cook.	surprise	positive
+
+Monica	Chandler! It happens to lots of guys! You-you-you were probably tired, you had a lot of champagne, don’t worry about it!	sadness	negative
+Chandler	I’m not worried, I’m uh, I’m fascinated.	fear	negative
+Chandler	Y’know it’s like uh, Biology!	neutral	neutral
+Chandler	Which is funny because in high school I uh, I-I failed Biology and tonight Biology failed me.	fear	negative
+Phoebe	Check it out. Okay, I can play this when the guests are coming in. Okay.	neutral	neutral
+Monica	Phoebe!	joy	positive
+Phoebe	If you would’ve let me finish, it goes on to say that he’s probably not gay.	neutral	neutral
+
+Hypnosis Tape	You are falling fast asleep.	neutral	neutral
+Hypnosis Tape	Deeper.	neutral	neutral
+Hypnosis Tape	Deeper.	neutral	neutral
+Hypnosis Tape	Deeper.	neutral	neutral
+Hypnosis Tape	You are now completely asleep.	neutral	neutral
+Hypnosis Tape	You don’t need to smoke.	neutral	neutral
+Hypnosis Tape	Cigarettes don’t control you.	neutral	neutral
+Hypnosis Tape	You are a strong, confident woman, who does not need to smoke.	neutral	neutral
+Hypnosis Tape	A strong, confident woman.	neutral	neutral
+
+Hold Voice	Thank you for your patience, you’re the next caller.	neutral	neutral
+Phoebe	Yes!! Yes!! I’m the next caller! You were gonna have me hang up.	joy	positive
+Chandler	Hey! Can you take a duck and a chick to the theatre?	neutral	neutral
+Monica	Of course not.	sadness	negative
+Phoebe	No.	neutral	neutral
+Chandler	Okay. I just wanted them to hear it from somebody else.	neutral	neutral
+
+Phoebe	So how are things going with Paul?	neutral	neutral
+Rachel	Good.	joy	positive
+Rachel	Although y’know, he-he’s a private guy.	neutral	neutral
+Rachel	Y’know, I wish I could get him to open up a little bit, share some feelings.	sadness	negative
+Phoebe	That’s easy! You just have to think of him as a-as a jar of pickles that won’t open.	neutral	neutral
+Rachel	So what are you saying.  I should run him under hot water and bang his head against a table?	surprise	negative
+Phoebe	No that’s what you do when you want to get the truth out of someone.	neutral	neutral
+Paul	Hi honey.	neutral	neutral
+Rachel	Hi!	joy	positive
+
+Monica	Okay, Ben, I won’t tell your daddy that you had ice cream for dinner, if you don’t tell about our little bonking incident.	fear	negative
+Rachel	Monica, number one, I don’t think Ben understands the concept of bribery, and number two, I...   What?!	surprise	negative
+Joey	You said number two.	neutral	neutral
+Rachel	I also said number one.	neutral	neutral
+
+Gunther	Remind me to review with you which pot is decaf and which is regular.	neutral	neutral
+Rachel	Can’t I just look at the handles on them?	neutral	neutral
+Gunther	You would think.	neutral	neutral
+Rachel	Okay, fine.	neutral	neutral
+Rachel	Gunther, y'know what, I am a terrible waitress, do you know why I’m a terrible waitress?	anger	negative
+Rachel	Because, I don’t care.	neutral	neutral
+Rachel	I don’t care.	neutral	neutral
+Rachel	I don’t care which pot is regular and which pot is decaf, I don’t care where the tray spot is, I just don’t care, this is not what I want to do.	anger	negative
+Rachel	So I don’t think I should do it anymore.	sadness	negative
+Rachel	I’m gonna give you my weeks notice.	sadness	negative
+Gunther	What?!	surprise	negative
+Rachel	Gunther, I quit.	sadness	negative
+Chandler	Does this mean we’re gonna have to start paying for coffee?	surprise	negative
+
+Rachel	Ohh, I mean it’s just so realistic!	joy	positive
+Joey	I know.  Yeah, his name is Pat.	neutral	neutral
+Rachel	Pat the dog. Oh! Oh! I get it!!	joy	positive
+Joey	Do you uh, do you—ready for a refill?	neutral	neutral
+Rachel	Oh, I probably shouldn’t—so I will!  Oh! Wow! It’s like it’s raining!	surprise	positive
+Joey	Pretty cool, huh?	joy	positive
+Joey	But if you’re thinking you can put a fish in there and it wouldn’t get sucked up into the mechanism, well you’d be wrong.	neutral	neutral
+Rachel	Umm, can I use your bathroom?	neutral	neutral
+Joey	It’s uh, right through there.	neutral	neutral
+Rachel	Okay.  God y’know, if someone told me a week ago that I would be peeing in Joey Tribbiani’s apartment	joy	positive
+Joey	Yeah, life’s pretty great isn’t it?	joy	positive
+
+Joey	You know, I think I was sixteen.	neutral	neutral
+Monica	Please, just a little bit off the back.	neutral	neutral
+Phoebe	I'm still on "no."	neutral	neutral
+Rachel	Uh, morning. Do you guys think you could close your eyes for just a sec?	neutral	neutral
+Joey	No-no-no-no-no,  I'm not fallin' for that again.	anger	negative
+Phoebe	What's goin' on?	neutral	neutral
+Rachel	Well, I sorta did a stupid thing last night.	neutral	neutral
+Chandler	What stupid thing did you do?	neutral	neutral
+Phoebe	Ewww!	disgust	negative
+
+Chandler	I know.	neutral	neutral
+Chandler	See, yes.	neutral	neutral
+Chandler	That’s Yasmine Bleeth, she’s a completely different kind of chick.	neutral	neutral
+Chandler	I love you both.	neutral	neutral
+Chandler	But in very different ways.	neutral	neutral
+Joey	Hey!	surprise	positive
+Chandler	Hey!	surprise	positive
+Chandler	I did! But the store wouldn’t take her back! So then I took her to the shelter, and you know what I found out?	anger	negative
+Chandler	If they can’t find a home for her, they kill her! And I’m not gonna let that happen to little Yasmine!	anger	negative
+Joey	Okay, good, good, good, ‘cause, good, ‘cause I was kinda having second thoughts too.	fear	negative
+Chandler	Okay. And it’s not just chicks y'know? It’s all kinds of other animals!	disgust	negative
+Joey	That’s horrible! Well, you did the right thing man.	disgust	negative
+Chandler	Thanks, I’m glad you see it that way.	joy	positive
+Chandler	Ohhh-hoo, funny story!	joy	positive
+
+Rachel	So Chandler, have you heard about Monica's secret boyfriend?	neutral	neutral
+Chandler	Uhh, yeah. She uh, she uh, she uh might've mentioned him.	neutral	neutral
+Rachel	So Mon, when are we gonna meet this new secret waiter man?	neutral	neutral
+Monica	Ohh, he's really shy. I-I don’t think he's up to meeting everyone yet.	neutral	neutral
+Chandler	Yeah, I don't think he's up to meeting everyone yet.	neutral	neutral
+Rachel	I don’t care! I wanna meet this guy who's the best sex she ever had!	joy	positive
+Chandler	Really?! That's what you heard?  You said that?	surprise	positive
+Monica	I might've said that.  Why is that funny?	neutral	neutral
+Chandler	Because I'm very happy for him!  And	joy	positive
+Ross	Hi!	sadness	negative
+
+Rachel	Did you get all this stuff for Joey to try and drive me out of the apartment?	anger	negative
+Rachel	Honey, if you wanted to do that, you might as well just gotten him a fish, you know how fish freaked me out!	disgust	negative
+Phoebe	Fish!	surprise	negative
+Rachel	It wouldn't have mattered anyway, Phoebe, you and I are, are gonna live together, we're roommates; that's the deal.	neutral	neutral
+Phoebe	Yes, but I wanted you to want to live with me, but okay, if you're having so much fun over here	sadness	negative
+Rachel	Oh, it's so much more fun with you.	joy	positive
+Phoebe	We did have fun, didn't we?	joy	positive
+Rachel	We did!	joy	positive
+Phoebe	Oh, anyway, they say, if we want, we can see it tonight.	neutral	neutral
+Rachel	Oh, I would love to!	joy	positive
+Phoebe	Yay, okay!	joy	positive
+Rachel	Good, good, good, good, good.	joy	positive
+Phoebe	Great, all right, okay, and Monica ask me to make the drumming stop.	neutral	neutral
+Rachel	Um...  Done!	neutral	neutral
+
+Ross	Okay, it’s coffee.	neutral	neutral
+Tommy	Ice coffee? Tell me it’s ice coffee!	surprise	negative
+Ross	It’s-it’s hot	neutral	neutral
+Tommy	Hot coffee!!!	surprise	negative
+Tommy	You idiot!!	anger	negative
+Tommy	You were gonna spill hot coffee all over me, huh?!!	anger	negative
+Tommy	What are you just some big, dumb, stupid, doofy idiot, with a doofy idiot hairdo, huh?!	anger	negative
+Tommy	Huh?	anger	negative
+Rachel	What’s your favourite thing about summertime?	neutral	neutral
+Monica	Umm, going to the beach. When it stays light real late.	neutral	neutral
+Rachel	Yeah	neutral	neutral
+Tommy	Hey!	surprise	positive
+Rachel	Tommyyyy! Say, what’s your favourite thing about summer?	joy	positive
+Tommy	Ooh, I don’t know. Probably the smell of freshly cut grass.	neutral	neutral
+Chandler	Ohh, that’s a good one.	joy	positive
+
+Monica	OK, try this salmon mousse.	neutral	neutral
+
+Joey	Mmmm. Good.	joy	positive
+
+Monica	Is it better than the other salmon mousse?	neutral	neutral
+Joey	It's creamier.	neutral	neutral
+Monica	Yeah, well, is that	neutral	neutral
+Joey	I don't know. We're talking about whipped fish, Monica. I'm just happy I'm keeping it down, y'know?	disgust	negative
+Rachel	My God! What happened to you?	surprise	negative
+Chandler	Eight and a half hours of aptitude tests, intelligence tests, personality tests... and what do I learn?	disgust	negative
+Chandler	"You are ideally suited for a career in data processing for a large multinational corporation."	anger	negative
+Phoebe	That's so great! 'Cause you already know how to do that!	joy	positive
+Chandler	Can you believe it? I mean, don't I seem like somebody who should be doing something really	anger	negative
+Rachel	Oh Chandler, I know, I know... oh, hey! You can see your nipples through this shirt!	sadness	negative
+Monica	Here you go, maybe this'll cheer you up.	joy	positive
+Chandler	Ooh, you know, I had a grape about five hours ago, so I'd better split this with you.	neutral	neutral
+
+Ross	I thought it was gonna be a closed casket.	neutral	neutral
+Mrs. Geller	Well, that doesn't mean she can't look nice!	sadness	negative
+Mrs. Geller	Sweetie, you think you can get in there?	neutral	neutral
+Ross	I don't see why not.	neutral	neutral
+Ross	Here's my retainer!	neutral	neutral
+
+Gunther	Someone in there?	neutral	neutral
+Chandler	No. This is just part of a dare devil game that I play called ‘wait until the last moment before I burst and die.’	anger	negative
+Chandler	Jeez, man did you fall.. Hi! So ah, did ya, did-did-did ya fall high?	surprise	positive
+Woman	Someone was in the lady's room, I couldn’t wait. I left the lid up for ya though.	neutral	neutral
+Chandler	Y'know what Gunther, go ah, go ahead, I’m-I’m talking to ah, .  This is the part where you say your name.	neutral	neutral
+Woman	Ginger.	neutral	neutral
+Chandler	Ginger. I’m talking to Ginger, so....	neutral	neutral
+Ginger	Don’t you have to use the bathroom?	neutral	neutral
+Chandler	Nope, nope, I’d just ah, I’d rather talk to you.	neutral	neutral
+Chandler	Yes, I do.	neutral	neutral
+Chandler	Yes, I do have to go to the bathroom.	neutral	neutral
+Gunther	Someone in here.	neutral	neutral
+
+Dina	I’m going to keep dating him Mother, and there’s nothing you can do about it!	anger	negative
+Jessica Lockhart	Oh yes there is!	anger	negative
+Dina	What are you going to do? Kill him? Like you did with Charles?!	anger	negative
+Jessica Lockhart	Oh, my baby!	sadness	negative
+Joey	That was a great scene! And-and-and that slap looks so real! How do you do that?	surprise	positive
+Cecilia	Oh, just years of experience.	neutral	neutral
+Dina	Can I get some ice here?!	sadness	negative
+Joey	Oh anyway, I just wanted to say how wonderful I think you are.	joy	positive
+Cecilia	You’re not the fan who’s dying are you?	neutral	neutral
+Joey	No. No, I’m Joey Tribbiani; we did a scene together yesterday. I-I’m the guy in the coma!	joy	positive
+Cecilia	Oh that was a real person?!	surprise	positive
+Joey	An-an-anyway I-I just wanted to say that since I’m getting your brain when you leave the show, I was wondering if there was any tips you can give me	neutral	neutral
+Cecilia	I-I-I’m leaving the show?	surprise	negative
+Joey	I don’t know. Why? Did you hear something?	neutral	neutral
+Cecilia	Who told you that?	surprise	negative
+Joey	Oh uh, one of the writers.	sadness	negative
+Cecilia	Which one? Was it bald or was it tall?	surprise	negative
+
+Phoebe	Feel better?	neutral	neutral
+Joey	Yeah!	joy	positive
+Joey	Much!	joy	positive
+Joey	Listen uh, not that I’m y’know insecure about my manhood or anything y’know, but I think I need to hook up with a woman like right now.	neutral	neutral
+Phoebe	Yeah, I understand.	neutral	neutral
+Joey	Yeah! Okay!  Hey! Hi!	joy	positive
+Woman	Hi!	joy	positive
+Joey	Y’know, you look familiar. Do I know you from somewhere?	surprise	positive
+Woman	I don’t think so.	neutral	neutral
+Joey	Oh! Maybe it’s because I’m on television. I’m an actor on	joy	positive
+Woman	Wow!	surprise	positive
+Joey	Yeah.	neutral	neutral
+Woman	Really?!	surprise	positive
+Waitress	$4.50 please.	neutral	neutral
+Joey	Oh, let me get this.    These are for you.	neutral	neutral
+
+Chandler	Alright, alright, alright.	neutral	neutral
+Chandler	It's been fourteen and a half minutes and you still have not said one word.	anger	negative
+Chandler	Oh God, do something.	anger	negative
+Chandler	Just make contact, smile!	anger	negative
+Chandler	There you go!	joy	positive
+Chandler	You're definitely scaring here.	neutral	neutral
+Jill	Would you like to call somebody?	neutral	neutral
+Chandler	Yeah, about 300 guys I went to high school with.	neutral	neutral
+
+Tag	Okay! Feel free to look, but I’m telling you those contracts are not on this desk.	anger	negative
+Rachel	Oh	neutral	neutral
+Tag	It’s my sister.	neutral	neutral
+Rachel	Okay, very cute braces. Anyway y’know what, the	neutral	neutral
+Tag	So when do you imagine you gave them to me? In the morning or in the afternoon?	anger	negative
+Rachel	In the afternoon. Mr. Zelner came into my office after lunch. He put them on my desk, and then I put a	neutral	neutral
+
+Ross	Phoebe, she doesn’t know that you sneak out every night, she doesn’t know that you sneak back every morning, and she doesn’t know that you’ve been living with your Grandmother’s for a week now.	neutral	neutral
+Phoebe	Okay, well maybe not on those levels.	neutral	neutral
+Chandler	Hey.	neutral	neutral
+Ross	Hey.	neutral	neutral
+Chandler	I’m never gonna find a roommate, ever.	sadness	negative
+Phoebe	Why, nobody good?	neutral	neutral
+Chandler	Well let’s see, there was the guy with the ferrets, that’s plural.	disgust	negative
+Chandler	The spitter.	disgust	negative
+Chandler	Oh-ho, and yes, the guy that enjoyed my name so much he felt the need to make a little noise every time he said it.	anger	negative
+Chandler	Nice to meet you, Chandler Bing	neutral	neutral
+Ross	So how many more do you have tomorrow?	neutral	neutral
+Chandler	Two.	neutral	neutral
+Chandler	This photographer, who seemed really dull.	neutral	neutral
+Chandler	And this actor guy, who I’m not sure about, because when he called and I answered the phone ‘Chandler Bing,’ he said ‘Whoa-whoa, short message.’	neutral	neutral
+Monica	Ross , foot on the floor or come over no more!	neutral	neutral
+Ross	Sure, your dresser is missing but this she notices.	anger	negative
+Monica	What?	neutral	neutral
+Ross	I have to go. Yeah, Carol should be home by now, soo...	neutral	neutral
+Chandler	Umm, how’s it going with you guys?	neutral	neutral
+Ross	Oh, better, actually. Y'know I-I-I think I finally figured out why we were having so much trouble lately.	neutral	neutral
+Phoebe	Oh, really?	surprise	positive
+Ross	Yeah, y'know how I have you guys, well she doesn’t really have any close friends that are just hers, but last week she meet this woman at the gym, Susan something, and they really hit it off, and I-I-I think it’s gonna make a difference	joy	positive
+
+Rachel	Hey!	neutral	neutral
+Monica	Hi!	neutral	neutral
+Rachel	What-what are-what are these?	surprise	negative
+Monica	Oh, just some pictures I made and hung up. I thought they’d brighten up the place. They do don’t you think?	joy	positive
+Monica	No-no-no, no!	fear	negative
+
+Joey	Well, how-how come?	neutral	neutral
+Tour Guide	That’s just the way it is.	neutral	neutral
+Joey	That’s crazy.	surprise	negative
+Tour Guide	Maybe it’s crazy in a perfect world, a world without lab coats and blazers, but you not in a perfect world, you in a museum now.	neutral	neutral
+Tour Guide	See that scientist in the classes, he and I used to play together all the time in grade school, but now… Peter!	neutral	neutral
+Tour Guide	Hey, Peter!	neutral	neutral
+Tour Guide	It’s me Rhonda!	neutral	neutral
+Tour Guide	From PS-129!	neutral	neutral
+Tour Guide	I shared my puddin’ which you man!	anger	negative
+Tour Guide	I gave you my	neutral	neutral
+Joey	I-I think everybody’s pretending they don’t hear you.	neutral	neutral
+Joey	Anyway, look, I don’t know about you and your jackets and your separate tables, but Ross is one of my best friends, and if I save him a seat, I’m telling you, he	neutral	neutral
+Ross	That’s okay, I’m cool over here. I’ll catch up with you later, Joey.	neutral	neutral
+Tour Guide	Op, this is saved.  Gift shop.	neutral	neutral
+
+Mr. Kaplan	How’s that coffee comin,’ dear?	neutral	neutral
+Rachel	Yeah, right away Mr. Kaplan.	neutral	neutral
+Mr. Kaplan	I’m not supposed to drink coffee, it makes me gassy.	neutral	neutral
+Rachel	I know!	joy	positive
+Mr. Kaplan	I’ll bet your thinking, ‘What’s an intelligent girl who wants to be in fashion, doing making coffee?’ Eh?	surprise	positive
+
+Rachel	Op.	neutral	neutral
+
+Mr. Kaplan	Eh.	joy	positive
+Rachel	Oh, you got me.	neutral	neutral
+Mr. Kaplan	Well, don’t think I haven’t noticed your potential.	neutral	neutral
+Mr. Kaplan	Well, I’ve got a project for you that’s a lot more related to fashion.	neutral	neutral
+Mr. Kaplan	How does that sound?	neutral	neutral
+Rachel	Oh, that sounds great.	joy	positive
+Mr. Kaplan	Come on over here, sweetheart.	neutral	neutral
+Rachel	Oh thank you so much Mr. Kaplan, thank you so much.	joy	positive
+
+Leslie	Well, I y'know, I was just, umm, I was just thinking and hoping, that umm, maybe you’d want to get back together?	fear	negative
+Phoebe	No. But thanks.	neutral	neutral
+Leslie	Aw come on Phoebe would you just think about it?	sadness	negative
+Phoebe	Okay. No. But thanks.	neutral	neutral
+Leslie	Okay, ah, see ya Pheebs.	neutral	neutral
+Joey	Wow, that was kinda brutal.	surprise	negative
+Phoebe	Well okay, let this be a lesson to all of you, all right.	neutral	neutral
+Phoebe	Once you, once you betray me, I become like the ice woman, y’know.	neutral	neutral
+Phoebe	Very cold, hard, unyielding, y'know nothing,	neutral	neutral
+
+Alan	Wow.	surprise	positive
+Monica	I'm, I'm really sorry.	neutral	neutral
+Alan	Yeah, I'm sorry too. But, I gotta tell you, I am a little relieved.	neutral	neutral
+Monica	Relieved?	surprise	positive
+Alan	Yeah, well, I had a great time with you.. I just can't stand your friends.	neutral	neutral
+
+Chandler	Oh my God! If you say that one more time,	anger	negative
+Ross	Fine!	anger	negative
+Ross	Fine!	anger	negative
+Ross	But this break-up was not all my fault, and she, she says here,  “If you accept full responsibility...”  Full responsibility!	anger	negative
+Ross	“...I can begin to trust you again.	anger	negative
+Ross	Does that seem like something you can do.	anger	negative
+Ross	Does it?!	anger	negative
+Joey	No?	surprise	negative
+Chandler	Look, Ross, you have what you want, you’re back with Rachel.	neutral	neutral
+Chandler	If you bring this up now you’re gonna wreck the best thing that even happened to you.	neutral	neutral
+Ross	Yeah, I know.	sadness	negative
+Ross	I mean, no, you’re right.	sadness	negative
+Ross	Yeah I guess I’ll let it go.	neutral	neutral
+Ross	But you-you understand how-how hard it is to forget about this.	sadness	negative
+Joey	Sure, it’s hard to forget!	neutral	neutral
+Joey	But that doesn’t mean you have to talk about it!	neutral	neutral
+Joey	A lot of things happened on that trip that we should never,  ever talk about.	neutral	neutral
+Ross	What the hell happened on that beach?!	surprise	negative
+Joey	It’s between us and the sea, Ross!	neutral	neutral
+
+Drew	I didn’t think you were gay. I do now.	joy	positive
+Chandler	See my friend-my friend, Rachel, she wants to be set up.	neutral	neutral
+Drew	Ahh, I just got out of a big relationship, I’m not looking for any thing serious.	sadness	negative
+Chandler	Oh, y’know what, that might be okay even if it was just kind of a fling, that might be all right with Rachel.	neutral	neutral
+Mike	Whoa-whoa-whoa-whoa! Is this, hot Rachel, that you took to the Christmas party, Rachel?	surprise	positive
+Chandler	Oh, by the way, that is her full name.	neutral	neutral
+Mike	Oh wow! I’m free for her!	joy	positive
+Drew	Oh, wait a second! I didn’t say I wasn’t free!	surprise	positive
+Mike	Hey, Chandler, why don’t we talk this over at the Ranger game tomorrow?	neutral	neutral
+Drew	Hold on, y’know I	neutral	neutral
+Chandler	Oh well, that’s uh, a little later than I uh, generally care to stay, but sure!	joy	positive
+Mike	Maybe, before the game we could enjoy some eight year old some small batch Basel Hadens.	neutral	neutral
+Chandler	Well, I don’t really know what that is, but	neutral	neutral
+
+Ross	Monica, let's go. Come on now people, woman in labor.	neutral	neutral
+Chandler	Hey Ross, look what I've got going here.	neutral	neutral
+Ross	Yeah, save it for the cab, okay.	disgust	negative
+Ross	What are you doing? We're going to a hospital.	surprise	negative
+Rachel	What, so I can't lokk nice? There might be doctors there.	neutral	neutral
+Ross	Joey, get out of the fridge.	anger	negative
+Joey	All right, all right.	anger	negative
+Ross	What is that?	surprise	negative
+Joey	For the ride.	neutral	neutral
+Chandler	Yeah, like in a cab...	neutral	neutral
+Ross	Save it.	neutral	neutral
+Chandler	Okay, hating this.	disgust	negative
+Ross	Monica, come on now. Let's go, baby coming.	neutral	neutral
+Monica	I can't belive it, I'm gonna be an aunt. I'm gonna have like a nephew.	joy	positive
+Ross	That's nice. Get out Let's go, come on.	disgust	negative
+Joey	All right, I'm going. I'm going.	anger	negative
+Chandler	Here we go, here we go.	neutral	neutral
+Rachel	Rossy, Rossy.	neutral	neutral
+
+Chandler	WHAT IS IT?!	anger	negative
+Monica	Okay, I-I d'know, you-you just- you have a quality.	joy	positive
+All	Yes. Absolutely. A quality.	neutral	neutral
+Chandler	Oh, oh, a quality, good, because I was worried you guys were gonna be vague about this.	neutral	neutral
+Monica	Hello? Hello? Oh! Rachel, it's Paolo calling from Rome.	joy	positive
+Rachel	Oh my God! Calling from Rome!	surprise	positive
+Ross	So he's calling from Rome. I could do that. Just gotta go to Rome.	neutral	neutral
+Rachel	Monica, your dad just beeped in, but can you make it quick? Talking to Rome.  I'm talking to Rome.	joy	positive
+Monica	Hey dad, what's up?  Oh God. Ross, it's Nana.	sadness	negative
+
+Phoebe	So um, so what's up, you came to see me yesterday.	joy	positive
+Duncan	Oh, yeah, um, alright, I kinda need a divorce.	neutral	neutral
+
+Joey	Oh, yeah, yeah, sure. We live in the building by the uh sidewalk.	neutral	neutral
+Chandler	You know it?	surprise	negative
+Joey	Hey, look, since we're neighbors and all, what do you say we uh, get together for a drink?	neutral	neutral
+Chandler	Oh, sure, they love us over there.	neutral	neutral
+Joey	Ben! Ben! Ben!	joy	positive
+
+Chandler	How about Joey... Pepponi?	neutral	neutral
+Joey	No, still too ethnic. My agent thinks I should have a name that's more neutral.	neutral	neutral
+Chandler	Joey... Switzerland?	neutral	neutral
+Joey	Plus, y'know, I think it should be Joe.	neutral	neutral
+Joey	Y'know, Joey makes me sound like I'm, I dunno, this big.	neutral	neutral
+Joey	Which I'm not.	neutral	neutral
+Chandler	Joe...Joe...Joe...Stalin?	neutral	neutral
+Joey	Stalin...Stalin...do I know that name? It sounds familiar.	neutral	neutral
+Chandler	Well, it does not ring a bell with me...	neutral	neutral
+Joey	Joe Stalin. Y'know, that's pretty good.	joy	positive
+Chandler	Might wanna try Joseph.	neutral	neutral
+Joey	Joseph Stalin. I think you'd remember that!	joy	positive
+Chandler	Oh yes! Bye Bye Birdie, starring Joseph Stalin. Joseph Stalin is the Fiddler on the Roof.	joy	positive
+
+Ross	Are you kidding?	surprise	negative
+Ross	Okay, look.	neutral	neutral
+Ross	I-I studied evolution.	joy	positive
+Ross	Remember, evolution?	joy	positive
+Ross	Monkey into man?	anger	negative
+Ross	Plus, I’m a doctor, and I had a monkey.	neutral	neutral
+Ross	I’m Doctor Monkey!	anger	negative
+Chandler	I’m not arguing with that.	neutral	neutral
+Monica	All right, I’ve heard enough. I’ve made my decision.	neutral	neutral
+Monica	You are both idiots.	disgust	negative
+Monica	The joke is not funny, and it’s offensive to women, and doctors, and monkeys!	disgust	negative
+Monica	You shouldn’t be arguing over who gets credit, you should be arguing over who gets blamed for inflicting this horrible joke upon the world!	anger	negative
+Monica	Now let it go!	anger	negative
+Monica	The joke sucks!	anger	negative
+Ross	It’s your joke.	neutral	neutral
+Chandler	Is not.	anger	negative
+
+Phoebe	Hey everybody, Rachel was so good today. She didn't gossip at all.	joy	positive
+Rachel	I didn’t!	joy	positive
+Rachel	Even when I found out…umm, all right, well let's just say I found something out something about someone and let's just say she's gonna keep it.	neutral	neutral
+Joey	Hey, Pheebs! Check-check this out.	joy	positive
+Phoebe	Ooh, you nailed the Old Lady!	surprise	positive
+Joey	Yeah listen so, I thought I was getting better, so on my way home today I stopped by this guitar store and	neutral	neutral
+Phoebe	Did you, did you	anger	negative
+Joey	No.	neutral	neutral
+Phoebe	Give me your hands.  Strings. Gimme it!  Pick. Do you want to learn to play guitar?	anger	negative
+Joey	Yes!	joy	positive
+Phoebe	Then don't touch one!!	anger	negative
+
+Joey	Really? You'd-you'd do that for me?!	surprise	positive
+Ross	Yeah!	joy	positive
+Joey	Thanks!	joy	positive
+Ross	All right, we'll start off slow. The only thing you have to do tonight is come up with the name of your main character.	neutral	neutral
+Joey	Done!	joy	positive
+Ross	And it can't be Joey.	neutral	neutral
+Joey	It's not.	neutral	neutral
+Ross	Or Joseph.	neutral	neutral
+Joey	Oh.	neutral	neutral
+
+Pete	Hi!	neutral	neutral
+Monica	Hi! Hey, Pete you’re back! Hey, check this out.	joy	positive
+Pete	Wow! Skates!	joy	positive
+Monica	Wow! You’re a lot sturdier that Chandler. He crumpled like a piece of paper. So how was you’re trip?	surprise	positive
+Pete	Well...	neutral	neutral
+Monica	Oh, what’d ya bring me?!	joy	positive
+Monica	Awww, hotel toiletries from Japan.	joy	positive
+Monica	Oh, these are gonna go in my permanent collection.	joy	positive
+Monica	You want some coffee?	neutral	neutral
+Pete	Yeah, sure, that’d be great.	neutral	neutral
+Monica	Regular or decaf?	neutral	neutral
+Pete	Ah, which ever is closest.	neutral	neutral
+Monica	Okay.	neutral	neutral
+Pete	So ask me what I did today.	neutral	neutral
+Monica	So what did you do today Pete?	neutral	neutral
+Pete	I bought a restaurant and I would like you to be the head chef.	joy	positive
+Monica	What?! Oh.	surprise	negative
+
+Ross	Hi.	neutral	neutral
+Joey	Hey.	neutral	neutral
+Joey	Where've you been?	neutral	neutral
+Ross	At the vet.	neutral	neutral
+Chandler	She's not gonna make you wear one of those big plastic cones, is she?	fear	negative
+Ross	She says Marcel's humping thing's not a phase. Apparently he's reached sexual maturity.	sadness	negative
+Joey	Hey! He beat ya.	joy	positive
+Ross	She says as time goes on, he's gonna start getting agressive and violent.	sadness	negative
+Chandler	So what does this mean?	neutral	neutral
+Ross	I'm gonna have to give him up.	sadness	negative
+
+Joey	Aww man! I can’t believe I locked myself out again!	anger	negative
+Chandler	Hang on buddy!	anger	negative
+Joey	Oh my God! What happened here? Did you do all this?	surprise	positive
+Chandler	I sure did.	neutral	neutral
+
+Ross	But we haven't seen each other since then. Well I land in China, guess who's in charge of the dig.	surprise	positive
+Rachel	Julie! Julie, isn't that great? I mean, isn't that just kick- you-in-the-crotch, spit-on-your-neck fantastic?	joy	positive
+
+Ross	May I come in?	neutral	neutral
+Rachel	Uh, yeah, if you want too.	neutral	neutral
+Ross	Do	neutral	neutral
+Rachel	Yeah, sure?	neutral	neutral
+Ross	So do I.	neutral	neutral
+Ross	Okay Rach, before anything happens  I just want to lay down a couple of ground rules.	neutral	neutral
+Ross	This is just about tonight.	neutral	neutral
+Ross	I don't to go through with this if it's going to raise the question of "Us."	neutral	neutral
+Ross	I just want this to be  about what it is!	joy	positive
+Rachel	And um, what-what is that Ross?	neutral	neutral
+Ross	The physical act of love.	joy	positive
+Rachel	What?! Are you crazy?	surprise	negative
+Ross	Oh so-so you weren't trying to entice me just now with your-your nakedness?	surprise	positive
+Rachel	Oh God, you saw me?! Oh!	surprise	negative
+Ross	You weren't trying to entice me with your nakedness.	joy	positive
+Rachel	Noo!! No! You thought, you actually thought I wanted to have sex with you?!	anger	negative
+Ross	No! No!  No!  No-no-no-no.	joy	positive
+
+Director	Ah Joey.	neutral	neutral
+Director	Joey Tribbiani.	neutral	neutral
+Director	Listen Joey, I got a problem, I just got a call from my dance captain, he's having a relationship crisis and can't get out of Long Island.	neutral	neutral
+Joey	So, does that mean the audition is off?	sadness	negative
+Director	Listen Joey, seeing as you've got the most experience, I want you to take these dancers and show them the combination.	neutral	neutral
+Joey	What?!	surprise	negative
+Director	Aw come on Joey, it's easy.	neutral	neutral
+Director	Y'know, it's hand, hand, head, head,  up, pas de bouree, pas de bouree, big turn here, grand sissone, sissone, sissone, slide back, step, step, step, and jazz hands!	neutral	neutral
+Joey	It's ah, step-ity, step and jazz hands.	sadness	negative
+Director	Have fun.	neutral	neutral
+Joey	Bye.	neutral	neutral
+
+Chandler	Wow! Fortunately she has a	surprise	negative
+Monica	Oh, I so can't believe this! My uterus is an inhospitable environment? I was trying so hard to be a good hostess!	surprise	negative
+Chandler	Oh, I can't believe my sperm have low motility because, let me tell you, when I was growing up they sure seem to be in a hurry to get places!	surprise	negative
+Doctor Connelly	Hi there.	neutral	neutral
+Chandler	Hi.	neutral	neutral
+Monica	Hi.	neutral	neutral
+Doctor Connelly	I'm sorry there wasn't better news from your test last week but I wanted to talk to you about your options.	neutral	neutral
+Monica	Ok.	neutral	neutral
+Doctor Connelly	Above all, even though your chances of conceiving through natural means aren't great, you never know!	neutral	neutral
+Doctor Connelly	So, keep having sex on a regular basis.	neutral	neutral
+Chandler	Oh, DAMN IT!	anger	negative
+Monica	Don't worry, after a while he'll tune it out.	neutral	neutral
+Doctor Connelly	Ok, given your situation, the options with the greatest chances for success would be surrogacy, or insemination using a sperm donor.	neutral	neutral
+Monica	Ok.	neutral	neutral
+
+Ross	Well, y'know, monogamy can be a, uh, tricky concept. I mean, anthropologically speaking-	neutral	neutral
+Ross	Fine. Fine, alright, now you'll never know.	anger	negative
+Monica	We're kidding. C'mon, tell us!	joy	positive
+All	Yeah! C'mon!	joy	positive
+Ross	Alright. There's a theory, put forth by Richard Leakey-	neutral	neutral
+
+Ross	Hi, is uh, is Carol here?	neutral	neutral
+Susan	No, she's at a faculty meeting.	neutral	neutral
+Ross	Oh, I uh, just came by to pick up my skull. Well, not mine, but...	neutral	neutral
+Susan	Come in.	neutral	neutral
+Ross	Thanks. Yeah, Carol borrowed it for a class, and I have to get it back to the museum.	neutral	neutral
+Susan	What's it look like?	neutral	neutral
+Ross	Kinda like a big face without skin.	neutral	neutral
+Susan	Yes, I'm familiar with the concept. We can just look for it.	neutral	neutral
+Ross	Ok.  Wow, you guys sure have a lot of books about bein' a lesbian.	surprise	positive
+Susan	Well, you know, you have to take a course. Otherwise, they don't let you do it.	neutral	neutral
+Ross	Hey, hey, Yertle the Turtle. A classic.	joy	positive
+Susan	Actually, I'm reading it to the baby.	neutral	neutral
+Ross	The uh, the baby that hasn't been born yet? Wouldn't that mean you're... crazy?	surprise	positive
+Susan	What, you don't think they can hear sounds in there?	joy	positive
+Ross	You're not serious, I mean, you really... you really talk to it?	surprise	negative
+
+Monica	I have no idea what you just said.	neutral	neutral
+Chandler	Put Joey on the phone.	neutral	neutral
+Joey	What's up man?	neutral	neutral
+Chandler	I'm trppd... in an ATM vstbl... wth	fear	negative
+Joey	Oh my God! He's trapped in an ATM vestibule with Jill Goodacre!  Chandler, listen.	surprise	positive
+Chandler	Yeah, like that thought never entered my mind.	neutral	neutral
+
+Emily	and that was all before 10 o’clock.	neutral	neutral
+Emily	The caterer rang and said it was going to be Chicken Kiev instead of Chicken Tarragon.	neutral	neutral
+Emily	And then the florist phoned to say there aren’t any tulips.	neutral	neutral
+Emily	Oh, and the chilliest has carpel-tunel syndrome.	neutral	neutral
+Ross	Whoa-whoa-whoa! Emily,  honey, okay?	surprise	negative
+Emily	Well, up yours too!	anger	negative
+
+Phoebe	Where’s Chandler?	neutral	neutral
+Joey	Ah, he can’t make it, he said he had to his...  Whoa-oh!	surprise	negative
+Ginger	Joey? Joey Tribbiani?	neutral	neutral
+Ginger	Joey I can see you okay? You’re hiding behind the coats.	neutral	neutral
+
+Chandler	Okay listen, just give me anything I can make two of.	neutral	neutral
+Monica	Well, if you don’t have anything to copy, why are you going down there?	neutral	neutral
+Joey	Yeah, are you just going down there to gawk at that hot girl with the belly button ring again?	anger	negative
+Chandler	Yeah! You wanna come?	joy	positive
+Joey	Yeah!	joy	positive
+
+Ross	Fine.	neutral	neutral
+Joey	Fine.	neutral	neutral
+Rachel	Fine.	neutral	neutral
+Monica	All right. We're gonna go.  It's not for another six hours. We're gonna go then.	neutral	neutral
+
+Chandler	Hey.	neutral	neutral
+
+Monica	What’s the matter?	sadness	negative
+
+Chandler	Someone on the subway licked my neck! Licked my neck!!	disgust	negative
+Phoebe	Oh Willie’s still alive!	surprise	positive
+Chandler	What are you guys doing?	neutral	neutral
+Monica	Oh, my mom called, they’re gonna run our engagement announcement in the local paper, so we’re looking for a good picture of us.	joy	positive
+Chandler	Oooh, I’m afraid that does not exist.	neutral	neutral
+Monica	That’s not true, there are great pictures of us!	surprise	positive
+Chandler	No, there are great pictures of you standing next to a guy who’s going like this	neutral	neutral
+Phoebe	Oh my God! That’s the creep that you’re with at the	surprise	negative
+Chandler	I don’t know what it is, I just can’t take a good picture.	sadness	negative
+Monica	Oh, here’s a great one.	joy	positive
+Chandler	Yeah, I’m not in that.	neutral	neutral
+Monica	I know, but look at me: all tan.	joy	positive
+Phoebe	Hey, why don’t you guys go get portraits done by a professional photographer.	neutral	neutral
+Monica	That’s a good idea! I bet they have one of those wind machines! Y’know	joy	positive
+Phoebe	Yeah that’s great! Next to that, Chandler won’t look so stupid.	neutral	neutral
+Monica	Chandler what do you say?	neutral	neutral
+Chandler	All right, but I should warn you, I’m not going. I’m going.	neutral	neutral
+
+Monica	Gimme them!	anger	negative
+Rachel	No! They are mine!	anger	negative
+Monica	You stole them from me!	anger	negative
+Rachel	You stole them from me!!	anger	negative
+Monica	Gimme them!	anger	negative
+Monica	You just wanna each take one?	neutral	neutral
+Rachel	Yeah that seems fair. We never use them.	neutral	neutral
+Ross	Look, I really need some help, okay? Why? Why did I have to speak in a British accent?! What do I do?	anger	negative
+Rachel	Well	neutral	neutral
+Monica	Why donâ€™t you phase it out?	neutral	neutral
+Monica	Yeah, fade the accent out and people will think youâ€™re, yâ€™know, that youâ€™re adjusting to life in America.	anger	negative
+Rachel	Yeah, I mean, come on Ross, no one will even notice. I mean theyâ€™re probably not even listening!	neutral	neutral
+Ross	Theyâ€™re not listening too me?	surprise	negative
+Rachel	Of course theyâ€™re listening to you! Everybody listens to you.	neutral	neutral
+Ross	Monica you really think I should try this phasing out thing?	neutral	neutral
+Monica	I think you look fine.	neutral	neutral
