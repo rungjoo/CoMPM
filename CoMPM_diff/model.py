@@ -17,20 +17,26 @@ class ERC_model(nn.Module):
         self.gpu = True
         
         """Model Setting"""
+        condition_token = ['<s1>', '<s2>', '<s3>'] # 최대 3명
+        special_tokens = {'additional_special_tokens': condition_token}
+        
         # context_model_path = '/data/project/rw/rung/model/'+context_type
         context_model_path = context_type
         if context_type == 'roberta-large':
             self.context_model = RobertaModel.from_pretrained(context_model_path)
             self.context_last = False
+            tokenizer = RobertaTokenizer.from_pretrained(model_path)
         elif context_type == 'bert-large-uncased':
             self.context_model = BertModel.from_pretrained(context_model_path)
             self.context_last = False
+            tokenizer = BertTokenizer.from_pretrained(model_path)
         else:
             self.context_model = GPT2Model.from_pretrained(context_model_path)
             tokenizer = GPT2Tokenizer.from_pretrained(context_model_path)
-            tokenizer.add_special_tokens({'cls_token': '[CLS]', 'pad_token': '[PAD]'})
-            self.context_model.resize_token_embeddings(len(tokenizer))
+            tokenizer.add_special_tokens({'cls_token': '[CLS]', 'pad_token': '[PAD]'})            
             self.context_last = True
+        tokenizer.add_special_tokens(special_tokens)
+        self.context_model.resize_token_embeddings(len(tokenizer))
         self.context_hiddenDim = self.context_model.config.hidden_size
 
         # speaker_model_path = '/data/project/rw/rung/model/'+speaker_type
@@ -38,15 +44,18 @@ class ERC_model(nn.Module):
         if speaker_type == 'roberta-large':
             self.speaker_model = RobertaModel.from_pretrained(speaker_model_path)
             self.speaker_last = False
+            tokenizer = RobertaTokenizer.from_pretrained(model_path)
         elif speaker_type == 'bert-large-uncased':
             self.speaker_model = BertModel.from_pretrained(speaker_model_path)
             self.speaker_last = False
+            tokenizer = BertTokenizer.from_pretrained(model_path)
         else:
             self.speaker_model = GPT2Model.from_pretrained(speaker_model_path)
             tokenizer = GPT2Tokenizer.from_pretrained(speaker_model_path)
             tokenizer.add_special_tokens({'cls_token': '[CLS]', 'pad_token': '[PAD]'})
-            self.speaker_model.resize_token_embeddings(len(tokenizer))            
             self.speaker_last = True
+        tokenizer.add_special_tokens(special_tokens)
+        self.speaker_model.resize_token_embeddings(len(tokenizer))
         self.speaker_hiddenDim = self.speaker_model.config.hidden_size
         
         zero = torch.empty(2, 1, self.speaker_hiddenDim).cuda()

@@ -13,6 +13,12 @@ bert_tokenizer = BertTokenizer.from_pretrained('bert-large-uncased')
 gpt_tokenizer = GPT2Tokenizer.from_pretrained('gpt2-large')
 gpt_tokenizer.add_special_tokens({'cls_token': '[CLS]', 'pad_token': '[PAD]'})
 
+condition_token = ['<s1>', '<s2>', '<s3>'] # 최대 3명
+special_tokens = {'additional_special_tokens': condition_token}
+roberta_tokenizer.add_special_tokens(special_tokens)
+bert_tokenizer.add_special_tokens(special_tokens)
+gpt_tokenizer.add_special_tokens(special_tokens)
+
 def encode_right_truncated(text, tokenizer, max_length=511):
     tokenized = tokenizer.tokenize(text)
     truncated = tokenized[-max_length:]    
