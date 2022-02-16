@@ -17,10 +17,7 @@ class ERC_model(nn.Module):
         self.gpu = True
         self.last = last
         
-        """Model Setting"""
-        condition_token = ['<s1>', '<s2>', '<s3>'] # 최대 3명
-        special_tokens = {'additional_special_tokens': condition_token}
-        
+        """Model Setting"""        
         # model_path = '/data/project/rw/rung/model/'+model_type
         model_path = model_type
         if model_type == 'roberta-large':

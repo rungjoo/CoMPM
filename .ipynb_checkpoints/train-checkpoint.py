@@ -45,19 +45,19 @@ def main():
             dataType = 'dyadic'
         else:
             dataType = 'multi'
-        data_path = './dataset/MELD/'+dataType+'/'
+        data_path = '../dataset/MELD/'+dataType+'/'
         DATA_loader = MELD_loader
     elif dataset == 'EMORY':
-        data_path = './dataset/EMORY/'
+        data_path = '../dataset/EMORY/'
         DATA_loader = Emory_loader
     elif dataset == 'iemocap':
-        data_path = './dataset/iemocap/'
+        data_path = '../dataset/iemocap/'
         DATA_loader = IEMOCAP_loader
     elif dataset == 'dailydialog':
-        data_path = './dataset/dailydialog/'
+        data_path = '../dataset/dailydialog/'
         DATA_loader = DD_loader
     elif dataset == 'EDOS':
-        data_path = './dataset/EDOS/'
+        data_path = '../dataset/EDOS/'
         DATA_loader = EDOS_loader        
         
     if 'roberta' in model_type:

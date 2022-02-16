@@ -38,7 +38,8 @@ def padding(ids_list, tokenizer):
     
     return torch.tensor(pad_ids)
 
-tokenizer = RobertaTokenizer.from_pretrained('/data/project/rw/rung/model/roberta-large/')
+# tokenizer = RobertaTokenizer.from_pretrained('/data/project/rw/rung/model/roberta-large/')
+tokenizer = RobertaTokenizer.from_pretrained('roberta-large')
 def make_batch_window(sessions):
     batch_input, batch_labels = [], []
     for session in sessions:

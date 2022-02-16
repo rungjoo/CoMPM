@@ -129,8 +129,8 @@ class IEMOCAP_loader(Dataset):
         context = []
         context_speaker = []
         self.speakerNum = []
-        pos = ['exc', 'hap']
-        neg = ['ang', 'fru', 'sad']
+        pos = ['ang', 'exc', 'hap']
+        neg = ['fru', 'sad']
         neu = ['neu']
         emodict = {'ang': "angry", 'exc': "excited", 'fru': "frustrated", 'hap': "happy", 'neu': "neutral", 'sad': "sad"}
         self.sentidict = {'positive': pos, 'negative': neg, 'neutral': neu}
