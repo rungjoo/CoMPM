@@ -1,4 +1,5 @@
 model.bin
+model.tar.gz
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
