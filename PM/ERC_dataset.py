@@ -189,35 +189,3 @@ class DD_loader(Dataset):
 
     def __getitem__(self, idx):
         return self.dialogs[idx], self.labelList, self.sentidict
-    
-class EDOS_loader(Dataset):
-    def __init__(self, txt_file, dataclass):
-        self.dialogs = []
-        
-        f = open(txt_file, 'r')
-        dataset = f.readlines()
-        f.close()
-        
-        self.labelSet = set()
-        
-        # ['angry', 'furious', 'prepared', 'acknowledging', 'trusting', 'confident', 'hopeful', 'caring', 'sentimental', 'anticipating', 'wishing', 'surprised', 'ashamed', 'questioning', 'sad', 'nostalgic', 'devastated', 'terrified', 'embarrassed', 'lonely', 'encouraging', 'suggesting', 'content', 'afraid', 'impressed', 'agreeing', 'apprehensive', 'proud', 'annoyed', 'anxious', 'grateful', 'excited', 'neutral', 'faithful', 'guilty', 'consoling', 'disgusted', 'disappointed', 'jealous', 'joyful', 'sympathizing']
-        
-        # emodict = {'anger': "anger", 'disgust': "disgust", 'fear': "fear", 'happiness': "happy", 'neutral': "neutral", 'sadness': "sad", 'surprise': "surprise"}
-        self.sentidict = {}
-        
-        for i, data in enumerate(dataset):
-            if data == '\n' and len(self.dialogs) > 0:
-                continue
-            speaker, utt, emo, emo_confidence = data.strip().split('\t')
-            
-            self.dialogs.append([utt, emo, None])
-            self.labelSet.add(emo)
-        
-        self.labelList = sorted(self.labelSet)
-        self.speakerNum.append(len(temp_speakerList))
-        
-    def __len__(self):
-        return len(self.dialogs)
-
-    def __getitem__(self, idx):
-        return self.dialogs[idx], self.labelList, self.sentidict    

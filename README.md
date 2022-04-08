@@ -46,6 +46,12 @@ cd CoMPM
 python3 train.py {--options}
 ```
 
+**For PM**
+```bash
+cd PM
+python3 train.py {--options}
+```
+
 ## Testing with pretrained CoMPM
 - [Google drive](https://drive.google.com/drive/folders/1VkKygJeI3Qb-kwxMMesFBl7I4uVqGMJF?usp=sharing)
 - Unpack model.tar.gz and place it in {dataset}_models/roberta-large/pretrained/no_freeze/{class}/{sampling}/model.bin
