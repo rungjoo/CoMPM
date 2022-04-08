@@ -16,7 +16,8 @@ Each data is split into train/dev/test in the [dataset folder](https://github.co
 4. [EmoryNLP](https://github.com/emorynlp/emotion-detection)
 
 ## Train
-*For CoMPM, CoMPM(s), CoMPM(f)*
+**For CoMPM, CoMPM(s), CoMPM(f)**
+
 Options
 - pretrained: type of model (CoM and PM)
 - initial: initial weights of the model
@@ -29,7 +30,8 @@ Options
 python3 train.py --initial {pretrained or scratch} --cls {emotion or sentiment} --dataset {dataset} {--freeze}
 ```
 
-*For a combination of CoM and PM (different model)*
+**For a combination of CoM and PM (different model)**
+
 Options
 - context_type: type of CoM
 - speaker_type: type of PM
@@ -38,7 +40,7 @@ cd CoMPM_diff
 python3 train.py {--options}
 ```
 
-*For CoMPM*
+**For CoMPM**
 ```bash
 cd CoMPM
 python3 train.py {--options}
