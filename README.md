@@ -9,14 +9,14 @@ The overall flow of our model
 4. sklearn
 
 ## Datasets
-Each data is split into train/dev/test in the dataset folder.
-1. [IEMOCAP](https://github.com/lijuncen/Sentiment-and-Style-Transfer)
-2. [DailyDialog](https://github.com/lijuncen/Sentiment-and-Style-Transfer/tree/master/data)
-3. [MELD](https://github.com/luofuli/DualRL/tree/master/references)
-4. [EmoryNLP]()
+Each data is split into train/dev/test in the [dataset folder](https://github.com/rungjoo/CoMPM/tree/master/dataset).
+1. [IEMOCAP](https://sail.usc.edu/iemocap/iemocap_publication.htm)
+2. [DailyDialog](http://yanran.li/dailydialog.html)
+3. [MELD](https://github.com/declare-lab/MELD/)
+4. [EmoryNLP](https://github.com/emorynlp/emotion-detection)
 
 ## Train
-For CoMPM, CoMPM(s), CoMPM(f)
+*For CoMPM, CoMPM(s), CoMPM(f)*
 Options
 - pretrained: type of model (CoM and PM)
 - initial: initial weights of the model
@@ -29,7 +29,7 @@ Options
 python3 train.py --initial {pretrained or scratch} --cls {emotion or sentiment} --dataset {dataset} {--freeze}
 ```
 
-For a combination of CoM and PM (different model)
+*For a combination of CoM and PM (different model)*
 Options
 - context_type: type of CoM
 - speaker_type: type of PM
@@ -38,7 +38,7 @@ cd CoMPM_diff
 python3 train.py {--options}
 ```
 
-For CoMPM
+*For CoMPM*
 ```bash
 cd CoMPM
 python3 train.py {--options}
