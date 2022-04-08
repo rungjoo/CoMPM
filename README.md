@@ -40,15 +40,9 @@ cd CoMPM_diff
 python3 train.py {--options}
 ```
 
-**For CoMPM**
+**For CoM or PM**
 ```bash
-cd CoMPM
-python3 train.py {--options}
-```
-
-**For PM**
-```bash
-cd PM
+cd CoM or PM
 python3 train.py {--options}
 ```
 
