@@ -191,11 +191,11 @@ if __name__ == '__main__':
     
     """Parameters"""
     parser  = argparse.ArgumentParser(description = "Emotion Classifier" )
-    parser.add_argument( "-dataset", help = 'MELD or EMORY or iemocap or dailydialog', default = 'MELD')
+    parser.add_argument( "--dataset", help = 'MELD or EMORY or iemocap or dailydialog', default = 'MELD')
     
-    parser.add_argument( "-pretrained", help = 'roberta-large', default = 'roberta-large')
+    parser.add_argument( "--pretrained", help = 'roberta-large', default = 'roberta-large')
     parser.add_argument('-dya', '--dyadic', action='store_true', help='dyadic conversation')
-    parser.add_argument( "-cls", help = 'emotion or sentiment', default = 'emotion')
+    parser.add_argument( "--cls", help = 'emotion or sentiment', default = 'emotion')
         
     args = parser.parse_args()
     

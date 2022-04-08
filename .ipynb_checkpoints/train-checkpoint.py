@@ -6,7 +6,7 @@ import torch
 import torch.nn as nn
 
 from transformers import RobertaTokenizer
-from ERC_dataset import MELD_loader, Emory_loader, IEMOCAP_loader, DD_loader, EDOS_loader
+from ERC_dataset import MELD_loader, Emory_loader, IEMOCAP_loader, DD_loader
 from model import ERC_model
 # from ERCcombined import ERC_model
 
@@ -55,10 +55,7 @@ def main():
         DATA_loader = IEMOCAP_loader
     elif dataset == 'dailydialog':
         data_path = '../dataset/dailydialog/'
-        DATA_loader = DD_loader
-    elif dataset == 'EDOS':
-        data_path = '../dataset/EDOS/'
-        DATA_loader = EDOS_loader        
+        DATA_loader = DD_loader    
         
     if 'roberta' in model_type:
         make_batch = make_batch_roberta
@@ -171,27 +168,6 @@ def main():
                 
                 best_epoch = epoch
                 _SaveModel(model, save_path)
-                
-        elif dataset == 'EDOS': # EDOS
-            dev_acc, dev_pred_list, dev_label_list = _CalACC(model, dev_dataloader)
-            dev_pre, dev_rec, dev_f_macro, _ = precision_recall_fscore_support(dev_label_list, dev_pred_list, average='macro')
-            dev_pre, dev_rec, dev_f_weighted, _ = precision_recall_fscore_support(dev_label_list, dev_pred_list, average='weighted')
-
-            """Best Score & Model Save"""
-            if dev_f_macro > best_dev_fscore:
-                best_dev_fscore = dev_f_macro
-                
-                test_acc, test_pred_list, test_label_list = _CalACC(model, test_dataloader)
-                test_pre, test_rec, test_f_macro, _ = precision_recall_fscore_support(test_label_list, test_pred_list, average='macro')
-                test_pre, test_rec, test_f_weighted, _ = precision_recall_fscore_support(test_label_list, test_pred_list, average='weighted')
-                
-                best_epoch = epoch
-                _SaveModel(model, save_path)
-            if test_f_macro > best_test_fscore:
-                best_test_fscore = test_f_macro
-                best_test_acc = test_acc
-                best_epoch = epoch
-                
         else: # weight
             dev_acc, dev_pred_list, dev_label_list = _CalACC(model, dev_dataloader)
             dev_pre, dev_rec, dev_fbeta, _ = precision_recall_fscore_support(dev_label_list, dev_pred_list, average='weighted')
@@ -210,18 +186,13 @@ def main():
             logger.info('Epoch: {}'.format(epoch))
             if dataset == 'dailydialog': # micro & macro
                 logger.info('Devleopment ## accuracy: {}, macro-fscore: {}, micro-fscore: {}'.format(dev_acc, dev_fbeta_macro, dev_fbeta_micro))
-                logger.info('')
-            elif dataset == 'EDOS': # EDOS
-                logger.info('Devleopment ## accuracy: {}, macro-fscore: {}, weighted-fscore: {}'.format(dev_acc, dev_f_macro, dev_f_weighted))
-                logger.info('')            
+                logger.info('') 
             else:
                 logger.info('Devleopment ## accuracy: {}, precision: {}, recall: {}, fscore: {}'.format(dev_acc, dev_pre, dev_rec, dev_fbeta))
                 logger.info('')
         
     if dataset == 'dailydialog': # micro & macro
-        logger.info('Final Fscore ## test-accuracy: {}, test-macro: {}, test-micro: {}, test_epoch: {}'.format(test_acc, test_fbeta_macro, test_fbeta_micro, best_epoch)) 
-    elif dataset == 'EDOS': # EDOS
-        logger.info('Final Fscore ## test-accuracy: {}, test-macro: {}, test-weighted: {}, test_epoch: {}'.format(test_acc, test_f_macro, test_f_weighted, best_epoch)) 
+        logger.info('Final Fscore ## test-accuracy: {}, test-macro: {}, test-micro: {}, test_epoch: {}'.format(test_acc, test_fbeta_macro, test_fbeta_micro, best_epoch))
     else:
         logger.info('Final Fscore ## test-accuracy: {}, test-fscore: {}, test_epoch: {}'.format(test_acc, test_fbeta, best_epoch))         
     
@@ -269,7 +240,7 @@ if __name__ == '__main__':
     parser.add_argument( "--lr", type=float, help = "learning rate", default = 1e-6) # 1e-5
     parser.add_argument( "--sample", type=float, help = "sampling trainign dataset", default = 1.0) # 
 
-    parser.add_argument( "--dataset", help = 'MELD or EMORY or iemocap or dailydialog or EDOS', default = 'MELD')
+    parser.add_argument( "--dataset", help = 'MELD or EMORY or iemocap or dailydialog', default = 'MELD')
     
     parser.add_argument( "--pretrained", help = 'roberta-large or bert-large-uncased or gpt2 or gpt2-large or gpt2-medium', default = 'roberta-large')    
     parser.add_argument( "--initial", help = 'pretrained or scratch', default = 'pretrained')
