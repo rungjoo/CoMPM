@@ -58,12 +58,12 @@ python3 test.py
 ```
 Test result for one seed. In the paper, the performance of CoMPM was reported as an average of three seeds.
 
-| Model | Dataset | Performace: one seed (paper) |
+| Model | Dataset (emotion) | Performace: one seed (paper) |
 | :------: | :-------: | :-------: | 
-| CoMPM | IEMOCAP (emotion) | 66.33 (66.33) |
-| CoMPM | DailyDialog (emotion) | 52.46/60.41 (53.15/60.34) |
-| CoMPM | MELD (emotion) | 65.53 (66.52) |
-| CoMPM | EmoryNLP (emotion) | 38.56 (37.37) |
+| CoMPM | IEMOCAP | 66.33 (66.33) |
+| CoMPM | DailyDialog | 52.46/60.41 (53.15/60.34) |
+| CoMPM | MELD | 65.53 (66.52) |
+| CoMPM | EmoryNLP | 38.56 (37.37) |
 
 ## Citation
 
