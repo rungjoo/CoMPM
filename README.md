@@ -18,41 +18,60 @@ Each data is split into train/dev/test in the [dataset folder](https://github.co
 ## Train
 **For CoMPM, CoMPM(s), CoMPM(f)**
 
-Options
-- pretrained: type of model (CoM and PM)
-- initial: initial weights of the model
-- cls: label class
+Argument
+- pretrained: type of model (CoM and PM) (default: roberta-large)
+- initial: initial weights of the model (pretrained or scratch) (default: pretrained)
+- cls: label class (emotion or sentiment) (default: emotion)
 - dataset: one of 4 dataset (dailydialog, EMORY, iemocap, MELD)
-- sample: ratio of the number of the train dataset
+- sample: ratio of the number of the train dataset (default: 1.0)
 - freeze: Whether to learn the PM or not
 
 ```bash
 python3 train.py --initial {pretrained or scratch} --cls {emotion or sentiment} --dataset {dataset} {--freeze}
 ```
 
-**For a combination of CoM and PM (different model)**
+**For a combination of CoM and PM (based on different model)**
 
-Options
+Argument
 - context_type: type of CoM
 - speaker_type: type of PM
 ```bash
 cd CoMPM_diff
-python3 train.py {--options}
+python3 train.py {--argument}
 ```
 
 **For CoM or PM**
 ```bash
 cd CoM or PM
-python3 train.py {--options}
+python3 train.py {--argument}
 ```
 
 ## Testing with pretrained CoMPM
 - [Google drive](https://drive.google.com/drive/folders/1VkKygJeI3Qb-kwxMMesFBl7I4uVqGMJF?usp=sharing)
-- Unpack model.tar.gz and place it in {dataset}_models/roberta-large/pretrained/no_freeze/{class}/{sampling}/model.bin
+- Unpack model.tar.gz and replace it in {dataset}_models/roberta-large/pretrained/no_freeze/{class}/{sampling}/model.bin
     - dataset: dailydialog, EMORY, iemocap, MELD
     - class: "emotion" or "sentiment"
     - sampling: 0.0 ~ 1.0, default: 1.0
     
 ```bash
 python3 test.py
+```
+Test result for one seed. In the paper, the performance of CoMPM was reported as an average of three seeds.
+
+| Model | Dataset | Performace (one seed (paper)) |
+| :------: | :-------: | :-------: | 
+| CoMPM | IEMOCAP (emotion) | 66.33 (66.33) |
+| CoMPM | DailyDialog (emotion) | 52.46/60.41 (53.15/60.34) |
+| CoMPM | MELD (emotion) | 65.53 (66.52) |
+| CoMPM | EmoryNLP (emotion) | 38.56 (37.37) |
+
+## Citation
+
+```bibtex
+@article{lee2021compm,
+  title={CoMPM: Context Modeling with Speaker's Pre-trained Memory Tracking for Emotion Recognition in Conversation},
+  author={Lee, Joosung and Lee, Wooin},
+  journal={arXiv preprint arXiv:2108.11626},
+  year={2021}
+}
 ```

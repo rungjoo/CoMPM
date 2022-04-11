@@ -45,8 +45,6 @@ def main():
     
     """Log"""
     log_path = os.path.join('test.log')
-    if not os.path.exists(save_path):
-        os.makedirs(save_path)
     fileHandler = logging.FileHandler(log_path)
     logger.addHandler(streamHandler)
     logger.addHandler(fileHandler)    
