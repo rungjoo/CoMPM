@@ -68,10 +68,17 @@ Test result for one seed. In the paper, the performance of CoMPM was reported as
 ## Citation
 
 ```bibtex
-@article{lee2021compm,
-  title={CoMPM: Context Modeling with Speaker's Pre-trained Memory Tracking for Emotion Recognition in Conversation},
-  author={Lee, Joosung and Lee, Wooin},
-  journal={arXiv preprint arXiv:2108.11626},
-  year={2021}
+@inproceedings{lee-lee-2022-compm,
+    title = "{C}o{MPM}: Context Modeling with Speaker{'}s Pre-trained Memory Tracking for Emotion Recognition in Conversation",
+    author = "Lee, Joosung  and
+      Lee, Wooin",
+    booktitle = "Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+    month = jul,
+    year = "2022",
+    address = "Seattle, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.naacl-main.416",
+    doi = "10.18653/v1/2022.naacl-main.416",
+    pages = "5669--5679",
 }
 ```
