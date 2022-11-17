@@ -47,7 +47,7 @@ python3 train.py {--argument}
 ```
 
 ## Testing with pretrained CoMPM
-- [Google drive](https://drive.google.com/drive/folders/1VkKygJeI3Qb-kwxMMesFBl7I4uVqGMJF?usp=sharing)
+- [Google drive](https://drive.google.com/file/d/1gnjsPCizidd3OXJMN4-cPa2KJ2bxFgQy/view?usp=share_link)
 - Unpack model.tar.gz and replace it in {dataset}_models/roberta-large/pretrained/no_freeze/{class}/{sampling}/model.bin
     - dataset: dailydialog, EMORY, iemocap, MELD
     - class: "emotion" or "sentiment"
