@@ -18,6 +18,8 @@ Each data is split into train/dev/test in the [dataset folder](https://github.co
 ## Train
 **For CoMPM, CoMPM(s), CoMPM(f)**
 
+[In this code, the batch size = 1. We do not add padding when the batch is greater than 1.](https://github.com/rungjoo/CoMPM/issues/2)
+
 Argument
 - pretrained: type of model (CoM and PM) (default: roberta-large)
 - initial: initial weights of the model (pretrained or scratch) (default: pretrained)
